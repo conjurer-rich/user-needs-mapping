@@ -73,18 +73,18 @@ plugins:
 
 author:
   name   : "Rich Allen"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/Rich Allen Profile - Cropped Square - Colour.jpeg"
   bio    : "Team Topologies Valued Practitioner."
-  #links:
-   # - label: "Website"
-    #  icon: "fas fa-fw fa-link"
-    #  url: "https://"
+  links:
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://betterteamdynamics.com"
     #- label: "Twitter"
     #  icon: "fab fa-fw fa-twitter-square"
     #  url: "https://twitter.com/"
-    #- label: "GitHub"
-    #  icon: "fab fa-fw fa-github"
-    #  url: "https://github.com/"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/conjurer-rich"
     #- label: "Instagram"
     #  icon: "fab fa-fw fa-instagram"
     #  url: "https://instagram.com/"
