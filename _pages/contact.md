@@ -13,7 +13,7 @@ header:
 <i class="fa-brands fa-bluesky" title="Blue Sky"></i>
 [@rich-allen.bsky.social](https://bsky.app/profile/rich-allen.bsky.social)
 <i class="fa-brands fa-linkedin" title="LinkedIn"></i>
-[in/hofstef](https://www.linkedin.com/in/richardallen/)  
+[in/richardallen](https://www.linkedin.com/in/richardallen/)  
 <i class="fas fa-envelope" title="Email"></i>
 [rich@userneedsmapping.com](mailto:rich@userneedsmapping.com)
 
