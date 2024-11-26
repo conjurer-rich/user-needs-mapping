@@ -15,12 +15,11 @@
 # in the templates via {{ site.myvariable }}.
 title: "User Needs Mapping"
 title_separator: "-"
-email:
-url: "https://userneedsmapping.com/" 
+subtitle: "Everything starts with user needs" # site tagline that appears below site title in masthead
+name: "Rich Allen with ❤️ from Conjurer Solutions Ltd"
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  A collaborative, visual approach to finding team and service boundaries
+url: "https://userneedsmapping.com/" 
 twitter_username: rich_allen  
 github_username: conjurer-rich
 minimal_mistakes_skin: default
