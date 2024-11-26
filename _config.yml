@@ -13,21 +13,28 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
+locale                   : "en"
 title: "User Needs Mapping"
 title_separator: "-"
 subtitle: "Everything starts with user needs" # site tagline that appears below site title in masthead
+logo: # path of logo image to display in the masthead, e.g. "/assets/assets/images/88x88.png"
 name: "Rich Allen with ❤️ from Conjurer Solutions Ltd"
 description: >- # this means to ignore newlines until "baseurl:"
   A collaborative, visual approach to finding team and service boundaries
 url: "https://userneedsmapping.com/" 
+baseurl: # the subpath of your site, e.g. "/blog"
 twitter_username: rich_allen  
 github_username: conjurer-rich
-minimal_mistakes_skin: default
+repository: "conjurer-rich/user-needs-mapping" # GitHub username/repo-name
+minimal_mistakes_skin: "contrast" # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 search: true
+masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
+breadcrumbs              : false # true, false (default)
 
 # Build settings
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
+
 # Outputting
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
@@ -36,6 +43,12 @@ timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 include:
   - _pages
+
+# Collections
+collections:
+  articles:
+    output: true
+    permalink: /:collection/:path/
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
@@ -59,34 +72,43 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
+  name   : "Rich Allen"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
-  links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+  bio    : "Team Topologies Valued Practitioner."
+  #links:
+   # - label: "Website"
+    #  icon: "fas fa-fw fa-link"
+    #  url: "https://"
+    #- label: "Twitter"
+    #  icon: "fab fa-fw fa-twitter-square"
+    #  url: "https://twitter.com/"
+    #- label: "GitHub"
+    #  icon: "fab fa-fw fa-github"
+    #  url: "https://github.com/"
+    #- label: "Instagram"
+    #  icon: "fab fa-fw fa-instagram"
+    #  url: "https://instagram.com/"
 
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
-    - label: "GitHub"
+    - label: "Improve this page"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://github.com/conjurer-rich/user-needs-mapping"
+    - label: "Licensed CC-BY-4.0"
+      icon: "fab fa-creative-commons"
+      url: "http://creativecommons.org/licenses/by/4.0/"
+    - label: "Imprint"
+      icon: "fas fa-balance-scale"
+      url: "https://www.conjurersolutions.co.uk"
+    - label: "Privacy"
+      icon: "fas fa-user-shield"
+      url: "https://www.conjurersolutions.co.uk/privacy-policy"
+    - label: "Contact"
+      icon: "fas fa-handshake"
+      url: "/contact"
+
+atom_feed:
+  hide: true
 
 defaults:
   # _posts
@@ -111,6 +133,7 @@ defaults:
 category_archive:
   type: liquid
   path: /categories/
+  
 tag_archive:
   type: liquid
   path: /tags/
