@@ -16,7 +16,7 @@
 locale                   : "en"
 title: "User Needs Mapping"
 title_separator: "-"
-subtitle: "Everything starts with user needs" # site tagline that appears below site title in masthead
+subtitle: "Clarify team and service boundaries with confidence" # site tagline that appears below site title in masthead
 logo: "/assets/images/user-needs-mapping-logo.png" # path of logo image to display in the masthead, e.g. "/assets/assets/images/88x88.png"
 name: "Rich Allen with ❤️ from Conjurer Solutions Ltd"
 description: >- # this means to ignore newlines until "baseurl:"
