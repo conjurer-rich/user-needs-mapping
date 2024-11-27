@@ -1,4 +1,6 @@
 main:
+  - title: "Quick start"
+    url: /quick-start-guide
   - title: "Training"
     url: /training
   - title: "Contact"
