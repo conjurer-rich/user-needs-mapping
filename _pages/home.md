@@ -66,4 +66,4 @@ Even if insights feel predictable, the structured discussions fostered by UNM pr
 UNM has grown from a personal “itch to scratch” into a trusted technique embraced by practitioners worldwide. Its simplicity and adaptability make it an invaluable part of any team’s toolkit when designing humane and effective ways of working.
 
 ## Learn More
-Interested in exploring User Needs Mapping for your organization? Check out our [resources](./resources) or [get in touch](./contact) to learn how it can help you define clear team boundaries and services to deliver value faster.
+Interested in exploring User Needs Mapping for your organization? Check out our [resources](./quick-start-guide) or [get in touch](./contact) to learn how it can help you define clear team boundaries and services to deliver value faster.
