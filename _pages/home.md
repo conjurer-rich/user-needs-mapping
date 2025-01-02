@@ -38,15 +38,6 @@ The UNM process involves:
 
 4. **Validating with Teams:** Engage your teams in discussions to refine groupings and align on shared understanding.
 
-## Real-World Impact
-Here’s how a Head of Delivery in a government organization used UNM:
-
-**Problem:** Organizing people and teams around the user journey while identifying the necessary capabilities.
-
-**Outcome:** Defined clear team boundaries, clarified service ownership, and decomposed platform teams for a new service.
-
-**Key Insight:** The technique provided a structure for team discussions, leading to better alignment and actionable decisions.
-
 ## Common Challenges and Tips
 While UNM is intuitive, some challenges may arise:
 
