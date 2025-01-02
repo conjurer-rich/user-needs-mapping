@@ -12,10 +12,7 @@ read_more:
 external_links:
 
 ---
-
-# Welcome to User Needs Mapping
-
-**Discover the practical approach to aligning teams, reducing cognitive load, and delivering value faster.**
+## Discover the practical approach to aligning teams, reducing cognitive load, and delivering value faster.
 
 Modern organizations face constant challenges: misaligned teams, communication bottlenecks, and increasing complexity. User Needs Mapping offers a clear, actionable path forward. By focusing on your users and their needs, this technique helps you uncover insights, define team boundaries, and improve the flow of value throughout your organization.
 
