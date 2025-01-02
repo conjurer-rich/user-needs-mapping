@@ -89,4 +89,4 @@ Ready to empower your teams and transform your organization? Let’s work togeth
 
 ---
 
-For in-house training tailored to your specific needs, [you can book here](https://get.betterteamdynamics.com/).
+For in-house enablement tailored to your specific needs, [you can book here](https://get.betterteamdynamics.com/).
