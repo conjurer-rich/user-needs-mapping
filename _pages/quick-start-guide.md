@@ -31,6 +31,7 @@ A team at a cinema ticketing platform is struggling with several issues:
 - Clarify user needs at each stage of the moviegoer’s journey.  
 - Identify the capabilities required to meet those needs.  
 - Visualize dependencies to inform better **team and service boundaries**.
+  
 ---
 
 ## The Moviegoer Journey
@@ -138,6 +139,7 @@ Once sufficient needs and capabilities are mapped:
 - A **Shared Platform Team** might manage **Geo-Location Services** and **Showtime Schedules** to avoid duplication.  
 
 ![Movie goer journey](/assets/images/Movie-goer-wider-journey-initial-team-overlay.png)
+
 ---
 
 ## Step 7: Iterate and Evolve
