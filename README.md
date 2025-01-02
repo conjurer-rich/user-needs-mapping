@@ -1,6 +1,6 @@
 # userneedsmapping.com  
 ---
-The website for User Needs Mapping 
+The website for User Needs Mapping [![CC BY 4.0][cc-by-shield]][cc-by]
 
 ## Development
 ---
