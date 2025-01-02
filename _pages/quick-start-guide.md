@@ -36,6 +36,24 @@ A team at a cinema ticketing platform is struggling with several issues:
 
 ## The Moviegoer Journey
 
+Consider our user the "Movie Goer". We might consider that they have the following core job to be done:
+
+> Enjoy a movie experience that meets my personal preferences in an easy and stress-free way.
+
+If we summarize what they are trying to achieve in a simple statement it might look something like this:
+
+> When I want to relax or spend quality time with others, I want to choose, book, and attend a movie that matches my preferences and schedule, so that I feel entertained and confident my plans will go smoothly.
+
+Within this statement we can identify some core jobs that need to be done:
+
+1. **Functional job**: Choose and watch a movie I like at a convenient time and location.
+2. **Emotional job**: Feel entertained, relaxed, or inspired by the movie
+3. **Emotional job**: Feel confident that my plans will go smoothly
+4. **Social job**: Enjoy quality time with friends or family
+5. **Social job**: Share my experience to connect with others or influence their choices
+
+When considering the stages of the journey a user might take to get a job done, it can be useful to consider them in terms of the stages of a [**job map**](https://jobs-to-be-done.com/mapping-the-job-to-be-done-45336427b3bc). A job map does not show what the customer is doing (a solution view); rather, it describes what the customer is trying to get done (a needs view). We can use each stage of the job map to identify steps that the user might take as part of their journey.
+
 Let’s break the moviegoer’s journey into simple, relatable stages:
 
 1. **Discover a movie**: The moviegoer wants to find a movie that matches their interests.  
@@ -45,11 +63,9 @@ Let’s break the moviegoer’s journey into simple, relatable stages:
 5. **Attend the movie**: They need a smooth experience entering the cinema and enjoying pre-booked concessions.  
 6. **Provide feedback**: They want to share their experience or leave a review.  
 
-Each of these stages represents a **desired outcome** that the system must support through its capabilities.
+Each of these stages represents a **user goal** that the system must support through its capabilities.
 
 ![Movie goer journey](/assets/images/Movie-goer-journey.png)
-
-When considering the stages of a user journey it can be useful to consider them in terms of stages of a [**job map**](https://jobs-to-be-done.com/mapping-the-job-to-be-done-45336427b3bc). A job map 
 
 ---
 
