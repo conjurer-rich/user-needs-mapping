@@ -1,10 +1,10 @@
 ---
 title: "From chaos to clarity: How Passenger aligned teams using User Needs Mapping"
-layout: splash 
 description: "Discover how Passenger used User Needs Mapping to reduce cognitive load, align teams, and improve flow in a growing organization."
 date: 2025-01-02
 categories: [team-alignment, user-needs-mapping, case-study]
 tags: [User Needs Mapping, Wardley Mapping, Team Topologies, cognitive load, organizational design]
+author: richallen
 ---
 
 # From chaos to clarity: How Passenger aligned teams using User Needs Mapping
