@@ -7,8 +7,6 @@ tags: [User Needs Mapping, Wardley Mapping, Team Topologies, cognitive load, org
 author: richallen
 ---
 
-# From chaos to clarity: How Passenger aligned teams using User Needs Mapping
-
 As organizations grow, maintaining alignment and clear communication becomes increasingly challenging. For Passenger, a mobile ticketing solutions provider, these challenges came to a head as their team structure struggled to keep up with rapid growth and shifting user needs. Using **User Needs Mapping**, Passenger was able to uncover opportunities for better alignment, reduce cognitive load, and improve the flow of value delivery. This case study explores how they achieved these results.
 
 ---
