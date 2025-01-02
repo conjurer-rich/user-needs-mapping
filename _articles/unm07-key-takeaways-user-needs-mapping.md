@@ -1,10 +1,10 @@
 ---
 title: "From theory to practice: Key takeaways for implementing User Needs Mapping"
-layout: splash
 description: "Discover actionable insights and practical tips for successfully implementing User Needs Mapping in your organization."
 date: 2025-01-02
 categories: [team-alignment, user-needs-mapping, implementation]
 tags: [User Needs Mapping, Wardley Mapping, Team Topologies, organizational design, cognitive load]
+author: richallen
 ---
 
 # From theory to practice: Key takeaways for implementing User Needs Mapping
