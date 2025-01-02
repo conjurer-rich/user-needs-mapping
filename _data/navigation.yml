@@ -3,5 +3,7 @@ main:
     url: /quick-start-guide
   - title: "Training"
     url: /training
+  - title: "Articles"
+    url: /articles
   - title: "Contact"
     url: /contact
