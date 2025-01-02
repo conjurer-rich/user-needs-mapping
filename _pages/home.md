@@ -5,7 +5,7 @@ layout: splash
 header: 
   overlay_color: "#f59542"
   overlay_filter: rgba(245, 149, 66, 0.6)
-  overlay_image: /assets/images/movie-goer-full-user-needs-map.png
+  #overlay_image: /assets/images/movie-goer-full-user-needs-map.png
 
 read_more:
 
@@ -13,6 +13,7 @@ external_links:
 
 ---
 
+![Profile photo of Rich](/assets/images/Movie-goer-full-user-needs-map.png)
 
 ## What is User Needs Mapping?
 User Needs Mapping (UNM) is a powerful technique designed to help organizations understand their users’ journeys and identify the underlying capabilities required to support them. By combining principles from Wardley Mapping, User Journeys, and Team Topologies, UNM offers a structured approach to define effective team boundaries and service ownership.
