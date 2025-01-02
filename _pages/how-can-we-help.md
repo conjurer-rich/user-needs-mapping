@@ -6,6 +6,7 @@ description: "Learn, grow, and transform with tailored workshops, hands-on enabl
 classes: wide
 header: 
   overlay_color: "#f59542"
+  overlay_image: /assets/images/workshop-talking.jpg
 redirect_from:
   - /training
 ---
