@@ -1,4 +1,5 @@
 ---
+permalink: /enablement
 title: "Enablement Services"
 layout: splash
 description: "Partner with an enabling team to upskill, empower, and drive sustainable change through User Needs Mapping."
