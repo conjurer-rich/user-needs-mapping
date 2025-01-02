@@ -111,10 +111,10 @@ atom_feed:
   hide: true
 
 defaults:
-  # _posts
+  # _articles
   - scope:
       path: ""
-      type: posts
+      type: articles
     values:
       layout: single
       author_profile: true
