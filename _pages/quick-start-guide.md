@@ -9,7 +9,7 @@ toc_sticky: true
 toc_label: "Quick-Start Guide"
 header: 
   overlay_color: "#f59542"
-  overlay_image: /assets/images/workshop-talking.jpeg
+  overlay_image: /assets/images/workshop-talking.jpg
 ---
 # Quick Start Guide: Building a User Needs Map with an example
 
