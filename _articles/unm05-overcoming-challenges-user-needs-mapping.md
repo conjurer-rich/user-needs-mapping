@@ -1,10 +1,10 @@
 ---
 title: "User Needs Mapping in action: How to tackle common challenges"
-layout: splash
 description: "Explore solutions to common challenges in implementing User Needs Mapping and ensure a smoother process for aligning teams."
 date: 2025-01-02
 categories: [team-alignment, user-needs-mapping, problem-solving]
 tags: [User Needs Mapping, cognitive load, team alignment, organizational design, Wardley Mapping]
+author: richallen
 ---
 
 # User Needs Mapping in action: How to tackle common challenges
