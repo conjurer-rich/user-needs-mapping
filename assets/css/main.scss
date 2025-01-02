@@ -5,7 +5,7 @@ search: false
 
 @charset "utf-8";
 
-$primary-color: #f59542;
+$primary-color: #0EA2F1;
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
