@@ -4,7 +4,7 @@ title: "Welcome to User Needs Mapping"
 layout: splash
 header: 
   overlay_color: "#0EA2F1"
-  overlay_filter: rgba(245, 149, 66, 0.6)
+  overlay_filter: rgba(14,162,241,0.6)
   overlay_image: /assets/images/workshop-writing.jpg
 description: "Empower your teams, reduce complexity, and deliver value with User Needs Mapping. Start your journey today."
 
