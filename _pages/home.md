@@ -13,7 +13,7 @@ external_links:
 ---
 
 ## What is User Needs Mapping?
-User Needs Mapping (UNM) is a powerful technique designed to help organizations and teams understand the relationship between their users the underlying capabilities required to support them. Building upon principles from Wardley Mapping, Jobs to Be Done, User Journeys, and Team Topologies, UNM offers a structured approach to help define effective team boundaries and service ownership.
+User Needs Mapping (UNM) is a powerful technique designed to help organizations and teams understand the relationship between their users and the underlying capabilities required to support them. Building upon principles from Wardley Mapping, Jobs to Be Done, User Journeys, and Team Topologies, UNM offers a structured approach to help define effective team boundaries and service ownership.
 
 Born from the practical challenges of helping teams organize themselves around user needs, it has become a "go-to" tool within the Team Topologies community.
 
