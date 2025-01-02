@@ -7,8 +7,6 @@ categories: [jobs-to-be-done, user-needs, customer-insights]
 tags: [Jobs to Be Done, User Needs, team alignment, customer insights, organizational design]
 ---
 
-# Identifying User Needs Through the Lens of Jobs to Be Done
-
 Understanding your users’ needs is the cornerstone of delivering value. But what drives these needs? The **Jobs to Be Done (JTBD)** framework provides a powerful way to uncover the deeper motivations behind user actions. By identifying the "jobs" users are trying to accomplish, you can frame their needs in a way that guides strategic decisions and aligns your teams effectively.
 
 In this article, we’ll explore how to identify user needs through the JTBD lens, turning abstract motivations into actionable insights.
