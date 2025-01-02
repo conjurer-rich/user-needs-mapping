@@ -49,11 +49,13 @@ Each of these stages represents a **desired outcome** that the system must suppo
 
 ![Movie goer journey](/assets/images/Movie-goer-journey.png)
 
+When considering the stages of a user journey it can be useful to consider them in terms of stages of a [**job map**](https://jobs-to-be-done.com/mapping-the-job-to-be-done-45336427b3bc). A job map 
+
 ---
 
 ## Step 1: Start with a Specific User and Need
 
-![Movie goer journey](/assets/images/Movie-goer-find-a-movie.png){ .align-right }
+![Movie goer journey](/assets/images/Movie-goer-find-a-movie.png){: .align-right }
 
 We begin the mapping process with the first step in the moviegoer’s journey:  
 **"Discover a movie."**
