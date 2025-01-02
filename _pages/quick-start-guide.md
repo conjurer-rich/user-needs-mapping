@@ -1,6 +1,6 @@
 ---
 permalink: /quick-start-guide
-layout: page
+layout: single
 title: "Quick Start Guide: User Needs Mapping"
 description: "Learn how to get started with User Needs Mapping using a real-world moviegoer example."
 ---
