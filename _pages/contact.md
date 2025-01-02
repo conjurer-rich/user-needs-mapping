@@ -9,8 +9,15 @@ classes: wide
 ---
 
 ![Profile photo of Rich](/assets/images/Rich Allen Profile - Cropped Square - Colour.jpeg){: .align-right width="20%"}
+[![Team Topologies Valued Practitioner](/assets/images/teamtopologies-2021-TTVP-colour-blacktext-sm.png){: .align-right width="20%"}](https://teamtopologies.com/all-ttvp/rich-allen-ttvp)
 
-**Rich Allen** has been developing software and helping organisations implement lean and agile working methods for over two decades. Specializing in applying Continuous Improvement practices, he helps businesses uncover bottlenecks, highlight opportunities to optimise for flow, and introduce ways of encouraging feedback in a culture of continuous learning. Rich is also co-founder of the Developer South Coast technology user group in the UK which has been helping developers discover and learn about new technologies for over thirteen years..
+**Rich Allen** is a seasoned practitioner in software development, lean, and agile ways of working, with over two decades of experience driving meaningful change in organizations. As one of the longest-serving Team Topologies Valued Practitioners (TTVPs), Rich has played a pivotal role in helping organizations adopt fast flow and cognitive load principles through the thoughtful application of Team Topologies patterns and principles. Working closely with Matthew Skelton and Manuel Pais, Rich has been at the forefront of shaping modern approaches to team design and organizational effectiveness.
+
+With a passion for Continuous Improvement, Rich specializes in helping businesses uncover bottlenecks, identify opportunities for optimization, and establish cultures of continuous learning. Their approach centers on enabling feedback loops, improving flow efficiency, and fostering team autonomy. Rich is also the creator of User Needs Mapping, a groundbreaking technique for discovering team and service boundaries that has been widely adopted by organizations seeking to improve their team structures and value streams.
+
+Beyond their role as a consultant and advisor, Rich is a co-founder of the Developer South Coast technology user group in the UK, a community that has been helping developers explore and learn new technologies for over 13 years. With a BEng in Microelectronics and Computing from Bournemouth University, Rich brings a technical foundation that underpins their ability to bridge the gap between software development and organizational design.
+
+A relentless advocate for better ways of working, Rich continues to push the boundaries of team design, flow optimization, and cognitive load management. Their work reflects a commitment to creating environments where teams can thrive, deliver value faster, and maintain sustainable, humane ways of working.
 
 <i class="fa-brands fa-bluesky" title="Blue Sky"></i>
 [@rich-allen.bsky.social](https://bsky.app/profile/rich-allen.bsky.social)
