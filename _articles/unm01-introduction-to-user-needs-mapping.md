@@ -7,8 +7,6 @@ tags: [Wardley Mapping, Domain-Driven Design, Team Topologies, cognitive load, o
 author: richallen
 ---
 
-# Start with your users: An introduction to User Needs Mapping
-
 In today’s fast-paced and ever-changing business landscape, organizations face constant challenges in aligning their teams, structuring their services, and delivering value effectively. Misaligned teams, unclear boundaries, and overloaded communication channels can significantly hinder an organization’s ability to adapt and thrive. This is where **User Needs Mapping** comes into play.
 
 User Needs Mapping is a straightforward yet powerful technique designed to help organizations identify team and service boundaries that align with user needs. By starting with a clear understanding of who your users are and what they need, you can design your teams and systems to reduce cognitive load, improve flow, and deliver value more effectively. In this article, we’ll explore what User Needs Mapping is, why it’s essential, and how it differs from other frameworks like Wardley Mapping and Domain-Driven Design (DDD).
