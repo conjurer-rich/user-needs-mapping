@@ -1,18 +1,16 @@
 ---
-permalink: /training
-title: "Workshops, Training, and Consultancy"
+permalink: /how-can-we-help
+title: "How we can help with workshops, enablement, and consultancy"
 layout: splash
-description: "Learn, grow, and transform with tailored workshops, hands-on training, and expert consultancy in User Needs Mapping."
+description: "Learn, grow, and transform with tailored workshops, hands-on enablement, and expert consultancy in User Needs Mapping."
 classes: wide
 header: 
   overlay_color: "#f59542"
 ---
 
-# Workshops, Training, and Consultancy
-
 **Empower your teams and drive meaningful change with expert-led User Needs Mapping sessions.**
 
-Whether you're just starting your User Needs Mapping journey or looking to refine your approach, we offer tailored solutions to meet your needs. Our workshops, training programs, and consultancy services are designed to help you align teams, reduce complexity, and deliver value faster.
+Whether you're just starting your User Needs Mapping journey or looking to refine your approach, we offer tailored solutions to meet your needs. Our workshops, enablement programs, and consultancy services are designed to help you align teams, reduce complexity, and deliver value faster.
 
 ---
 
