@@ -51,7 +51,7 @@ Our enablement programs go beyond the basics to help your teams master User Need
 - On-site enablement tailored to your team.
 - Virtual programs for distributed organizations.
 
-[Explore training options.](/enablement)
+[Explore enablement options.](/enablement)
 
 ---
 
