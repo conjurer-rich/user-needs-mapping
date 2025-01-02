@@ -86,7 +86,7 @@ The user is browsing the platform, hoping to find a movie they’ll enjoy.
 
 ## Step 2: Identify the Capabilities Required
 
-![Movie goer journey](/assets/images/Movie-goer-find-a-movie-capabilities.png)
+![Movie goer journey](/assets/images/Movie-goer-find-a-movie-capabilities.png){: .align-right width="50%"}
 
 To meet this user need, we ask: **"What capabilities does the system need to provide?"**
 
@@ -95,6 +95,8 @@ To meet this user need, we ask: **"What capabilities does the system need to pro
 2. **Showtime Schedules**: Details about times and locations.  
 3. **Filtering & Sorting**: Tools to help users narrow their search.  
 4. **Trailers & Reviews**: Content that helps users decide if the movie is worth watching.
+
+
 
 ---
 
