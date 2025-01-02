@@ -1,10 +1,10 @@
 ---
 title: "From Wardley Maps to User Needs Mapping: Simplifying the journey to value"
-layout: splash
 description: "Explore the evolution of User Needs Mapping and its origins in Wardley Mapping and Domain-Driven Design."
 date: 2025-01-02
 categories: [team-alignment, user-needs-mapping, fast-flow]
 tags: [Wardley Mapping, Domain-Driven Design, Team Topologies, cognitive load, organizational design]
+author: richallen
 ---
 
 # From Wardley Maps to User Needs Mapping: Simplifying the journey to value
