@@ -5,7 +5,6 @@ layout: splash
 header: 
   overlay_color: "#f59542"
   overlay_filter: rgba(245, 149, 66, 0.6)
-  #overlay_image: /assets/images/movie-goer-full-user-needs-map.png
 
 read_more:
 
@@ -13,12 +12,12 @@ external_links:
 
 ---
 
-![Profile photo of Rich](/assets/images/Movie-goer-full-user-needs-map.png)
-
 ## What is User Needs Mapping?
-User Needs Mapping (UNM) is a powerful technique designed to help organizations understand their users’ journeys and identify the underlying capabilities required to support them. By combining principles from Wardley Mapping, User Journeys, and Team Topologies, UNM offers a structured approach to define effective team boundaries and service ownership.
+User Needs Mapping (UNM) is a powerful technique designed to help organizations and teams understand the relationship between their users the underlying capabilities required to support them. Building upon principles from Wardley Mapping, Jobs to Be Done, User Journeys, and Team Topologies, UNM offers a structured approach to help define effective team boundaries and service ownership.
 
 Born from the practical challenges of helping teams organize themselves around user needs, it has become a "go-to" tool within the Team Topologies community.
+
+![Profile photo of Rich](/assets/images/Movie-goer-full-user-needs-map.png)
 
 ## Why Use User Needs Mapping?
 Organizations often struggle with aligning their teams and services to deliver value effectively. UNM addresses this by:
@@ -31,13 +30,13 @@ Organizations often struggle with aligning their teams and services to deliver v
 ## How Does It Work?
 The UNM process involves:
 
-1. **Mapping the User Journey:** Understand the steps your users take and their specific needs at each stage.
+1. **Identifying users and needs:** Understand who your users are and what specific needs you are seeking to satisfy.
 
-2. **Identifying Capabilities:** Define the underlying technical or organizational capabilities required to support these user needs.
+2. **Identifying capabilities:** Define the underlying technical or organizational capabilities required to support these user needs.
 
-3. **Grouping Capabilities:** Organize capabilities into logical groupings, considering factors like team cognitive load and service ownership.
+3. **Grouping capabilities:** Organize capabilities into logical groupings, considering factors like team cognitive load and service ownership.
 
-4. **Validating with Teams:** Engage your teams in discussions to refine groupings and align on shared understanding.
+4. **Validating with teams:** Engage your teams in discussions to refine groupings and align on shared understanding.
 
 ## Common Challenges and Tips
 While UNM is intuitive, some challenges may arise:
@@ -54,7 +53,7 @@ While UNM is intuitive, some challenges may arise:
 ## Unexpected Benefits
 Even if insights feel predictable, the structured discussions fostered by UNM provide clarity and alignment across teams. Participants often leave with a deeper understanding of their organization’s needs and priorities.
 
-## Adopted Widely in the Team Topologies Community
+## Adopted widely in the Team Topologies Community
 UNM has grown from a personal “itch to scratch” into a trusted technique embraced by practitioners worldwide. Its simplicity and adaptability make it an invaluable part of any team’s toolkit when designing humane and effective ways of working.
 
 ## Learn More
