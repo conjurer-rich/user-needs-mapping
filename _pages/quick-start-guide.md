@@ -3,6 +3,7 @@ permalink: /quick-start-guide
 layout: single
 title: "Quick Start Guide: User Needs Mapping"
 description: "Learn how to get started with User Needs Mapping using a real-world moviegoer example."
+classes: wide
 ---
 # Quick Start Guide: Building a User Needs Map with a Moviegoer Example
 
