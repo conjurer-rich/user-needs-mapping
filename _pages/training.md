@@ -2,6 +2,7 @@
 permalink: /training
 title: "Training"
 layout: single
+classes: wide
 header: 
   overlay_color: "#f59542"
 ---
