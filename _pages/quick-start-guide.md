@@ -36,8 +36,6 @@ A team at a cinema ticketing platform is struggling with several issues:
 
 ## The Moviegoer Journey
 
-![Movie goer journey](/assets/images/Movie-goer-journey.png)
-
 Let’s break the moviegoer’s journey into simple, relatable stages:
 
 1. **Discover a movie**: The moviegoer wants to find a movie that matches their interests.  
@@ -47,7 +45,9 @@ Let’s break the moviegoer’s journey into simple, relatable stages:
 5. **Attend the movie**: They need a smooth experience entering the cinema and enjoying pre-booked concessions.  
 6. **Provide feedback**: They want to share their experience or leave a review.  
 
-Each of these stages represents a **user goal** that the system must support through its capabilities.
+Each of these stages represents a **desired outcome** that the system must support through its capabilities.
+
+![Movie goer journey](/assets/images/Movie-goer-journey.png)
 
 ---
 
