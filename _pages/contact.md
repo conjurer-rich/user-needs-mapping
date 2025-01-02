@@ -5,6 +5,7 @@ layout: single
 author_profile: false
 header: 
   overlay_color: "#f59542"
+classes: wide
 ---
 
 ![Profile photo of Rich](/assets/images/Rich Allen Profile - Cropped Square - Colour.jpeg){: .align-right width="20%"}
