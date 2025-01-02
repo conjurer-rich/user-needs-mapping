@@ -1,6 +1,6 @@
 ---
 title: "How to map your way to better teams: A step-by-step guide to User Needs Mapping"
-layout: post
+layout: splash
 description: "Learn the step-by-step process of User Needs Mapping to identify team and service boundaries for better alignment and flow."
 date: 2025-01-02
 categories: [team-alignment, user-needs-mapping, fast-flow]
