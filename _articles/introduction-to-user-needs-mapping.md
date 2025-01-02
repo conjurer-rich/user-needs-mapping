@@ -1,6 +1,6 @@
 ---
 title: "Start with your users: An introduction to User Needs Mapping"
-layout: post
+layout: splash
 description: "Discover how User Needs Mapping simplifies team alignment and delivers value by starting with your users."
 date: 2025-01-02
 categories: [team-alignment, user-needs-mapping, fast-flow]
