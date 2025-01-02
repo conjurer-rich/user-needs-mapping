@@ -7,8 +7,6 @@ categories: [team-alignment, user-needs-mapping, jobs-to-be-done]
 tags: [Jobs to Be Done, User Needs Mapping, team alignment, organizational design, customer insights]
 ---
 
-# Combining Jobs to Be Done with User Needs Mapping
-
 Understanding what drives your users is crucial for delivering products and services that truly meet their needs. While **Jobs to Be Done (JTBD)** focuses on uncovering the underlying motivations behind user actions, **User Needs Mapping** provides a framework for aligning teams and capabilities to meet those needs. Together, these methodologies offer a powerful approach to driving value and aligning your organization around user goals.
 
 In this article, we’ll explore how to combine Jobs to Be Done with User Needs Mapping, creating a complementary approach that uncovers deeper insights and informs team alignment.
