@@ -47,7 +47,7 @@ User Needs Mapping is:
 4. **Visualize dependencies:** Highlight bottlenecks and opportunities for improvement.
 5. **Align teams:** Design team boundaries that minimize complexity and maximize flow.
 
-Learn more about the [User Needs Mapping process](/articles/unm03-step-by-step-user-needs-mapping/).
+Learn more about the [User Needs Mapping process](/articles/2025-01-02-unm03-step-by-step-user-needs-mapping/).
 
 ---
 
@@ -55,16 +55,16 @@ Learn more about the [User Needs Mapping process](/articles/unm03-step-by-step-u
 
 **Transforming organizations, one map at a time.**
 
-- **Passenger Case Study:** Learn how a mobile ticketing company used User Needs Mapping to reduce cognitive load, improve team alignment, and scale their business. [Read the story.](/articles/unm04-case-study-passenger/)
+- **Passenger Case Study:** Learn how a mobile ticketing company used User Needs Mapping to reduce cognitive load, improve team alignment, and scale their business. [Read the story.](/articles/2025-01-02-unm04-case-study-passenger/)
 - **Practical insights:** See how organizations have bridged the gap between complexity and clarity with this technique.
 
 ---
 
 ## Resources to Get Started
 
-- [Step-by-step guide to User Needs Mapping](/articles/unm03-step-by-step-user-needs-mapping/)
-- [Common challenges and how to overcome them](/articles/unm05-overcoming-challenges-user-needs-mapping/)
-- [Key takeaways for success](/articles/unm07-key-takeaways-user-needs-mapping/)
+- [Step-by-step guide to User Needs Mapping](/articles/2025-01-02-unm03-step-by-step-user-needs-mapping/)
+- [Common challenges and how to overcome them](/articles/2025-01-02-unm05-overcoming-challenges-user-needs-mapping/)
+- [Key takeaways for success](/articles/2025-01-02-unm07-key-takeaways-user-needs-mapping/)
 
 Ready to dive deeper? Explore our [learning hub](/resources).
 
