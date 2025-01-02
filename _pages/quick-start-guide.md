@@ -145,7 +145,7 @@ Continue iterating through the user’s journey, mapping needs and capabilities 
 - **"Receive confirmation"**: Notification systems, QR code generation, and email delivery.  
 - **"Attend the movie"**: Ticket validation and pre-booked concession readiness.  
 
-![Movie goer journey](/assets/images/Movie-goer-wider-journey-capabilities.png){: .align-right width="20%"}
+![Movie goer journey](/assets/images/Movie-goer-wider-journey-capabilities.png)
 ---
 
 ## Step 6: Analyze Dependencies and Insights
