@@ -1,10 +1,10 @@
 ---
 title: "Bridging the gap: How User Needs Mapping prepares you for advanced frameworks"
-layout: splash
 description: "Discover how User Needs Mapping serves as a stepping stone to Wardley Mapping, Domain-Driven Design, and Team Topologies."
 date: 2025-01-02
 categories: [team-alignment, user-needs-mapping, advanced-frameworks]
 tags: [Wardley Mapping, Domain-Driven Design, Team Topologies, User Needs Mapping, organizational design]
+author: richallen
 ---
 
 # Bridging the gap: How User Needs Mapping prepares you for advanced frameworks
