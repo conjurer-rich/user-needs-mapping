@@ -1,7 +1,7 @@
 ---
 permalink: /training
 title: "Training"
-layout: single
+layout: splash
 classes: wide
 header: 
   overlay_color: "#f59542"
