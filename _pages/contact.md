@@ -1,7 +1,7 @@
 ---
 permalink: /contact
 title: "Contact"
-layout: single
+layout: splash
 author_profile: false
 header: 
   overlay_color: "#f59542"
