@@ -122,6 +122,7 @@ defaults:
       comments: true
       share: true
       related: true
+      classes: wide
 
 category_archive:
   type: liquid
