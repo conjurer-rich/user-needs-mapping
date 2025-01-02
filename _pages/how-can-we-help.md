@@ -6,6 +6,8 @@ description: "Learn, grow, and transform with tailored workshops, hands-on enabl
 classes: wide
 header: 
   overlay_color: "#f59542"
+redirect_from:
+  - /training
 ---
 
 **Empower your teams and drive meaningful change with expert-led User Needs Mapping sessions.**
