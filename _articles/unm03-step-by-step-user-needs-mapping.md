@@ -7,8 +7,6 @@ tags: [Wardley Mapping, Domain-Driven Design, Team Topologies, cognitive load, o
 author: richallen
 ---
 
-# How to map your way to better teams: A step-by-step guide to User Needs Mapping
-
 User Needs Mapping is a practical and accessible tool for organizations looking to align their teams, reduce cognitive load, and improve the flow of value. By focusing on users and their needs, this technique provides actionable insights for defining team and service boundaries. This article walks you through the step-by-step process of User Needs Mapping, complete with practical tips and examples to help you get started.
 
 ---
