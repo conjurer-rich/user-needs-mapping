@@ -7,8 +7,6 @@ tags: [Wardley Mapping, Domain-Driven Design, Team Topologies, cognitive load, o
 author: richallen
 ---
 
-# From Wardley Maps to User Needs Mapping: Simplifying the journey to value
-
 User Needs Mapping is a technique that has gained traction as a practical and accessible way for organizations to find team and service boundaries. But where did it come from, and why does it matter? To understand the origins of User Needs Mapping, we need to explore its roots in Simon Wardley’s Wardley Mapping and its connections to Domain-Driven Design (DDD) and Team Topologies. These methodologies have paved the way for more adaptive and user-centered approaches to team and service design.
 
 ---
