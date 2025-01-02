@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "Welcome to User Needs Mapping"
-layout: home
+layout: splash
 header: 
   overlay_color: "#f59542"
   overlay_filter: rgba(245, 149, 66, 0.6)
