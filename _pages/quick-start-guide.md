@@ -8,7 +8,8 @@ toc: true
 toc_sticky: true
 toc_label: "Quick-Start Guide"
 header: 
-  overlay_color: "#f59542"
+  overlay_color: "#0EA2F1"
+  overlay_filter: rgba(245, 149, 66, 0.6)
   overlay_image: /assets/images/workshop-talking.jpg
 ---
 # Quick Start Guide: Building a User Needs Map with an example
