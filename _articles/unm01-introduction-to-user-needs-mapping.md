@@ -4,6 +4,7 @@ description: "Discover how User Needs Mapping simplifies team alignment and deli
 date: 2025-01-02
 categories: [team-alignment, user-needs-mapping, fast-flow]
 tags: [Wardley Mapping, Domain-Driven Design, Team Topologies, cognitive load, organizational design]
+author: richallen
 ---
 
 # Start with your users: An introduction to User Needs Mapping
