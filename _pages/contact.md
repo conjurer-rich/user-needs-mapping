@@ -2,6 +2,7 @@
 permalink: /contact
 title: "Contact"
 layout: single
+author_profile: false
 header: 
   overlay_color: "#f59542"
 ---
