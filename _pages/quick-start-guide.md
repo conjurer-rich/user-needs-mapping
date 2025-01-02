@@ -1,12 +1,10 @@
 ---
 permalink: /quick-start-guide
 layout: splash
-title: "Quick Start Guide: User Needs Mapping"
+title: "Quick Start Guide: Building a User Needs Map with a Moviegoer Example"
 description: "Learn how to get started with User Needs Mapping using a real-world moviegoer example."
 classes: wide
 ---
-# Quick Start Guide: Building a User Needs Map with a Moviegoer Example
-
 ## Why Use User Needs Mapping?
 
 Organizations often struggle to align their teams and services to deliver value effectively. Questions like these arise:
