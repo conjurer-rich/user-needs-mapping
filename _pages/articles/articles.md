@@ -6,6 +6,7 @@ collection: articles
 entries_layout: grid
 classes: wide
 header:
+  overlay_color: "#f59542"
   overlay_image: /assets/images/workshop-writing.jpg
 ---
 
