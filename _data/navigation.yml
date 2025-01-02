@@ -1,8 +1,8 @@
 main:
   - title: "Quick start"
     url: /quick-start-guide
-  - title: "Training"
-    url: /training
+  - title: "How can we help"
+    url: /how-can-we-help
   - title: "Articles"
     url: /articles
   - title: "Contact"
