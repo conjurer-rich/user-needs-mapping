@@ -36,7 +36,7 @@ By visualizing the relationships between users, their needs, and your organizati
 
 ## Why start with User Needs Mapping?
 
-One of the most compelling reasons to adopt User Needs Mapping is its simplicity. Frameworks like Wardley Mapping and Domain-Driven Design are incredibly powerful but can feel overwhelming to teams unfamiliar with their terminology and processes. In fact, Simon Wardley himself has joked that it takes “eight years” to master Wardley Mapping. User Needs Mapping offers a low-cognitive-load entry point that delivers immediate value without requiring deep expertise in complex frameworks.
+One of the most compelling reasons to adopt User Needs Mapping is its simplicity. Frameworks like Wardley Mapping and Domain-Driven Design are incredibly powerful but can feel overwhelming to teams unfamiliar with their terminology and processes. In fact, Simon Wardley himself has [joked that it takes “seven years”](https://x.com/swardley/status/1187134785539452934?lang=en&mx=2) to learn Wardley Mapping. User Needs Mapping offers a low-cognitive-load entry point that delivers immediate value without requiring deep expertise in complex frameworks.
 
 ### The philosophy of “no labels”
 
