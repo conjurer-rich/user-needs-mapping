@@ -86,8 +86,6 @@ The user is browsing the platform, hoping to find a movie they’ll enjoy.
 
 ## Step 2: Identify the Capabilities Required
 
-![Movie goer journey](/assets/images/Movie-goer-find-a-movie-capabilities.png){: .align-right width="50%"}
-
 To meet this user need, we ask: **"What capabilities does the system need to provide?"**
 
 ### Capabilities Identified
@@ -95,8 +93,8 @@ To meet this user need, we ask: **"What capabilities does the system need to pro
 2. **Showtime Schedules**: Details about times and locations.  
 3. **Filtering & Sorting**: Tools to help users narrow their search.  
 4. **Trailers & Reviews**: Content that helps users decide if the movie is worth watching.
-
-
+5. **Recommendations engine**: A system to provide recommendations based upon the user's view habits
+6. **CMS**: A content management system providing ways to easily manage content 
 
 ---
 
@@ -109,9 +107,17 @@ We now map how these capabilities interact to meet the user need.
 ![Movie goer journey](/assets/images/Movie-goer-find-a-movie-capabilities-1.png)
 
 ### Visual Insight
-- **"Movie Listings"** is a foundational capability that feeds into all other components.  
+- **"Recommendations engine"** would need to inform the movie listing and trailer content based upon user preferences.
+- **"CMS"** is a shared component that would need to be used when managing movie listings and trailer/review content.
 - Dependencies like this can inform service boundaries or highlight bottlenecks.
+- There is an implied visibility hierarchy in the value chain. Things that are more "visible" to the user are at the top.
 
+When validating your dependency chain, consider walking through each node and ask your yourself whether it makes sense in a sentence like:
+
+> When a Movie Goer needs to Find a Movie Worth Watching they will **depend on** a movie listing which will **depend on** a recommendations engine
+
+You should be able to "walk the dependency chain" in this fashion and find that it makes logical sense.
+  
 ---
 
 ## Step 4: Explore the Next User Need
