@@ -17,6 +17,7 @@ Organizations often struggle to align their teams and services to deliver value 
 This is where **User Needs Mapping** helps. It visualizes the relationships between **user needs**, the **capabilities** required to meet them, and how these dependencies might inform team and service design.
 
 In this guide, we’ll use the example of a **moviegoer’s journey** to explore how to build a User Needs Map. Imagine this scenario:
+
 ---
 
 ## The Context: Challenges Triggering the Session
