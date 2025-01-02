@@ -1,6 +1,6 @@
 ---
 title: "Workshops"
-layout: page
+layout: splash
 description: "Practical, hands-on workshops to master User Needs Mapping and transform your teams."
 ---
 
