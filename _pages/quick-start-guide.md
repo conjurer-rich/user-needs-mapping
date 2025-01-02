@@ -53,7 +53,7 @@ Each of these stages represents a **desired outcome** that the system must suppo
 
 ## Step 1: Start with a Specific User and Need
 
-![Movie goer journey](/assets/images/Movie-goer-find-a-movie.png)
+![Movie goer journey](/assets/images/Movie-goer-find-a-movie.png){ .align-right }
 
 We begin the mapping process with the first step in the moviegoer’s journey:  
 **"Discover a movie."**
