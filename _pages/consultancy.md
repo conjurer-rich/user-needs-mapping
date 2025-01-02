@@ -1,4 +1,5 @@
 ---
+permalink: /consultancy
 title: "Consultancy Services"
 layout: splash
 description: "Expert consultancy to help you tackle complex challenges and drive transformative change with User Needs Mapping."
