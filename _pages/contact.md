@@ -5,6 +5,7 @@ layout: splash
 author_profile: false
 header: 
   overlay_color: "#f59542"
+  overlay_image: /assets/images/workshop-presentation.jpg
 classes: wide
 ---
 
