@@ -6,8 +6,6 @@ categories: [team-alignment, change-management, user-needs-mapping]
 tags: [Wardley Mapping, Team Topologies, Domain-Driven Design, User Needs Mapping, organizational change]
 ---
 
-# Not leading with the label: How to introduce transformative techniques without overwhelming your teams
-
 Have you ever tried to introduce a new framework—Wardley Mapping, Team Topologies, Domain-Driven Design (DDD)—only to see your team’s eyes glaze over? You’re not alone. While these methodologies can unlock incredible value, their jargon, complexity, or perceived scope often intimidate teams and create resistance before you even begin.
 
 This phenomenon is common when "leading with the label"—announcing the methodology upfront and unintentionally overwhelming people with its perceived difficulty or scale. The solution? Focus on outcomes and practical steps instead of names and frameworks.
