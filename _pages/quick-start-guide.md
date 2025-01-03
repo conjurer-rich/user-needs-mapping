@@ -60,6 +60,8 @@ Within this statement we can identify some core jobs that need to be done:
 
 When considering the stages of the journey a user might take to get a job done, it can be useful to consider them in terms of the stages of a [**job map**](https://jobs-to-be-done.com/mapping-the-job-to-be-done-45336427b3bc). A job map does not show what the customer is doing (a solution view); rather, it describes what the customer is trying to get done (a needs view). We can use each stage of the job map to identify steps that the user might take as part of their journey.
 
+![Movie goer journey](/assets/images/Movie-goer-journey.png)
+
 Let’s break the moviegoer’s journey into simple, relatable stages:
 
 1. **Discover a movie**: The moviegoer wants to find a movie that matches their interests.  
@@ -70,8 +72,6 @@ Let’s break the moviegoer’s journey into simple, relatable stages:
 6. **Provide feedback**: They want to share their experience or leave a review.  
 
 Each of these stages represents a **user goal** that the system must support through its capabilities.
-
-![Movie goer journey](/assets/images/Movie-goer-journey.png)
 
 ---
 
@@ -112,7 +112,7 @@ We now map how these capabilities interact to meet the user need.
 
 ![Movie goer journey](/assets/images/Movie-goer-find-a-movie-capabilities-1.png)
 
-### Visual Insight
+### Observable Insights
 - **"Recommendations engine"** would need to inform the movie listing and trailer content based upon user preferences.
 - **"CMS"** is a shared component that would need to be used when managing movie listings and trailer/review content.
 - Dependencies like this can inform service boundaries or highlight bottlenecks.
@@ -143,7 +143,7 @@ Once we’ve mapped **"Discover a movie"**, we move to the next step:
 
 ![Movie goer journey](/assets/images/Movie-goer-select-a-showtime-capabilities.png)
 
-### Visual Insight
+### Observable Insights
 - **"Geo-Location Services"** introduces a new capability that ties into the moviegoer’s physical location.  
 - This insight could lead to the formation of a platform team for location-based services.
 
@@ -163,14 +163,17 @@ Continue iterating through the user’s journey, mapping needs and capabilities 
 ## Step 6: Analyze Dependencies and Insights
 
 Once sufficient needs and capabilities are mapped:  
-1. Identify **shared capabilities** (e.g., **Showtime Schedules**) that multiple user needs depend on.  
-2. Visualize how these dependencies might influence **team boundaries**.  
+1. Identify **cohesive capabilities** that are closely related with minimal dependencies.
+2. Consider whether those capabilities might owned by a single team (of 5-9 people) without exceeding their cognitive load.  
+3. Visualize the **team boundaries** by overlaying the relevant Team Topologies team shapes.
 
-### Example Insight
-- A **Discovery Team** might own capabilities like **Movie Listings** and **Filtering & Sorting**.  
-- A **Shared Platform Team** might manage **Geo-Location Services** and **Showtime Schedules** to avoid duplication.  
+![Initial team overlay](/assets/images/Movie-goer-wider-journey-initial-team-overlay.png)
 
-![Movie goer journey](/assets/images/Movie-goer-wider-journey-initial-team-overlay.png)
+### Observable Insights
+- A **Discovery and Selection Team** might own capabilities related to meeting the needs of **Finding a movie worth watching** and **Know when and where to watch** and **Location and accessibility options**.  
+- A **Tickets and Payments Team** might manage **Booking tickets** and **Receiving confirmation**.  
+
+At this point we would have conversations about whether the capabilities could be owned by those teams and if not, how might the boundaries be different. Our first guess will almost definitely be wrong but we can seek to improve that but gaining further insights as we'll see in the next step.
 
 ---
 
@@ -181,7 +184,21 @@ User Needs Mapping is not a one-time exercise. Over time:
 - Refine team boundaries to optimize for fast flow and reduced cognitive load.  
 - Validate insights with real-world feedback from users and teams.
 
-![Movie goer journey](/assets/images/Movie-goer-wider-journey-revised-team-overlay.png)
+### Revision #1
+
+The next revision might be based upon our initial conversations that identified that teams would not have sufficient cognitive capacity to handle owning each of the capabilities identified. The previously suggested team structure would also introduce duplication of work which could be simplified by introducing platforms that aim to reduce cognitive load and improve flow. This might then result in the following proposed team options:
+
+![Revised team overlay](/assets/images/Movie-goer-wider-journey-revised-team-overlay.png)
+
+The suggestion would be to introduce an "Entertainment services platform" made up of a number of teams each with their own responsiblity for capabilities that would typically be shared by one or more stream-aligned teams or where the cognitive load would be sufficiently high for the consuming team to understand all of the details and therefore it would make sense to abstract some of the capabilities away and enable teams self-serve only what they need.
+
+### Revision #2
+
+Further conversations might lead on to realise that the platform teams we previously introduced are also dependent on shared capabilities (platforms need platforms too!) and it would actually make sense to define further platforms to support them. 
+
+![Extended team overlay](/assets/images/Movie-goer-wider-journey-extended-team-overlay.png)
+
+Further revisions would then be completed as and when necessary to continously evolve the organization. This might include adding further users with different needs to help uncover where we have unknown or invisible dependencies that might be causing challenges to the flow of value within the organization.
 
 ---
 
