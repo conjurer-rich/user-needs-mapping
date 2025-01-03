@@ -46,7 +46,7 @@ A key principle of User Needs Mapping is to avoid leading with labels. Introduci
 
 ## User Needs Mapping in practice
 
-Consider the example of Passenger, a mobile ticketing solutions provider. As the company grew, their teams became increasingly misaligned, and their communication channels overloaded. By applying User Needs Mapping, Passenger identified their users (e.g., bus passengers, operations teams, marketing teams) and their specific needs (e.g., buying tickets, publishing schedules, meeting regulations). This process revealed opportunities to restructure teams around distinct domains such as “tickets and payments” and “journey planning,” reducing cognitive load and improving ownership.
+Consider the [example of Passenger](https://userneedsmapping.com/articles/2025-01-02-unm04-case-study-passenger/), a mobile ticketing solutions provider. As the company grew, their teams became increasingly misaligned, and their communication channels overloaded. By applying User Needs Mapping, Passenger identified their users (e.g., bus passengers, operations teams, marketing teams) and their specific needs (e.g., buying tickets, publishing schedules, meeting regulations). This process revealed opportunities to restructure teams around distinct domains such as “tickets and payments” and “journey planning,” reducing cognitive load and improving ownership.
 
 The results? Clearer team boundaries, reduced communication overhead, and a more aligned organization ready to adapt to growth.
 
