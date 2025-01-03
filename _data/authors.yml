@@ -3,12 +3,9 @@ richallen:
   bio: "I help fast growing tech teams find more effective team boundaries"
   avatar: "/assets/images/Rich Allen Profile - Cropped Square - Colour.jpeg"
   links:
-    - label: "Contact"
+    - label: "About me"
       icon: "fas fa-fw fa-link"
       url: "/contact"
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://conjurersolutions.co.uk"
     - label: "Blue Sky"
       icon: "fab fa-fw fa-brands fa-bluesky"
       url: "https://bsky.app/profile/rich-allen.bsky.social"
