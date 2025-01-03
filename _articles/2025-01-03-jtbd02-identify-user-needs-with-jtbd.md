@@ -1,6 +1,5 @@
 ---
 title: "Identifying User Needs Through the Lens of Jobs to Be Done"
-layout: splash
 description: "Discover how to uncover actionable user needs using the Jobs to Be Done framework and align your organization to deliver meaningful value."
 date: 2025-01-03
 categories: [jobs-to-be-done, user-needs, customer-insights]
