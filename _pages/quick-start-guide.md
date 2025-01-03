@@ -1,7 +1,7 @@
 ---
 permalink: /quick-start-guide
 layout: single
-title: "Quick Start Guide: Building a User Needs Map with an example"
+title: "Quick Start Guide"
 description: "Learn how to get started with User Needs Mapping using a real-world moviegoer example."
 excerpt: "What you need to know about User Needs Mapping to get started."
 toc: true
@@ -12,7 +12,6 @@ header:
   overlay_filter: rgba(14,162,241,0.6)
   overlay_image: /assets/images/workshop-talking.jpg
 ---
-# Quick Start Guide: Building a User Needs Map with an example
 
 ## Why Use User Needs Mapping?
 
