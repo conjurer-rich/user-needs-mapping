@@ -22,7 +22,7 @@ Beyond their role as a consultant and advisor, Rich is a co-founder of the Devel
 
 A relentless advocate for better ways of working, Rich continues to push the boundaries of team design, flow optimization, and cognitive load management. Their work reflects a commitment to creating environments where teams can thrive, deliver value faster, and maintain sustainable, humane ways of working.
 
-
+## Get in touch
 
 Please feel free to [book some time with me](https://app.reclaim.ai/m/richard-allen/high-priority-meeting). I would be more that happy to discuss how I can help.
 
