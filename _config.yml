@@ -79,16 +79,16 @@ author:
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://betterteamdynamics.com"
+      url: "https://conjurersolutions.co.uk"
     - label: "Blue Sky"
       icon: "fab fa-fw fa-brands fa-bluesky"
       url: "https://bsky.app/profile/rich-allen.bsky.social"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/conjurer-rich"
-    #- label: "Instagram"
-    #  icon: "fab fa-fw fa-instagram"
-    #  url: "https://instagram.com/"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/richardallen"
 
 footer:
   links:
