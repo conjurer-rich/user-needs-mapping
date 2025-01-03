@@ -207,8 +207,10 @@ Further revisions would then be completed as and when necessary to continously e
 By following this process, you’ll build a User Needs Map that:  
 1. Clarifies how user needs are met through capabilities.  
 2. Highlights critical dependencies and bottlenecks.  
-3. Guides better team and service boundary design.  
+3. Guides better team and service boundary design.
 
 Start with the first step of your user’s journey, just as we did with **"Discover a movie."** Iterate until you’ve mapped enough needs and capabilities to gain actionable insights for your organization.
 
---
+---
+
+Interested in finding out how to apply these techniques within your organization? Check out [how we can help](https://userneedsmapping.com/how-can-we-help).
