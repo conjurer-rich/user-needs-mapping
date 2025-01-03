@@ -1,16 +1,12 @@
 ---
 permalink: /
-title: "Welcome to User Needs Mapping"
+title: "User Needs Mapping"
 layout: splash
 header: 
   overlay_color: "#0EA2F1"
   overlay_filter: rgba(14,162,241,0.6)
   overlay_image: /assets/images/workshop-writing.jpg
 description: "Empower your teams, reduce complexity, and deliver value with User Needs Mapping. Start your journey today."
-
-read_more:
-
-external_links:
 
 ---
 ## Discover the practical approach to aligning teams, reducing cognitive load, and delivering value faster.
