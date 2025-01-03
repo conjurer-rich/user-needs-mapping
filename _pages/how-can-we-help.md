@@ -31,10 +31,9 @@ Our workshops are designed to provide practical, actionable insights. In just a 
 - Real-world case studies and examples.
 - Collaborative exercises to map your own users and needs.
 
-**Popular workshops include:**
-- *Introduction to User Needs Mapping* (Half-day)
-- *Finding and Defining Team Boundaries* (Full-day)
-- *Advanced Mapping Strategies for Growing Organizations* (Full-day)
+**Popular workshop topics include:**
+- *Introduction to User Needs Mapping*
+- *Finding and defining Team Boundaries with User Needs Mapping*
 
 [Learn more about our workshops.](/workshops)
 
