@@ -98,7 +98,7 @@ footer:
     - label: "Licensed CC-BY-4.0"
       icon: "fab fa-creative-commons"
       url: "http://creativecommons.org/licenses/by/4.0/"
-    - label: "Imprint"
+    - label: "Operated By"
       icon: "fas fa-balance-scale"
       url: "https://www.conjurersolutions.co.uk"
     - label: "Privacy"
