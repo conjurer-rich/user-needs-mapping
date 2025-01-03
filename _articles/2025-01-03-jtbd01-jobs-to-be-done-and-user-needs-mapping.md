@@ -1,6 +1,5 @@
 ---
 title: "Combining Jobs to Be Done with User Needs Mapping"
-layout: splash
 description: "Learn how to integrate Jobs to Be Done with User Needs Mapping to uncover deeper user insights and align teams effectively."
 date: 2025-01-03
 categories: [team-alignment, user-needs-mapping, jobs-to-be-done]
