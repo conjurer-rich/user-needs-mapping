@@ -80,9 +80,9 @@ author:
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://betterteamdynamics.com"
-    #- label: "Twitter"
-    #  icon: "fab fa-fw fa-twitter-square"
-    #  url: "https://twitter.com/"
+    - label: "Blue Sky"
+      icon: "fab fa-fw fa-brands fa-bluesky"
+      url: "https://bsky.app/profile/rich-allen.bsky.social"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/conjurer-rich"
@@ -109,7 +109,7 @@ footer:
       url: "/contact"
 
 atom_feed:
-  hide: true
+  hide: false
 
 defaults:
   # _articles
