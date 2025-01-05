@@ -13,8 +13,8 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-locale                   : "en"
-title: "User Needs Mapping operated with ❤️ by Conjurer Solutions Ltd"
+locale: "en"
+title: "User Needs Mapping"
 title_separator: "-"
 subtitle: "Align teams, unlock value, empower growth." # site tagline that appears below site title in masthead
 logo: "/assets/images/user-needs-mapping-logo.png" # path of logo image to display in the masthead, e.g. "/assets/assets/images/88x88.png"
@@ -98,7 +98,7 @@ footer:
     - label: "Licensed CC-BY-4.0"
       icon: "fab fa-creative-commons"
       url: "http://creativecommons.org/licenses/by/4.0/"
-    - label: "Operated By"
+    - label: "Operated with ❤️ by"
       icon: "fas fa-balance-scale"
       url: "https://www.conjurersolutions.co.uk"
     - label: "Privacy"
