@@ -14,11 +14,11 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 locale                   : "en"
-title: "User Needs Mapping operated by Conjurer Solutions"
+title: "User Needs Mapping operated with ❤️ by Conjurer Solutions Ltd"
 title_separator: "-"
 subtitle: "Align teams, unlock value, empower growth." # site tagline that appears below site title in masthead
 logo: "/assets/images/user-needs-mapping-logo.png" # path of logo image to display in the masthead, e.g. "/assets/assets/images/88x88.png"
-name: "Rich Allen with ❤️ from Conjurer Solutions Ltd"
+name: "Rich Allen"
 description: >- # this means to ignore newlines until "baseurl:"
   A collaborative, visual approach to finding team and service boundaries
 url: "https://userneedsmapping.com/" 
