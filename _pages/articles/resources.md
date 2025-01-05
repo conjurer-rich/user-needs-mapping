@@ -1,12 +1,20 @@
 ---
 permalink: /resources
 layout: single
-title: External Resources
+title: Guides and resources
 toc: true
 toc_sticky: true
 ---
 
 Do you want to propose a resource? [Please create a pull request.](https://github.com/conjurer-rich/user-needs-mapping)
+
+# Guides
+
+## English
+
+| Year | Author              | Link |
+| ---- | ------------------- | ---- | 
+| 2025 | Richard Allen  | [The 7 Signals Your Team Boundaries Are Broken](https://teamboundaries.com/7-signals) |
 
 # Articles, Podcasts & Videos
 
