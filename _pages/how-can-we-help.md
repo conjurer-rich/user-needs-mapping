@@ -87,7 +87,3 @@ With years of experience in User Needs Mapping and related methodologies, we und
 Ready to empower your teams and transform your organization? Let’s work together to unlock the full potential of User Needs Mapping.
 
 [Contact us to discuss your needs.](/contact)
-
----
-
-For in-house enablement tailored to your specific needs, [you can book here](https://find.teamboundaries.com/).
