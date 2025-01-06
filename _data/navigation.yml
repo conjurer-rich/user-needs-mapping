@@ -7,3 +7,10 @@ main:
     url: /articles
   - title: "Contact"
     url: /contact
+
+docs:
+  - title: Getting started
+    children:
+    - title: "Quick start"
+      url: /quick-start-guide
+

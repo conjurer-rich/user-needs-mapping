@@ -1,5 +1,5 @@
 ---
-permalink: /quick-start-guide
+permalink: /docs/quick-start-guide
 layout: single
 title: "Quick Start Guide"
 description: "Learn how to get started with User Needs Mapping using a real-world moviegoer example."
@@ -11,6 +11,8 @@ header:
   overlay_color: "#0EA2F1"
   overlay_filter: rgba(14,162,241,0.6)
   overlay_image: /assets/images/workshop-talking.jpg
+redirect_from:
+  - /quick-start-guide
 ---
 
 ## Why Use User Needs Mapping?
