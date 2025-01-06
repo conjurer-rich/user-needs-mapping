@@ -1,15 +1,20 @@
 ---
 permalink: /
-title: "User Needs Mapping"
+title: "Align teams, unlock value, enable evolution."
 layout: splash
 header: 
   overlay_color: "#0EA2F1"
   overlay_filter: rgba(14,162,241,0.6)
   overlay_image: /assets/images/workshop-writing.jpg
-description: "Empower your teams, reduce complexity, and deliver value with User Needs Mapping. Start your journey today."
+excerpt: > 
+  Empower your teams, reduce complexity, and deliver value with User Needs Mapping.
+actions: 
+    - label: "<i class='fas fa-rocket'></i> Get started today"
+      url: /quick-start-guide
+
 
 ---
-## Discover the practical approach to aligning teams, reducing cognitive load, and delivering value faster.
+## Discover the practical approach to aligning teams, reducing cognitive load, and delivering value faster
 
 Modern organizations face constant challenges: misaligned teams, communication bottlenecks, and increasing complexity. User Needs Mapping offers a clear, actionable path forward. By focusing on your users and their needs, this technique helps you uncover insights, define team boundaries, and improve the flow of value throughout your organization.
 
@@ -22,11 +27,13 @@ Modern organizations face constant challenges: misaligned teams, communication b
 **Start with clarity, grow with confidence.**
 
 User Needs Mapping is:
+
 - **Practical:** A low-barrier, high-impact approach to improving alignment.
 - **Accessible:** Designed for teams of any size, with or without prior experience in advanced frameworks.
 - **Scalable:** Whether you’re a startup or a global enterprise, this technique adapts to your needs.
 
 ### Benefits at a glance:
+
 - Align teams with user needs.
 - Reduce cognitive load for faster, smarter decisions.
 - Build a foundation for advanced methodologies like Wardley Mapping and Domain-Driven Design.
