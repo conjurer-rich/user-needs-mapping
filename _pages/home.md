@@ -6,12 +6,11 @@ header:
   overlay_color: "#0EA2F1"
   overlay_filter: rgba(14,162,241,0.6)
   overlay_image: /assets/images/workshop-writing.jpg
-excerpt: > 
-  Empower your teams, reduce complexity, and deliver value with User Needs Mapping.
-actions: 
+  actions: 
     - label: "<i class='fas fa-rocket'></i> Get started today"
       url: /quick-start-guide
-
+excerpt: > 
+  Empower your teams, reduce complexity, and deliver value with User Needs Mapping.
 
 ---
 ## Discover the practical approach to aligning teams, reducing cognitive load, and delivering value faster
