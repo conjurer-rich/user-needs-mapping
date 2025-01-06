@@ -1,6 +1,6 @@
 main:
   - title: "Quick start"
-    url: /quick-start-guide
+    url: /docs/quick-start-guide
   - title: "How can we help"
     url: /how-can-we-help
   - title: "Articles"
@@ -12,5 +12,5 @@ docs:
   - title: Getting started
     children:
     - title: "Quick start"
-      url: /quick-start-guide
+      url: /docs/quick-start-guide
 

@@ -18,9 +18,10 @@ redirect_from:
 ## Why Use User Needs Mapping?
 
 Organizations often struggle to align their teams and services to deliver value effectively. Questions like these arise:
-- *"How do we ensure that teams are focused on meeting user needs?"*  
+
+- *"How do we ensure that teams are aligned with our organizational goals?"*  
 - *"What dependencies between capabilities are slowing us down?"*  
-- *"How do we design team boundaries to reduce cognitive load?"*
+- *"How do we design team boundaries to improve flow and reduce cognitive load?"*
 
 This is where **User Needs Mapping** helps. It visualizes the relationships between **user needs**, the **capabilities** required to meet them, and how these dependencies might inform team and service design.
 
@@ -31,11 +32,13 @@ In this guide, we’ll use the example of a **moviegoer’s journey** to explore
 ## The Context: Challenges Triggering the Session
 
 A team at a cinema ticketing platform is struggling with several issues:  
+
 1. **Team Misalignment**: Different teams manage overlapping responsibilities, leading to duplicated efforts and communication breakdowns.  
 2. **Slow Flow of Change**: Dependencies between teams cause delays when rolling out new features, like personalized recommendations.  
 3. **User Complaints**: Users find it difficult to discover movies that match their preferences, and the ticket booking process feels clunky.  
 
 ### Goal of the User Needs Mapping Session
+
 - Clarify user needs at each stage of the moviegoer’s journey.  
 - Identify the capabilities required to meet those needs.  
 - Visualize dependencies to inform better **team and service boundaries**.
