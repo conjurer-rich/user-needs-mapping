@@ -7,6 +7,8 @@ excerpt: "What you need to know about User Needs Mapping to get started."
 toc: true
 toc_sticky: true
 toc_label: "Quick-Start Guide"
+sidebar:
+  nav: docs
 header: 
   overlay_color: "#0EA2F1"
   overlay_filter: rgba(14,162,241,0.6)
