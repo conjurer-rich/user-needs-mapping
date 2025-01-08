@@ -26,7 +26,7 @@ To run a server locally:
 
 Or open the project as a dev container and directly start the server:
 ```
-\$ bundle exec jekyll serve
+\$ bundle exec jekyll serve --force_polling --livereload
 ```
 
 Configuration

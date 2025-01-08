@@ -4,6 +4,7 @@ gem "github-pages", group: :jekyll_plugins
 
 gem "tzinfo-data"
 gem "wdm", "~> 0.2.0" if Gem.win_platform?
+gem 'mutex_m'
 
 # If you have any plugins, put them here!
 group :jekyll_plugins do
@@ -14,4 +15,5 @@ group :jekyll_plugins do
   gem "jemoji"
   gem "jekyll-include-cache"
   gem "jekyll-algolia"
+  gem "faraday-retry"
 end

@@ -78,7 +78,7 @@ Ready to dive deeper? Explore our [learning hub](/resources).
 
 User Needs Mapping is more than a technique—it’s a mindset. Join a growing community of practitioners, learn from their experiences, and share your own journey. Together, we can create teams that deliver value faster, with less friction.
 
-[Join the conversation on the Team Topologies Community.](https://community.teamtopologies.com/)
+[Join the conversation in the community.](/community)
 
 ---
 

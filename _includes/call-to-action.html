@@ -1,0 +1,28 @@
+{% if include.title %}
+  <h2>{{ include.title }}</h2>
+{% endif %}
+
+<div class="cta-wrapper">
+  {% if include.text %}
+    <p class="cta-text">{{ include.text }}</p>
+  {% endif %}
+  
+  {% if include.url and include.button_text %}
+    <a href="{{ include.url }}" class="btn btn--primary">{{ include.button_text }}</a>
+  {% endif %}
+</div>
+
+<style>
+  .cta-wrapper {
+    text-align: center;
+    padding: 2em 1em;
+    margin: 2em 0;
+    background: #f8f9fa;
+    border-radius: 4px;
+  }
+
+  .cta-text {
+    font-size: 1.2em;
+    margin-bottom: 1.5em;
+  }
+</style>

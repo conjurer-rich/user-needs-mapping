@@ -1,7 +1,7 @@
-FROM ruby:3
+FROM ruby:3.4.1
 
 # throw errors if Gemfile has been modified since Gemfile.lock
-RUN bundle config --global frozen 1
+RUN bundle config 
 
 WORKDIR /srv/jekyll
 
