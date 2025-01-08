@@ -63,6 +63,7 @@ The mapping process revealed a “big ball of mud”—a tangled web of dependen
 ### 5. Defining new team boundaries
 
 Using the map, Passenger identified potential team boundaries by grouping capabilities that served similar needs. For example:
+
 - A **“Ticketing and Payments” team** was proposed to own all capabilities related to buying and validating tickets.
 - A **“Journey Planning” team** was proposed to handle scheduling tools and journey planning interfaces.
 
@@ -75,15 +76,19 @@ These boundaries aimed to reduce dependencies between teams while ensuring each 
 By adopting the new team structure, Passenger achieved several key outcomes:
 
 ### 1. Improved alignment
+
 Teams were better aligned with the needs of their users. Each team’s responsibilities were clear, and their focus areas were well-defined.
 
 ### 2. Reduced cognitive load
+
 Breaking down the large, multi-functional team into smaller, focused teams reduced cognitive load, enabling team members to work more effectively.
 
 ### 3. Faster flow of value
+
 Clear ownership of capabilities allowed teams to make decisions faster, leading to quicker delivery of features and updates.
 
 ### 4. Scalability
+
 The new structure provided a scalable foundation as Passenger continued to grow. Future team evolution could be guided by the same User Needs Mapping principles.
 
 ---
@@ -103,4 +108,3 @@ Passenger’s journey highlights several important lessons for organizations con
 User Needs Mapping helped Passenger navigate the complexities of growth and transition from a chaotic, overloaded structure to a streamlined, user-focused organization. By starting with their users and mapping their needs, they unlocked a scalable and efficient team design that positioned them for future success.
 
 If your organization is facing similar challenges, consider starting with a User Needs Mapping exercise. It’s a practical and accessible way to uncover insights, align teams, and deliver value with greater clarity and efficiency.
-

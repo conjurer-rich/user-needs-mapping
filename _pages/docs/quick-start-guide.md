@@ -4,9 +4,9 @@ layout: single
 title: "Quick Start Guide"
 description: "Learn how to get started with User Needs Mapping using a real-world moviegoer example."
 excerpt: "What you need to know about User Needs Mapping to get started."
+toc_label: "Quick-Start Guide"
 toc: true
 toc_sticky: true
-toc_label: "Quick-Start Guide"
 sidebar:
   nav: docs
 header: 
@@ -90,10 +90,12 @@ We begin the mapping process with the first step in the moviegoer’s journey:
 **"Discover a movie."**
 
 ### User Context
+
 The user is browsing the platform, hoping to find a movie they’ll enjoy.  
 
 ### User Need
-> *"I need to find a movie that matches my interests and schedule."*
+
+> *"I need to 'find a movie that matches my interests and schedule'."*
 
 ---
 
@@ -102,12 +104,13 @@ The user is browsing the platform, hoping to find a movie they’ll enjoy.
 To meet this user need, we ask: **"What capabilities does the system need to provide?"**
 
 ### Capabilities Identified
+
 1. **Movie Listings**: A database of movies currently showing.  
 2. **Showtime Schedules**: Details about times and locations.  
 3. **Filtering & Sorting**: Tools to help users narrow their search.  
 4. **Trailers & Reviews**: Content that helps users decide if the movie is worth watching.
 5. **Recommendations engine**: A system to provide recommendations based upon the user's view habits
-6. **CMS**: A content management system providing ways to easily manage content 
+6. **CMS**: A content management system providing ways to easily manage content
 
 ---
 
@@ -115,11 +118,12 @@ To meet this user need, we ask: **"What capabilities does the system need to pro
 
 We now map how these capabilities interact to meet the user need.
 
-### Value Chain for "Discover a Movie":
+### Value Chain for "Discover a Movie"
 
 ![Movie goer journey](/assets/images/Movie-goer-find-a-movie-capabilities-1.png)
 
 ### Observable Insights
+
 - **"Recommendations engine"** would need to inform the movie listing and trailer content based upon user preferences.
 - **"CMS"** is a shared component that would need to be used when managing movie listings and trailer/review content.
 - Dependencies like this can inform service boundaries or highlight bottlenecks.
@@ -138,10 +142,12 @@ You should be able to "walk the dependency chain" in this fashion and find that 
 Once we’ve mapped **"Discover a movie"**, we move to the next step:  
 **"Select a showtime."**
 
-### User Need
-> *"I need to know when and where I can watch the movie."*
+### Select a Showtime User Need
+
+> *"I need to 'know when and where I can watch the movie'."*
 
 ### Capabilities for "Select a Showtime"
+
 1. **Showtime Schedules**: Ties movies to times and locations.  
 2. **Geo-Location Services**: Helps users find nearby cinemas.  
 3. **Ticket Availability**: Provides real-time seat availability.
@@ -151,6 +157,7 @@ Once we’ve mapped **"Discover a movie"**, we move to the next step:
 ![Movie goer journey](/assets/images/Movie-goer-select-a-showtime-capabilities.png)
 
 ### Observable Insights
+
 - **"Geo-Location Services"** introduces a new capability that ties into the moviegoer’s physical location.  
 - This insight could lead to the formation of a platform team for location-based services.
 
@@ -165,11 +172,13 @@ Continue iterating through the user’s journey, mapping needs and capabilities 
 - **"Attend the movie"**: Ticket validation and pre-booked concession readiness.  
 
 ![Movie goer journey](/assets/images/Movie-goer-wider-journey-capabilities.png)
+
 ---
 
 ## Step 6: Analyze Dependencies and Insights
 
 Once sufficient needs and capabilities are mapped:  
+
 1. Identify **cohesive capabilities** that are closely related with minimal dependencies.
 2. Consider whether those capabilities might owned by a single team (of 5-9 people) without exceeding their cognitive load.  
 3. Visualize the **team boundaries** by overlaying the relevant Team Topologies team shapes.
@@ -177,6 +186,7 @@ Once sufficient needs and capabilities are mapped:
 ![Initial team overlay](/assets/images/Movie-goer-wider-journey-initial-team-overlay.png)
 
 ### Observable Insights
+
 - A **Discovery and Selection Team** might own capabilities related to meeting the needs of **Finding a movie worth watching** and **Know when and where to watch** and **Location and accessibility options**.  
 - A **Tickets and Payments Team** might manage **Booking tickets** and **Receiving confirmation**.  
 
@@ -186,7 +196,8 @@ At this point we would have conversations about whether the capabilities could b
 
 ## Step 7: Iterate and Evolve
 
-User Needs Mapping is not a one-time exercise. Over time:  
+User Needs Mapping is not a one-time exercise. Over time:
+
 - Reassess dependencies as new needs emerge.  
 - Refine team boundaries to optimize for fast flow and reduced cognitive load.  
 - Validate insights with real-world feedback from users and teams.
@@ -201,7 +212,7 @@ The suggestion would be to introduce an "Entertainment services platform" made u
 
 ### Revision #2
 
-Further conversations might lead on to realise that the platform teams we previously introduced are also dependent on shared capabilities (platforms need platforms too!) and it would actually make sense to define further platforms to support them. 
+Further conversations might lead on to realise that the platform teams we previously introduced are also dependent on shared capabilities (platforms need platforms too!) and it would actually make sense to define further platforms to support them.
 
 ![Extended team overlay](/assets/images/Movie-goer-wider-journey-extended-team-overlay.png)
 
@@ -211,7 +222,8 @@ Further revisions would then be completed as and when necessary to continously e
 
 ## Conclusion
 
-By following this process, you’ll build a User Needs Map that:  
+By following this process, you’ll build a User Needs Map that:
+
 1. Clarifies how user needs are met through capabilities.  
 2. Highlights critical dependencies and bottlenecks.  
 3. Guides better team and service boundary design.
