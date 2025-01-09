@@ -55,6 +55,7 @@ The results? Clearer team boundaries, reduced communication overhead, and a more
 ## The benefits of User Needs Mapping
 
 User Needs Mapping offers several benefits for organizations of all sizes:
+
 1. **Improved alignment:** By starting with user needs, teams can align their responsibilities with delivering value.
 2. **Reduced cognitive load:** Simplified processes and clear team boundaries free up mental capacity for innovation.
 3. **Faster flow of change:** Clearer ownership of services and capabilities enables quicker decision-making and adaptation.

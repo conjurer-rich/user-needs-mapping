@@ -33,7 +33,7 @@ Once the purpose of your User Needs Mapping session is clear, the next step is u
 
 ## Practical Example
 
-**Scenario:** A mobile ticketing company like [Passenger](/docs/case-studies/passenger) might identify the following user groups:
+**Scenario:** A mobile ticketing company like [Passenger](/docs/examples/passenger) might identify the following user groups:
 
 - **External Users:**
   - Commuters who purchase tickets.
@@ -60,3 +60,5 @@ Take a few minutes to list your own user groups. Consider both external and inte
 
 With your user groups clearly identified, you’re ready to define their specific needs.  
 [Proceed to Step 3: Defining User Needs](/docs/step-3-defining-user-needs)
+
+{% include help-with-implementation-cta.html %}

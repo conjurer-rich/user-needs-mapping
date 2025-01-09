@@ -73,3 +73,5 @@ Define team boundaries for the capabilities you mapped in Step 4 and visualized 
 
 With team boundaries defined, the next step is to establish a process for iterating and scaling your User Needs Mapping practice as your organization evolves.  
 [Proceed to Step 7: Iterating and Scaling](/docs/step-7-iterating-and-scaling)
+
+{% include help-with-implementation-cta.html %}

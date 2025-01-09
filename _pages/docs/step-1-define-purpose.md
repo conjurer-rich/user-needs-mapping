@@ -35,7 +35,7 @@ Before identifying users, it’s crucial to define the purpose of your User Need
 
 ## Practical Example
 
-**Scenario:** A mobile ticketing company like [Passenger](/docs/case-studies/passenger) might define the purpose of their session as:  
+**Scenario:** A mobile ticketing company like [Passenger](/docs/examples/passenger) might define the purpose of their session as:  
 
  >*“The purpose of this User Needs Mapping session is to identify and prioritize the needs of our key user groups (commuters, operators, and internal teams) by mapping their interactions with our ticketing system and uncovering gaps in capabilities.”*
 
@@ -57,3 +57,5 @@ Take a few minutes to draft a purpose statement for your User Needs Mapping sess
 
 With a clear purpose in place, you’re ready to identify your users.  
 [Proceed to Step 2: Identifying Users](/docs/step-2-identifying-users)
+
+{% include help-with-implementation-cta.html %}

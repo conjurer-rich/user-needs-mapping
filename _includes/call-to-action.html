@@ -8,16 +8,19 @@
   {% endif %}
   
   {% if include.url and include.button_text %}
+    {% if include.align == "center" %}
+    <center>
+    {% endif %}
     <a href="{{ include.url }}" class="btn btn--primary">{{ include.button_text }}</a>
+    {% if include.align == "center" %}
+    </center>
+    {% endif %}
   {% endif %}
 </div>
 
 <style>
   .cta-wrapper {
-    text-align: center;
-    padding: 2em 1em;
-    margin: 2em 0;
-    background: #f8f9fa;
+    margin: 1em 0;
     border-radius: 4px;
   }
 

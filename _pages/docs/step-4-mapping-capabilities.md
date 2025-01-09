@@ -53,7 +53,7 @@ This approach ensures a comprehensive understanding of how capabilities interact
 
 ## Practical Example
 
-**Scenario:** A mobile ticketing company like [Passenger](/docs/case-studies/passenger) might identify the following capabilities:
+**Scenario:** A mobile ticketing company like [Passenger](/docs/examples/passenger) might identify the following capabilities:
 
 - **For External Users:**
   - Ticketing system
@@ -90,3 +90,5 @@ Map at least three capabilities to the user needs you defined in Step 3. Use the
 
 With a clear map of your organizational capabilities and their dependencies, the next step is to visualize these dependencies in detail to understand how they impact delivery.\
 [Proceed to Step 5: Visualizing Dependencies](/docs/step-5-visualizing-dependencies)
+
+{% include help-with-implementation-cta.html %}

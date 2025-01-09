@@ -57,7 +57,7 @@ This simple diagram shows how delivering the "Purchase a Ticket" user need relie
 
 ## Practical Example
 
-**Scenario:** A mobile ticketing company like [Passenger](/docs/case-studies/passenger) identifies dependencies for the "Real-Time Journey Updates" user need:
+**Scenario:** A mobile ticketing company like [Passenger](/docs/examples/passenger) identifies dependencies for the "Real-Time Journey Updates" user need:
 
 - **Primary Capability:** Journey Planning Platform.
 - **Dependent Capabilities:**
@@ -92,3 +92,5 @@ Create a dependency diagram for one or more user needs you defined in Step 3. Us
 
 With a clear visualization of dependencies, you can now propose team boundaries that align with capabilities while minimizing cross-team dependencies.  
 [Proceed to Step 6: Defining Team Boundaries](/docs/step-6-defining-team-boundaries)
+
+{% include help-with-implementation-cta.html %}

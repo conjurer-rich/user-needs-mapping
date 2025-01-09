@@ -5,8 +5,6 @@ layout: splash
 description: "Partner with an enabling team to upskill, empower, and drive sustainable change through User Needs Mapping."
 ---
 
-# Enablement Services
-
 **Empowering your teams for long-term success through tailored enablement support.**
 
 Enablement is more than just training—it’s about embedding knowledge, building confidence, and fostering a culture of continuous improvement. Acting as an enabling team, we work alongside your organization to upskill your teams and ensure they have the tools, techniques, and mindset to succeed with User Needs Mapping.

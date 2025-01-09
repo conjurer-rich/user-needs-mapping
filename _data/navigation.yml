@@ -8,6 +8,9 @@ main:
   - title: "Contact"
     url: /contact
 
+how-can-we-help:
+  - title: ""
+
 docs:
   - title: Getting started
     children:
@@ -29,9 +32,25 @@ docs:
       url: /docs/step-6-defining-team-boundaries
     - title: "Step 7: Iterate and Scale"
       url: /docs/step-7-iterate-and-scale
-  - title: Case studies
+  - title: Typical Challenges
+    children:
+    - title: "Overview"
+      url: /docs/challenges
+    - title: "Overwhelming Complexity"
+      url: /docs/challenges/overwhelming-complexity
+    - title: "Lack of Clarity Around Capabilities"
+      url: /docs/challenges/capability-clarity
+    - title: "Misaligned Team Ownership"
+      url: /docs/challenges/misaligned-teams
+    - title: "Sustaining Momentum"
+      url: /docs/challenges/sustaining-momentum
+    - title: "Resistance to Change" 
+      url: /docs/challenges/resistance-to-change
+    - title: "Difficulty Defining User Needs"
+      url: /docs/challenges/defining-user-needs
+  - title: Examples
     children:
     - title: "Passenger"
-      url: /docs/case-studies/passenger
+      url: /docs/examples/passenger
     
 

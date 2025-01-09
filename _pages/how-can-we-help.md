@@ -1,8 +1,8 @@
 ---
 permalink: /how-can-we-help
-title: "How we can help with workshops, enablement, and consultancy"
+title: "How we can help: Empower your teams and unlock value"
 layout: splash
-description: "Learn, grow, and transform with tailored workshops, hands-on enablement, and expert consultancy in User Needs Mapping."
+description: "Workshops, enablement programs, and expert consultancy to transform how your teams work and deliver value with User Needs Mapping."
 classes: wide
 header: 
   overlay_color: "#0EA2F1"
@@ -12,78 +12,85 @@ redirect_from:
   - /training
 ---
 
-**Empower your teams and drive meaningful change with expert-led User Needs Mapping sessions.**
+**Transform your organization with User Needs Mapping.**  
+Drive alignment, reduce complexity, and deliver value faster with expert guidance tailored to your unique challenges.
 
-Whether you're just starting your User Needs Mapping journey or looking to refine your approach, we offer tailored solutions to meet your needs. Our workshops, enablement programs, and consultancy services are designed to help you align teams, reduce complexity, and deliver value faster.
-
----
-
-## What We Offer
-
-### 1. Hands-On Workshops
-
-**Interactive sessions to jumpstart your journey.**
-
-Our workshops are designed to provide practical, actionable insights. In just a few hours, your team will learn the fundamentals of User Needs Mapping and leave with a clear plan for implementation.
-
-**Key features:**
-- Customizable content to fit your organization’s needs.
-- Real-world case studies and examples.
-- Collaborative exercises to map your own users and needs.
-
-**Popular workshop topics include:**
-- *Introduction to User Needs Mapping*
-- *Finding and defining Team Boundaries with User Needs Mapping*
-
-[Learn more about our workshops.](/workshops)
+Whether you're starting fresh or refining your approach, our workshops, enablement programs, and consultancy services are designed to empower your teams and make meaningful change happen.
 
 ---
 
-### 2. Enablement Programs
+## How We Can Help
 
-**Build expertise with in-depth enablement.**
+### **1. Hands-On Workshops**
 
-Our enablement programs go beyond the basics to help your teams master User Needs Mapping and apply it across your organization. These multi-day sessions include:
-- Comprehensive learning materials and templates.
-- Step-by-step guidance on implementing User Needs Mapping.
-- Strategies for scaling the approach to meet growing demands.
+**Engaging sessions to inspire and equip your teams.**
 
-**Options include:**
-- On-site enablement tailored to your team.
-- Virtual programs for distributed organizations.
+Jumpstart your User Needs Mapping journey with workshops that are interactive, practical, and results-driven. Leave each session with actionable insights and a clear path forward.
+
+- **What you’ll gain:**  
+  - Core skills to identify users, map their needs, and define capabilities.  
+  - Real-world examples and collaborative exercises.  
+  - A tailored approach that fits your organization’s goals.
+
+**Popular topics:**  
+
+- *Getting started with User Needs Mapping*  
+- *Finding and defining team boundaries for fast flow*
+
+[Discover our workshops.](/workshops)
+
+---
+
+### **2. Enablement Programs**  
+
+**Build expertise that lasts.**
+
+Our enablement programs embed User Needs Mapping into your teams’ workflows, enabling them to continuously improve and scale their efforts. These programs are designed for sustained success and ongoing growth.
+
+- **How it works:**  
+  - Comprehensive learning resources and guided exercises.  
+  - Hands-on application of User Needs Mapping principles to real challenges.  
+  - A focus on scalability for growing organizations.  
+
+**Options include:**  
+
+- On-site enablement tailored to your team’s dynamics.  
+- Virtual programs for distributed organizations.  
 
 [Explore enablement options.](/enablement)
 
 ---
 
-### 3. Expert Consultancy
+### **3. Expert Consultancy**  
 
-**Transformative support for lasting impact.**
+**Solutions crafted for your toughest challenges.**
 
-Our consultancy services provide hands-on guidance to tackle your organization’s unique challenges. Whether you’re restructuring teams, scaling operations, or adopting advanced frameworks like Wardley Mapping or Domain-Driven Design, we’re here to help.
+From restructuring teams to scaling operations, our consultancy services offer tailored, hands-on guidance. We’ll help you tackle unique organizational challenges and integrate advanced concepts like Wardley Mapping and Domain-Driven Design.
 
-**How we can support you:**
-- Facilitating mapping sessions to uncover insights.
-- Advising on team structures and cognitive load optimization.
-- Integrating User Needs Mapping with other methodologies.
+- **What we offer:**  
+  - Facilitation of mapping sessions to unlock actionable insights.  
+  - Guidance on team structures and cognitive load optimization.  
+  - Strategic integration with other methodologies for deeper impact.
 
-[Find out how consultancy can help you.](/consultancy)
+[See how consultancy can transform your organization.](/consultancy)
 
 ---
 
 ## Why Choose Us?
 
-**Proven expertise. Tailored solutions. Real results.**
+**Experience. Results. Collaboration.**  
 
-With years of experience in User Needs Mapping and related methodologies, we understand what it takes to drive meaningful change. Our approach is:
-- **Collaborative:** We work closely with your teams to ensure solutions are practical and impactful.
-- **Actionable:** Every session is designed to deliver immediate value and long-term benefits.
-- **Customizable:** From small startups to large enterprises, we adapt our offerings to meet your unique needs.
+With a proven track record in User Needs Mapping and related methodologies, we bring deep expertise and a practical approach to every engagement.  
+
+- **Tailored to You:** Every solution is customized to fit your team’s needs.  
+- **Collaborative:** We work closely with your teams to drive real results.  
+- **Impactful:** Designed to create immediate value and long-term change.
 
 ---
 
-## Get Started Today
+## Let’s Get Started  
 
-Ready to empower your teams and transform your organization? Let’s work together to unlock the full potential of User Needs Mapping.
+**Empower your teams today.**  
+Take the first step toward transforming how your organization works and delivers value.
 
 [Contact us to discuss your needs.](/contact)

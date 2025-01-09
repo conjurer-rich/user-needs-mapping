@@ -16,6 +16,7 @@ As organizations grow, maintaining alignment and clear communication becomes inc
 Passenger began as a small, tightly knit team in 2015, offering white-label mobile ticketing solutions for public transport operators. By 2020, they had grown significantly, fueled by a global shift toward contactless payments during the COVID-19 pandemic. The team landed a major deal with Go-Ahead, one of the UK’s largest transport operators, and demand for their solutions surged.
 
 However, with this growth came challenges:
+
 - **Overloaded communication channels:** Daily standups involved nearly everyone because it was the only way to stay informed.
 - **Unclear responsibilities:** With one large team owning all capabilities, there was no clear ownership, leading to inefficiencies and bottlenecks.
 - **Cognitive overload:** Teams struggled to manage the increasing complexity of their work.
@@ -31,6 +32,7 @@ Passenger turned to User Needs Mapping as a practical tool to identify user need
 ### 1. Identifying users
 
 The first step was to identify all the users interacting with Passenger’s systems. This included:
+
 - **External users:**
   - Bus passengers who needed to plan journeys, buy tickets, and board buses.
   - Transport operators’ scheduling and marketing teams.

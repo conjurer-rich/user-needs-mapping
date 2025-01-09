@@ -1,16 +1,16 @@
 ---
-title: "Case Study: Passenger"
+title: "Example: Passenger - A mobile ticketing company"
 layout: single
 description: "Explore how Passenger used User Needs Mapping to align teams, reduce dependencies, and improve delivery."
-permalink: /docs/case-studies/passenger
-toc_label: "Case Study: Passenger"
+permalink: /docs/examples/passenger
+toc_label: "Example: Passenger"
 toc: true
 toc_sticky: true
 sidebar:
   nav: docs
 ---
 
-Discover how [Passenger](https://passenger.tech), a mobile ticketing company, used User Needs Mapping to transform their team structure, reduce dependencies, and deliver value more effectively.
+[Passenger](https://passenger.tech), a mobile ticketing company, used User Needs Mapping to transform their team structure, reduce dependencies, and deliver value more effectively.
 
 ---
 
@@ -94,4 +94,4 @@ Passenger’s success demonstrates the power of User Needs Mapping to:
 - Simplify dependencies and clarify ownership.
 - Enable scalable, adaptive team structures.
 
-[Return to Documentation Overview](/docs/index)
+[Return to introduction](/docs/introduction)
