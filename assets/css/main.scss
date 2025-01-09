@@ -7,26 +7,6 @@ search: false
 
 $primary-color: #0EA2F1;
 
-  div.section {
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-  }
-
-  .container {
-    display: flex;
-  }
-  
-  .left-half {
-    flex: 1;
-    padding: 1rem;
-  }
-  
-  .right-half {
-    flex: 1;
-    padding: 1rem;
-  }
-
 
 .cta-wrapper {
   margin: 1em 0;
@@ -36,6 +16,50 @@ $primary-color: #0EA2F1;
 .cta-text {
   font-size: 1.2em;
   margin-bottom: 1.5em;
+}
+
+/* Use border-box box-sizing for all elements */
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+.section {
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+
+/* Flex container */
+.container {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: stretch; /* Stretch flex items to fill container */
+  gap: 2rem;
+}
+
+.container h2 {
+    margin: 0 0 0.75rem 0;
+}
+
+/* Flex items */
+.image,
+.content {
+  flex-basis: 100%;
+  padding: 1rem;
+  font-size: 1.0rem;
+}
+
+.image img {
+  max-width: 100%; /* Make image take the max width of its parent container, the .image div */
+}
+
+/* Mobile-first breakpoint */
+@media (min-width: 768px) {
+  /* Flex items take up full width on large screens */
+  .col-2 {
+    flex-basis: calc(50% - 1rem);
+  }
 }
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin

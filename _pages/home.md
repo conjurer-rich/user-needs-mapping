@@ -11,7 +11,13 @@ header:
       url: /quick-start-guide
 excerpt: > 
   Empower your teams to align, collaborate, and deliver meaningful outcomes faster.
-
+section-list:
+    - "**Passenger Case Study:** Learn how a mobile ticketing company used User Needs Mapping to reduce cognitive load, improve team alignment, and scale their business. [Read the story.](/articles/2025-01-02-unm04-case-study-passenger/)"
+    - "**Practical insights:** See how organizations have bridged the gap between complexity and clarity with this technique."
+learn-more-list:
+    - "**Step-by-step guide to User Needs Mapping:** Learn how to use User Needs Mapping to align your teams around the needs of your users. [Read the guide.](/docs/introduction-to-user-needs-mapping/)"
+    - "**Common challenges and how to overcome them:** See how organizations have overcome common challenges with User Needs Mapping. [Read the article.](/docs/challenges/)"
+    - "**Key takeaways for success:** Learn the key takeaways for success with User Needs Mapping. [Read the article.](/articles/2025-01-02-unm07-key-takeaways-user-needs-mapping/)"
 ---
 
 ## When product and engineering teams don’t align, progress slows.
@@ -44,44 +50,31 @@ User Needs Mapping helps bridge the gap, <br>so your teams can **collaborate mor
     image_path="/assets/images/Movie-goer-full-user-needs-map.png"
 %}
 
-## Real-World Results
+{% include section.html
+    title="Real-World Results"
+    description="Transforming organizations, one map at a time."
+    list_id="section-list"
+%}
 
-**Transforming organizations, one map at a time.**
+{% include section.html
+    title="Resources to Get Started"
+    description="The following talk was given at the [Fast Flow Conf 2023](https://fastflowconf.com/), and is a great introduction to User Needs Mapping."
+    video_id="9KScLA7zCHU"
+    list_intro="If you are interested in learning more, take a look at the resources:"
+    list_id="learn-more-list"
+%}
 
-- **Passenger Case Study:** Learn how a mobile ticketing company used User Needs Mapping to reduce cognitive load, improve team alignment, and scale their business. [Read the story.](/articles/2025-01-02-unm04-case-study-passenger/)
-- **Practical insights:** See how organizations have bridged the gap between complexity and clarity with this technique.
-
----
-
-## Resources to Get Started
-
-The following talk was given at the [Fast Flow Conf 2023](https://fastflowconf.com/), and is a great introduction to User Needs Mapping.
-
-{% include video id="9KScLA7zCHU" provider="youtube" %}
-
-If you are interested in learning more, take a look at the resources:
-
-- [Step-by-step guide to User Needs Mapping](/docs/introduction-to-user-needs-mapping/)
-- [Common challenges and how to overcome them](/docs/challenges)
-- [Key takeaways for success](/articles/2025-01-02-unm07-key-takeaways-user-needs-mapping/)
-
----
-
-## Join the Community
-
-**A network of innovators and changemakers.**
-
-User Needs Mapping is more than a technique, it’s a mindset. Join a growing community of practitioners, learn from their experiences, and share your own journey. Together, we can create teams that deliver value faster, with less friction.
-
-[Join the conversation in the community.](/community)
-
----
-
-## Get Started Today
-
-Ready to transform your teams and deliver real value? User Needs Mapping is your first step.
+{% include section.html
+    title="Join the Community"
+    description="**A network of innovators and changemakers.**"
+    list_intro="User Needs Mapping is more than a technique, it’s a mindset. Join a growing community of practitioners, learn from their experiences, and share your own journey. Together, we can create teams that deliver value faster, with less friction."
+    link="/community"
+    link_text="Join the conversation in the community."
+%}
 
 {% include call-to-action.html
+    title="Get Started Today"
+    text="Ready to transform your teams and deliver real value? User Needs Mapping is your first step."
     button_text="Start Mapping Now"
     url="/quick-start-guide"
     secondary_button_prefix="or"
@@ -89,5 +82,3 @@ Ready to transform your teams and deliver real value? User Needs Mapping is your
     secondary_url="/contact"
     postfix_text="if you need some help."
   %}
-
----

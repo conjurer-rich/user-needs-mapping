@@ -1,0 +1,30 @@
+{% if include.list_id %}
+  {% assign list = page[include.list_id] %}
+{% endif %}
+
+<div class="section">
+    <div class="container">
+        <div class="content">
+          <h2>{{ include.title }}</h2>
+          {{ include.description | markdownify }}
+          {% if include.video_id %}
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/{{ include.video_id }}" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+          {% endif %}
+          {% if include.link %}
+          <p>
+            <a href="{{ include.link }}" class="button">{{ include.link_text }}</a>
+          </p>
+          {% endif %}
+          {% if list %}
+            {% if include.list_intro %}
+            <p>{{ include.list_intro | markdownify }}</p>
+            {% endif %}
+            <ul>
+              {% for item in list %}
+                <li>{{ item | markdownify }}</li>
+              {% endfor %}
+            </ul>
+          {% endif %}
+        </div>
+    </div>
+</div>

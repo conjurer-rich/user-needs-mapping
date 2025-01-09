@@ -4,7 +4,7 @@
 
 <div class="cta-wrapper {% if include.align == "center" %}align-center{% endif %}">
   {% if include.text %}
-    <p class="cta-text">{{ include.text }}</p>
+    <p class="cta-text">{{ include.text | markdownify }}</p>
   {% endif %}
   
   {% if include.url and include.button_text %}
@@ -15,6 +15,6 @@
     <a href="{{ include.secondary_url }}" class="btn btn--inverse">{{ include.secondary_button_text }}</a>
   {% endif %}
   {% if include.postfix_text %}
-    {{include.postfix_text}}
+    {{include.postfix_text | markdownify}}
   {% endif %}
 </div>
