@@ -37,7 +37,7 @@ Jumpstart your User Needs Mapping journey with workshops that are interactive, p
 - *Getting started with User Needs Mapping*  
 - *Finding and defining team boundaries for fast flow*
 
-[Discover our workshops.](/workshops)
+{% include call-to-action.html button_text="Discover our workshops" url="/workshops" %}
 
 ---
 
@@ -57,7 +57,7 @@ Our enablement programs embed User Needs Mapping into your teams’ workflows, e
 - On-site enablement tailored to your team’s dynamics.  
 - Virtual programs for distributed organizations.  
 
-[Explore enablement options.](/enablement)
+{% include call-to-action.html button_text="Explore enablement options" url="/enablement" %}
 
 ---
 
@@ -72,7 +72,7 @@ From restructuring teams to scaling operations, our consultancy services offer t
   - Guidance on team structures and cognitive load optimization.  
   - Strategic integration with other methodologies for deeper impact.
 
-[See how consultancy can transform your organization.](/consultancy)
+{% include call-to-action.html button_text="See how consultancy can transform your organization" url="/consultancy" %}
 
 ---
 
@@ -93,4 +93,4 @@ With a proven track record in User Needs Mapping and related methodologies, we b
 **Empower your teams today.**  
 Take the first step toward transforming how your organization works and delivers value.
 
-[Contact us to discuss your needs.](/contact)
+{% include call-to-action.html button_text="Contact us to discuss your needs" url="/contact" %}

@@ -2,30 +2,19 @@
   <h2>{{ include.title }}</h2>
 {% endif %}
 
-<div class="cta-wrapper">
+<div class="cta-wrapper {% if include.align == "center" %}align-center{% endif %}">
   {% if include.text %}
     <p class="cta-text">{{ include.text }}</p>
   {% endif %}
   
   {% if include.url and include.button_text %}
-    {% if include.align == "center" %}
-    <center>
-    {% endif %}
     <a href="{{ include.url }}" class="btn btn--primary">{{ include.button_text }}</a>
-    {% if include.align == "center" %}
-    </center>
-    {% endif %}
+  {% endif %}
+  {% if include.secondary_url and include.secondary_button_text %}
+    {{include.secondary_button_prefix}}
+    <a href="{{ include.secondary_url }}" class="btn btn--inverse">{{ include.secondary_button_text }}</a>
+  {% endif %}
+  {% if include.postfix_text %}
+    {{include.postfix_text}}
   {% endif %}
 </div>
-
-<style>
-  .cta-wrapper {
-    margin: 1em 0;
-    border-radius: 4px;
-  }
-
-  .cta-text {
-    font-size: 1.2em;
-    margin-bottom: 1.5em;
-  }
-</style>

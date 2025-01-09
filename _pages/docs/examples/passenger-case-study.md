@@ -8,6 +8,11 @@ toc: true
 toc_sticky: true
 sidebar:
   nav: docs
+header:
+  overlay_color: "#0EA2F1"
+  overlay_filter: rgba(14,162,241,0.6)
+  overlay_image: /assets/images/passenger-person-on-bus.jpg
+  og_image: /assets/images/passenger-person-on-bus.jpg
 ---
 
 [Passenger](https://passenger.tech), a mobile ticketing company, used User Needs Mapping to transform their team structure, reduce dependencies, and deliver value more effectively.

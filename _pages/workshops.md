@@ -1,11 +1,9 @@
 ---
 permalink: /workshops
 title: "Workshops"
-layout: splash
+layout: single
 description: "Practical, hands-on workshops to master User Needs Mapping and transform your teams."
 ---
-
-# Workshops
 
 **Practical learning to unlock the power of User Needs Mapping.**
 

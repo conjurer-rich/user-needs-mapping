@@ -17,48 +17,32 @@ excerpt: >
 ## When product and engineering teams don’t align, progress slows.
 {: style="border: none; text-align:center" }
 
-### User Needs Mapping helps you bridge the gap, <br>so your teams can collaborate effectively and deliver faster.
-{: style="border: none; text-align:center;margin-bottom: 3em;" class="grey" }
+User Needs Mapping helps bridge the gap, <br>so your teams can **collaborate more effectively** and **deliver faster**.
+{: style="border: none; text-align:center;margin-bottom: 3em;margin-top: 0;color: #666;" }
 
-![The business and tech bridge problem](/assets/images/business-tech-bridge.png){: .align-right}
+{% include section-image-right.html
+    title="The business and tech bridge problem"
+    description="You’ve seen it before: product wants new features yesterday, engineering feels stretched too thin, and users are stuck waiting. Misalignment between product and tech silos creates bottlenecks, delays, and frustration."
+    image_path="/assets/images/business-tech-bridge.png"
+%}
 
-**The 'Why is it taking so long?' Problem**  
-You’ve seen it before: product wants new features yesterday, engineering feels stretched too thin, and users are stuck waiting. Misalignment between product and tech silos creates bottlenecks, delays, and frustration.
+{% include section-image-left.html
+    title="The result of accidental complexity"
+    description="Your organization is made up of **people, processes, and technology** (a socio-technical system). As the organization grows, it becomes more complex. The technical systems become larger and more processes are introduced to try to manage dependencies between the systems but we often don't pay enough attention to the people part of the overall system."
+    image_path="/assets/images/people-process-tech.png"
+%}
 
-At the heart of this challenge is a lack of clarity about user needs, team ownership, and how work flows across your organization.
+{% include section-image-right.html
+    title="Organizing for constant change"
+    description="Your **Customer, Market and Technology** are the three main drivers of value in your organization. They are continuously evolving and the rate of change is only increasing. Organizations need to be able to respond to these changes quickly and effectively. This means being able to sense when to change i.e. **spot the signals** and then act quickly to respond."
+    image_path="/assets/images/aligning-teams-for-value.png"
+%}
 
-&nbsp;
-{: style="margin-bottom: 3em" }
-
-![People, Process and Technology](/assets/images/people-process-tech.png){: .align-left style="width: 45%; margin-right: 2em" }
-
-## The result of accidental complexity
-
-Your organization is made up of **people, processes, and technology** (a socio-technical system). As your organization grows, it becomes more complex. The technical systems become larger and we introduce more processes to try to manage dependencies between the systems but we don't pay enough attention to the people part of the overall system.
-
-How teams are organized will have a direct impact on the flow of value and technical solutions that can be created. If we don't consider the interactions between the people (the teams) then we will **observe bottlenecks and delays** because our focus is on trying **manage dependecies** rather than **unblocking the flow of value**.
-
-&nbsp;
-{: style="margin-bottom: 3em" }
-
-![Organizing around value streams](/assets/images/aligning-teams-for-value.png){: .align-right style="width: 45%; margin-left: 2em"}
-
-## Organizing for constant change
-
-Your **Customer, Market and Technology** are the three main drivers of value in your organization. They are continuously evolving and the rate of change is only increasing. Organizations need to be able to respond to these changes quickly and effectively. This means being able to sense when to change i.e. **spot the signals** and then act quickly to respond.
-
-When adjusting how our teams are organized we need to consider whether our current team structure is satisfying the needs of the users we are trying to serve via **effective value streams**. This can be tricky to achieve when our tech teams are decoupled from the business and product teams.
-
-&nbsp;
-{: style="margin-bottom: 1em" }
-
-![Example of a user needs map drawn with Excalidraw](/assets/images/Movie-goer-full-user-needs-map.png){: .align-left style="width: 45%; margin-top: 1em; margin-right: 2em"}
-
-## The Journey to Success
-
-User Needs Mapping is a technique that helps you to align your teams around the needs of your users. It is a practical, accessible, and scalable approach that can be used by teams of any size, with or without prior experience in advanced frameworks such as Wardley Mapping or Domain-Driven Design.
-
-We seek to start a conversation between product and engineering teams to align around the needs of the users we are trying to serve. We do this via visualizing the value chain which helps us to understand the flow of value through the organization.
+{% include section-image-left.html
+    title="The Journey to Success"
+    description="User Needs Mapping is a technique that helps you to align your teams around the needs of your users. It is a practical, accessible, and scalable approach that can be used by teams of any size, with or without prior experience in advanced frameworks such as Wardley Mapping or Domain-Driven Design.<br> We seek to start a conversation between product and engineering teams to align around the needs of the users we are trying to serve. We do this via visualizing the value chain which helps us to understand the flow of value through the organization."
+    image_path="/assets/images/Movie-goer-full-user-needs-map.png"
+%}
 
 ## Real-World Results
 
@@ -78,7 +62,7 @@ The following talk was given at the [Fast Flow Conf 2023](https://fastflowconf.c
 If you are interested in learning more, take a look at the resources:
 
 - [Step-by-step guide to User Needs Mapping](/docs/introduction-to-user-needs-mapping/)
-- [Common challenges and how to overcome them](/docs/challenges-overview)
+- [Common challenges and how to overcome them](/docs/challenges)
 - [Key takeaways for success](/articles/2025-01-02-unm07-key-takeaways-user-needs-mapping/)
 
 ---
@@ -97,6 +81,13 @@ User Needs Mapping is more than a technique, it’s a mindset. Join a growing co
 
 Ready to transform your teams and deliver real value? User Needs Mapping is your first step.
 
-[Start Mapping Now](/quick-start-guide) or [Get in touch](/contact) if you need some help.
+{% include call-to-action.html
+    button_text="Start Mapping Now"
+    url="/quick-start-guide"
+    secondary_button_prefix="or"
+    secondary_button_text="Get in touch"
+    secondary_url="/contact"
+    postfix_text="if you need some help."
+  %}
 
 ---

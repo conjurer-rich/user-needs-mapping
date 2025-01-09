@@ -7,5 +7,36 @@ search: false
 
 $primary-color: #0EA2F1;
 
+  div.section {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }
+
+  .container {
+    display: flex;
+  }
+  
+  .left-half {
+    flex: 1;
+    padding: 1rem;
+  }
+  
+  .right-half {
+    flex: 1;
+    padding: 1rem;
+  }
+
+
+.cta-wrapper {
+  margin: 1em 0;
+  border-radius: 4px;
+}
+
+.cta-text {
+  font-size: 1.2em;
+  margin-bottom: 1.5em;
+}
+
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials

@@ -1,0 +1,11 @@
+<div class="section">
+    <div class="container">
+        <div class="left-half">
+          <img src="{{ include.image_path }}" alt="">
+        </div>
+        <div class="right-half">
+          <h2>{{ include.title }}</h2>
+          {{ include.description | markdownify }}
+        </div>
+    </div>
+</div>
