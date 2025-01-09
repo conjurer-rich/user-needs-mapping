@@ -1,11 +1,13 @@
 <div class="section">
     <div class="container">
-        <div class="col-2">
-          <img src="{{ include.image_path }}" alt="">
+        <div class="content col-2">
+            <p>
+                <img src="{{ include.image_path }}" alt="">
+            </p>
         </div>
-        <div class="col-2">
-          <h2>{{ include.title }}</h2>
-          {{ include.description | markdownify }}
+        <div class="content col-2">
+            <h2>{{ include.title }}</h2>
+            {{ include.description | markdownify }}
         </div>
     </div>
 </div>

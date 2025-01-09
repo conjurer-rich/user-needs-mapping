@@ -26,8 +26,9 @@ $primary-color: #0EA2F1;
 }
 
 .page__content .section {
-    margin-top: 2rem;
-    margin-bottom: 2rem;
+    display: inline-block;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
 }
 
 /* Flex container */
@@ -87,6 +88,7 @@ $primary-color: #0EA2F1;
     clear: both;
     margin-bottom: 2em;
     text-align: center; 
+    display: inline-block;
 }
 
 .quote__wrapper .feature__item {
