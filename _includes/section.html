@@ -1,10 +1,11 @@
+{% assign list = "" %}
 {% if include.list_id %}
   {% assign list = page[include.list_id] %}
 {% endif %}
 
 <div class="section">
     <div class="container">
-        <div class="content">
+        <div class="content {% if include.large %}large{% endif %} {% if include.condensed %}condensed{% endif %} {% if include.no_underline %}no-underline{% endif %} {% if include.align == 'center' %}align-center{% endif %}" >
           <h2>{{ include.title }}</h2>
           {{ include.description | markdownify }}
           {% if include.video_id %}
@@ -16,7 +17,7 @@
           </p>
           {% endif %}
           {% if list %}
-            {% if include.list_intro %}
+            {% if include.list_intro <> "" %}
             <p>{{ include.list_intro | markdownify }}</p>
             {% endif %}
             <ul>

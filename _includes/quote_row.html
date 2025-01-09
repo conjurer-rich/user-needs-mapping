@@ -1,0 +1,43 @@
+{% if include.id %}
+  {% assign quote_row = page[include.id] %}
+{% else %}
+  {% assign quote_row = page.quote_row %}
+{% endif %}
+
+{% if include.section_wrap %}
+<div class="section">
+    <div class="container">
+        <div class="content">
+{% endif %}
+{% if include.title %}
+<h2>{{ include.title }}</h2>
+{% endif %}
+<div class="quote__wrapper">
+  {% for f in quote_row %}
+    <div class="feature__item{% if include.type %}--{{ include.type }}{% endif %}">
+        {% if f.image_path %}
+          <div class="author__avatar">
+            <img src="{{ f.image_path | relative_url }}" alt="{{ author.name }}" itemprop="image" class="u-photo">
+          </div>
+        {% endif %}
+        <div class="archive__item-body">
+          {% if f.excerpt %}
+            <div class="archive__item-excerpt">
+              {{ f.excerpt | markdownify }}
+            </div>
+          {% endif %}
+        </div>
+        <div class="archive__item-teaser">
+        {% if f.image_caption %}
+            <span>{{ f.image_caption | markdownify | remove: "<p>" | remove: "</p>" }}</span>
+        {% endif %}
+      </div>
+    </div>
+  {% endfor %}
+
+</div>
+{% if include.section_wrap %}
+    </div>
+  </div>
+</div>
+{% endif %}
