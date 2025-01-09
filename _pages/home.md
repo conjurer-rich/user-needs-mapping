@@ -21,13 +21,19 @@ section-list:
 quote-list:
     - excerpt: "It’s much easier to communicate where and how AI is influencing a user or customer need with UNM than customer journey maps or service blueprints."  
       image_path: "/assets/images/profiles/ross_langley.jpg"
-      image_caption: "Ross Langley, Head of Product Design, Fresh"
+      image_caption: "Ross Langley,  
+      Head of Product Design,  
+      Fresh"
     - excerpt: "We used it [User Needs Mapping] to help us think about the service and platforms we needed to support Developers to do their work."  
       image_path: "/assets/images/profiles/matt_doherty.jpg"
-      image_caption: "Matt Doherty, Head of Delivery, The Pensions Regulator"
-    - excerpt: "One of the topics that caught my attention the most was **User Needs Mapping**, which help think about how internal services are provided and trigger boundary adjustments"
+      image_caption: "Matt Doherty,  
+      Head of Delivery,  
+      The Pensions Regulator"
+    - excerpt: "During our engagement, one of the topics that caught my attention the most was User Needs Mapping, which helped us reconsider how internal services are provided"
       image_path: "/assets/images/profiles/rodrigo_viana_rocha.jpeg"
-      image_caption: "Rodrigo Viana Rocha, Head of Software Engineering, Syngenta Digital"
+      image_caption: "Rodrigo Viana Rocha,  
+      Head of Software Engineering,  
+      Syngenta Digital"
 learn-more-list:
     - "**Step-by-step guide to User Needs Mapping:** Learn how to use User Needs Mapping to align your teams around the needs of your users. [Read the guide.](/docs/introduction-to-user-needs-mapping/)"
     - "**Common challenges and how to overcome them:** See how organizations have overcome common challenges with User Needs Mapping. [Read the article.](/docs/challenges/)"

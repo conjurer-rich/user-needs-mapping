@@ -108,5 +108,15 @@ img.author-avatar {
     border-radius: 50%;
 }
 
+.author-excerpt {
+    font-size: 1.2em;
+    font-style: italic;
+}
+
+.author-caption {
+    font-size: 0.8em;
+    font-weight: bold;
+}
+
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials

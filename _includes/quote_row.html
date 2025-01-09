@@ -22,12 +22,12 @@
         {% endif %}
         <div class="archive__item-body">
           {% if f.excerpt %}
-            <div class="archive__item-excerpt">
+            <div class="archive__item-excerpt author-excerpt">
               {{ f.excerpt | markdownify }}
             </div>
           {% endif %}
         </div>
-        <div class="archive__item-teaser">
+        <div class="archive__item-teaser author-caption">
         {% if f.image_caption %}
             <span>{{ f.image_caption | markdownify | remove: "<p>" | remove: "</p>" }}</span>
         {% endif %}
