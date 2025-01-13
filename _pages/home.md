@@ -52,28 +52,28 @@ learn-more-list:
 
 {% include section-image-right.html
     title="Why is delivery taking so long? Let’s fix it."
-    description="Why does it feel like product and engineering are always out of sync? Product demands new features yesterday, engineering struggles to keep up, and your users are left waiting. These silos create bottlenecks, delays, and frustration. The good news? It doesn’t have to be this way."
+    description="Why does it feel like product and engineering are always out of sync? Product demands new features yesterday, engineering struggles to keep up, and your users are left waiting. These silos create **bottlenecks**, **delays**, and **frustration**. The good news? It doesn’t have to be this way."
     image_path="/assets/images/business-tech-bridge.png"
 %}
 
 {% include section-image-left.html
     title="Complexity is slowing you down. Here's how to simplify."
-    description="Your organization is made up of **people, processes, and technology** (a socio-technical system). As the organization grows, it becomes more complex. The technical systems become larger and more processes are introduced to try to manage dependencies between the systems but we often don't pay enough attention to the people part of the overall system."
+    description="Your organization is made up of **people, processes, and technology** (a socio-technical system). As the organization grows, it becomes more complex. The technical systems become larger and more processes are introduced to try to **manage dependencies** between the systems but we often don't pay enough attention to the people part of the overall system."
     image_path="/assets/images/people-process-tech.png"
 %}
 
 {% include section-image-right.html
     title="Stay ahead in a world of constant change."
-    description="Your **Customer, Market and Technology** are the three main drivers of value in your organization. They are continuously evolving and the rate of change is only increasing. Organizations need to be able to respond to these changes quickly and effectively. This means being able to sense when to change i.e. **spot the signals** and then act quickly to respond."
+    description="Your **Customer, Market and Technology** are the three main drivers of value in your organization. They are continuously evolving and the rate of change is only increasing. Organizations need to be able to **respond** to these changes **quickly** and **effectively**. This means being able to sense when to change i.e. **spot the signals** and then act quickly."
     image_path="/assets/images/aligning-teams-for-value.png"
 %}
 
 {% include section-image-left.html
     title="The journey to success"
-    description="Start your transformation with User Needs Mapping. Align your teams, simplify complexity, and create a seamless flow of value to your users. It is a practical, accessible, and scalable approach that can be used by teams of any size, with or without prior experience in advanced frameworks such as Wardley Mapping or Domain-Driven Design.
+    description="Start your transformation with User Needs Mapping. Align your teams, simplify complexity, and create a seamless flow of value to your users. It is a **practical**, **accessible**, and **scalable** approach that can be used by teams of any size, with or without prior experience in advanced frameworks such as Wardley Mapping or Domain-Driven Design.
     \\
     \\
-    We seek to start a conversation between product and engineering teams to align around the needs of the users we are trying to serve. We do this via visualizing the value chain which helps us to understand the flow of value through the organization."
+    We seek to start a conversation between product and engineering teams to align around the needs of the users we are trying to serve. We do this via **visualizing the value chain** which helps us to understand the **flow of value** through the organization."
     image_path="/assets/images/Movie-goer-full-user-needs-map.png"
 %}
 
