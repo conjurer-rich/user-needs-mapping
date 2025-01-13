@@ -39,7 +39,6 @@ learn-more-list:
     - "**Common challenges and how to overcome them:** See how organizations have overcome common challenges with User Needs Mapping. [Read the article.](/docs/challenges/)"
     - "**Key takeaways for success:** Learn the key takeaways for success with User Needs Mapping. [Read the article.](/articles/2025-01-02-unm07-key-takeaways-user-needs-mapping/)"
 ---
-
 {% include section.html
     title="When Product and Engineering teams don’t align, progress can grind to a halt."
     description="User Needs Mapping helps bridge the gap,\\
@@ -84,6 +83,10 @@ learn-more-list:
     list_id="section-list"
 %}
 
+User Needs Mapping has become a "go-to" technique used within the Team Topologies community.
+
+[![Team Topologies](/assets/images/teamtopologies/team_topologies_logo.png)](https://teamtopologies.com/unm){: .align-center}
+
 {% include quote_row.html id="quote-list" title="What do some of our practitioners say?" section_wrap=true %}
 
 {% include section.html
@@ -123,3 +126,4 @@ learn-more-list:
     secondary_postfix_text="if you need some help."
     section_wrap=true
   %}
+

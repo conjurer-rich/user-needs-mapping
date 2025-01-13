@@ -8,6 +8,7 @@ header:
   overlay_color: "#0EA2F1"
   overlay_filter: rgba(14,162,241,0.6)
   overlay_image: /assets/images/workshop-presentation.jpg
+  og_image: /assets/images/Movie-goer-full-user-needs-map.png.jpg
 quote-list:
     - excerpt: "These workshops helped us get to grips with Team Topologies concepts as well as reflect on our current structure and interactions."  
       image_path: "/assets/images/profiles/laden_oksuzer-campbell.jpeg"

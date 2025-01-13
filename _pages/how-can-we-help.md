@@ -8,6 +8,7 @@ header:
   overlay_color: "#0EA2F1"
   overlay_filter: rgba(14,162,241,0.6)
   overlay_image: /assets/images/workshop-talking.jpg
+  og_image: /assets/images/Movie-goer-full-user-needs-map.png.jpg
 quote-list:
     - excerpt: "Whether you have little exposure or consider yourself an advanced expert in Team Topologies, I highly recommend Rich’s work. It’s an investment with immediate returns."  
       image_path: "/assets/images/profiles/rodrigo_viana_rocha.jpeg"
