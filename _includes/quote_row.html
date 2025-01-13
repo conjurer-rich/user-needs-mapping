@@ -1,3 +1,7 @@
+{% assign postfix_text = "Have you tried User Needs Mapping? We'd love to get your feedback. [Let us know your thoughts](/feedback)." %}
+{% if include.postfix_text %}
+  {% assign postfix_text = include.postfix_text %}
+{% endif %}
 {% if include.id %}
   {% assign quote_row = page[include.id] %}
 {% else %}
@@ -35,7 +39,7 @@
     </div>
   {% endfor %}
 </div>
-<p>Have you tried User Needs Mapping? We'd love to get your feedback. <a href="/feedback">Let us know your thoughts</a>.</p>
+<p>{{ postfix_text | markdownify }}</p>
 {% if include.section_wrap %}
     </div>
   </div>

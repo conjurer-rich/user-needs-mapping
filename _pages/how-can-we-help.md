@@ -8,6 +8,22 @@ header:
   overlay_color: "#0EA2F1"
   overlay_filter: rgba(14,162,241,0.6)
   overlay_image: /assets/images/workshop-talking.jpg
+quote-list:
+    - excerpt: "Whether you have little exposure or consider yourself an advanced expert in Team Topologies, I highly recommend Rich’s work. It’s an investment with immediate returns."  
+      image_path: "/assets/images/profiles/rodrigo_viana_rocha.jpeg"
+      image_caption: "Rodrigo Viana Rocha,  
+      Head of Engineering,  
+      Syngenta Digital"
+    - excerpt: "Rich was instrumental in defining our initial team topologies, creating a structure that improved cross-team collaboration and workflow efficiency."
+      image_path: "/assets/images/profiles/james_burnham.jpeg"
+      image_caption: "James Burnham,  
+      Solutions Architect,  
+      PureGym"
+    - excerpt: "Rich really helped us get on the fast track with our newly found engineering teams. Having a structured approach with valuable insights allowed us to shape stream-aligned team structures"  
+      image_path: "/assets/images/profiles/niklas_henrich.jpeg"
+      image_caption: "Niklas Henrich,  
+      CTO,  
+      Code Intelligence"
 redirect_from:
   - /training
 ---
@@ -85,6 +101,11 @@ With a proven track record in User Needs Mapping and related methodologies, we b
 - **Tailored to You:** Every solution is customized to fit your team’s needs.  
 - **Collaborative:** We work closely with your teams to drive real results.  
 - **Impactful:** Designed to create immediate value and long-term change.
+
+{% include quote_row.html id="quote-list"
+   title="How we've helped other organizations like yours"
+   section_wrap=true
+%}
 
 ---
 

@@ -17,7 +17,6 @@ section-list:
       **Passenger Case Study:** Discover how a mobile ticketing company used User Needs Mapping to disccover value streams and align their teams for optimal delivery. [Read the story.](/articles/2025-01-02-unm04-case-study-passenger/)  
     
       > 'User Needs Mapping has helped us to identify previously unseen ways of organizing our teams and was a valuable part of applying Team Topologies at Passenger' Tom Quay, CEO, Passenger"
-    - "**Practical insights:** See how organizations have bridged the gap between complexity and clarity with this technique."  
 quote-list:
     - excerpt: "It’s much easier to communicate where and how AI is influencing a user or customer need with UNM than customer journey maps or service blueprints."  
       image_path: "/assets/images/profiles/ross_langley.jpg"
@@ -41,9 +40,8 @@ learn-more-list:
 ---
 
 {% include section.html
-    title="When Product and Engineering teams don’t align,  
-    progress can grind to a halt."
-    description="User Needs Mapping helps bridge the gap,  
+    title="When Product and Engineering teams don’t align, progress can grind to a halt."
+    description="User Needs Mapping helps bridge the gap,\\
     so your teams can **collaborate more effectively** and **deliver value faster**."
     image_path="/assets/images/people-process-tech.png"
     align="center"
@@ -72,7 +70,9 @@ learn-more-list:
 
 {% include section-image-left.html
     title="The journey to success"
-    description="Start your transformation with User Needs Mapping. Align your teams, simplify complexity, and create a seamless flow of value to your users. It is a practical, accessible, and scalable approach that can be used by teams of any size, with or without prior experience in advanced frameworks such as Wardley Mapping or Domain-Driven Design.  
+    description="Start your transformation with User Needs Mapping. Align your teams, simplify complexity, and create a seamless flow of value to your users. It is a practical, accessible, and scalable approach that can be used by teams of any size, with or without prior experience in advanced frameworks such as Wardley Mapping or Domain-Driven Design.
+    \\
+    \\
     We seek to start a conversation between product and engineering teams to align around the needs of the users we are trying to serve. We do this via visualizing the value chain which helps us to understand the flow of value through the organization."
     image_path="/assets/images/Movie-goer-full-user-needs-map.png"
 %}
@@ -87,17 +87,26 @@ learn-more-list:
 
 {% include section.html
     title="Resources to get started"
-    description="The following talk was given at the [Fast Flow Conf 2023](https://fastflowconf.com/), and is a great introduction to User Needs Mapping."
+    description="Here is a talk from [Fast Flow Conf 2023](https://fastflowconf.com/) gives a great overview of User Needs Mapping."
     video_id="9KScLA7zCHU"
     list_intro="If you are interested in learning more, take a look at the resources:"
     list_id="learn-more-list"
 %}
 
+{% include call-to-action.html
+    title="Want to run a workshop at your organization?"
+    text="If you would like to explore running a workshop at your organization, take a look at our workshop page for more information."
+    button_text="Learn more about workshops"
+    url="/workshops"
+    section_wrap=true
+  %}
+
 {% include section.html
     title="Join the community"
     description="**A network of innovators and changemakers.**  
-    User Needs Mapping is more than a technique, it’s a mindset. Join a growing community of practitioners, learn from their experiences, and share your own journey. Together, we can create teams that deliver value faster, with less friction.  
-    Access exclusive resources, collaborate with peers, and learn from industry leaders."
+    User Needs Mapping is more than a technique, it’s a mindset. Join a growing community of practitioners, learn from their experiences, and share your own journey.\\
+    In the community you get access exclusive resources, collaborate with peers, and learn from industry leaders.\\
+    Together, we can create teams that deliver value faster, with less friction."
     link="/community"
     link_text="Join the conversation in the community."
 %}

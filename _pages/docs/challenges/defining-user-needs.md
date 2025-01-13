@@ -7,7 +7,7 @@ toc: true
 toc_sticky: true
 sidebar:
   nav: docs
-permalink: /docs/challenges/defining-user-needs/
+permalink: /docs/challenges/defining-user-needs
 ---
 
 ## Challenge: Difficulty Defining User Needs
@@ -64,6 +64,6 @@ Work with your team to define user needs using the following prompts:
 ---
 
 Ready to tackle the next challenge?  
-[Go to Overwhelming Complexity](/docs/challenges/overwhelming-complexity/)
+[Go to Overwhelming Complexity](/docs/challenges/overwhelming-complexity)
 
 {% include help-with-challenges-cta.html %}

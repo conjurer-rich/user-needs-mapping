@@ -5,11 +5,10 @@ main:
     url: /how-can-we-help
   - title: "Articles"
     url: /articles
+  - title: "Community"
+    url: /"community"
   - title: "Contact"
     url: /contact
-
-how-can-we-help:
-  - title: ""
 
 docs:
   - title: Getting started
@@ -32,6 +31,12 @@ docs:
       url: /docs/step-6-defining-team-boundaries
     - title: "Step 7: Iterate and Scale"
       url: /docs/step-7-iterate-and-scale
+  #- title: Team Topologies
+  #  children:
+  #  - title: "Overview"
+  #    url: /docs/teamtopologies
+  #  - title: "The Four Team Types"
+  #    url: /docs/teamtopologies/four-team-types
   - title: Typical Challenges
     children:
     - title: "Overview"

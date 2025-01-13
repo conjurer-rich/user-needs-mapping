@@ -2,7 +2,7 @@
 title: "Resistance to Change in User Needs Mapping"
 layout: single
 description: "How to overcome resistance when introducing User Needs Mapping to teams and leadership."
-permalink: /docs/challenges/resistance-to-change/
+permalink: /docs/challenges/resistance-to-change
 toc_label: "Resistance to Change"
 toc: true
 toc_sticky: true
@@ -28,7 +28,7 @@ Engage team members and leadership in the process from the start. Explain the be
 
 ### 3. Highlight Success Stories
 
-Share examples from other organizations, such as [Passenger’s Case Study](/docs/passenger-case-study/), to build confidence and excitement.
+Share examples from other organizations, such as [Passenger's Case Study](/docs/passenger-case-study), to build confidence and excitement.
 
 ---
 
@@ -41,6 +41,6 @@ Share examples from other organizations, such as [Passenger’s Case Study](/doc
 ---
 
 Ready to tackle the next challenge?  
-[Go to Defining User Needs](/docs/challenges/defining-user-needs/)
+[Go to Defining User Needs](/docs/challenges/defining-user-needs)
 
 {% include help-with-challenges-cta.html %}

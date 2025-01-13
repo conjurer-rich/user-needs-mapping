@@ -50,12 +50,7 @@ Create diagrams or dependency trees to illustrate how capabilities relate to one
 2. **Engage Experts:** Involve customer support managers to detail how these tools interact.
 3. **Visualize:** Create a dependency tree:
 
-```text
-User Need: Resolve a Customer Issue
-  |
-  V
-Ticketing System ---> Knowledge Base ---> Analytics Platform
-```
+![Capability Clarity Example](/assets/images/Movie-goer-find-a-movie-capabilities-2.png)
 
 This visualization highlights how each capability contributes to resolving customer issues.
 
