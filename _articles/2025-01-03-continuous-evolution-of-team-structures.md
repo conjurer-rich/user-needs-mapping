@@ -31,22 +31,29 @@ Dr. Jabe Bloom’s "Ideal Present" complements this by encouraging organizations
 Before diving into reteaming patterns, it’s essential to establish systems that enable seamless movement between teams:
 
 ### 1. **Cross-Functional Knowledge Sharing**
+
 Encourage knowledge sharing across teams to minimize dependency on specific individuals. Techniques include:
+
 - Pair programming or mob programming.
 - Cross-team demos or showcases.
 - Documenting critical workflows and systems.
 
 ### 2. **Clear Onboarding and Offboarding Processes**
+
 Develop lightweight processes for bringing team members on board and transitioning them to new teams. These might include:
+
 - Team charters that outline roles, responsibilities, and expectations.
 - A buddy system for new team members.
 
 ### 3. **Foster Psychological Safety**
+
 Create an environment where team members feel comfortable with change by:
+
 - Encouraging open communication about transitions.
 - Providing support and coaching during transitions.
 
 ### 4. **Define the Ideal Present**
+
 Work with teams to articulate an ideal but achievable state for team structures that supports their current objectives and sets the foundation for further evolution. This focus ensures that every step taken has immediate benefits.
 
 ---
@@ -56,43 +63,58 @@ Work with teams to articulate an ideal but achievable state for team structures 
 Dynamic Reteaming offers five core patterns for changing team structures. Here’s how you can use each pattern to move incrementally toward your ideal state:
 
 ### 1. **One-by-One Reteaming**
+
 Gradually add or remove individuals from a team over time. This pattern is ideal for:
+
 - **Building skills:** Transitioning individuals to teams where they can develop expertise in new domains.
 - **Reducing dependencies:** Slowly moving key individuals out of teams to distribute their knowledge.
 
 **Example:**
+
 - A key developer on a legacy system begins pairing with a new team to transfer knowledge while maintaining support for the old system.
 
 ### 2. **Grow and Split Reteaming**
+
 When a team becomes too large, split it into smaller, more focused teams. This pattern works well when:
+
 - Teams take on additional responsibilities that require more focus.
 - New domains or capabilities emerge that justify distinct teams.
 
 **Example:**
+
 - A stream-aligned team focused on "ticketing and payments" grows and splits into two teams: one for ticketing systems and one for payment processing.
 
 ### 3. **Isolation Reteaming**
+
 Temporarily isolate team members to focus on a specific task or project. This is useful for:
+
 - Tackling critical challenges that require dedicated effort.
 - Exploring experimental solutions without disrupting ongoing work.
 
 **Example:**
+
 - A subset of a platform team is isolated to prototype a new API for integration with third-party vendors.
 
 ### 4. **Merging Teams**
+
 Combine two or more teams into a single team. This is effective when:
+
 - Teams are addressing overlapping user needs or domains.
 - Resource constraints necessitate consolidation.
 
 **Example:**
-- Two enabling teams supporting different parts of a platform merge into a single team to create a unified developer experience.
+
+- Two stream-aligned teams supporting different parts of a platform merge into a single team to create a unified developer experience.
 
 ### 5. **Switching Team Members**
+
 Move individuals between teams to spread knowledge and strengthen collaboration. This pattern is ideal for:
+
 - Increasing resilience by cross-pollinating expertise.
 - Responding to changing priorities or project needs.
 
 **Example:**
+
 - A designer from a journey-planning team temporarily joins a ticketing team to improve UI consistency across products.
 
 ---
@@ -113,6 +135,3 @@ Dr. Jabe Bloom’s emphasis on small, incremental changes is crucial for success
 Transitioning to new team boundaries is not an overnight process. By combining the principles of Dynamic Reteaming with Dr. Jabe Bloom’s "Ideal Present," you can create systems that support continuous evolution while maintaining long-lived stream-aligned teams. With the right patterns and mindset, your organization can adapt to changing demands, minimize disruption, and unlock new opportunities for growth.
 
 Ready to begin your transition? Explore our [workshops](/workshops) or [consultancy services](/consultancy) to get expert guidance on Dynamic Reteaming and team alignment.
-
----
-
