@@ -23,14 +23,20 @@ Traditional approaches to team alignment often fall short because they focus on 
 
 ## What is User Needs Mapping?
 
-User Needs Mapping is a technique that borrows from Simon Wardley’s Wardley Mapping but simplifies it to reduce cognitive load. While Wardley Mapping involves analyzing landscapes, dependencies, and evolutionary paths, User Needs Mapping focuses on the foundational first step: identifying users and their needs.
+[![Wardley Map](/assets/images/wardley-mapping/wardley-map-example.webp)](https://learnwardleymapping.com/)
+
+User Needs Mapping is a technique that borrows from Simon Wardley’s [Wardley Mapping](https://learnwardleymapping.com/) but removes some of the more perceived complex elements and concepts such as landscapes, climatic patterns, doctrinal principles and leadership stratagems. That is not to say that these are not important, and I would highly recommend exploring them and learning about them because they will be massively helpful in your journey, but they are not required to start with User Needs Mapping.
+
+![User Needs Mapping](/assets/images/Movie-goer-full-user-needs-map.png){: width="400" .align-right}
 
 At its core, User Needs Mapping involves:
+
 - **Identifying your users:** This includes both external customers and internal stakeholders, such as platform users or operational teams.
 - **Defining user needs:** These are expressed in user-centric language, focusing on verbs (actions) rather than nouns (objects).
-- **Mapping capabilities to needs:** Understanding what your organization must do to meet these needs.
+- **Mapping capabilities to needs:** Understanding what your organization must do to meet these needs (creating a value chain).
+- **Overlaying teams:** Mapping teams to the needs and capabilities.
 
-By visualizing the relationships between users, their needs, and your organizational capabilities, User Needs Mapping helps uncover opportunities for restructuring teams, clarifying responsibilities, and reducing dependencies.
+By visualizing the relationships between users, their needs, your organizational capabilities and the teams that are responsible for delivering those capabilities, User Needs Mapping helps uncover opportunities for restructuring teams, clarifying responsibilities, and reducing dependencies.
 
 ---
 
@@ -68,6 +74,3 @@ User Needs Mapping offers several benefits for organizations of all sizes:
 User Needs Mapping is not just a technique; it’s a mindset shift. By focusing on users and their needs, organizations can break free from outdated structures and create teams that are purpose-driven, aligned, and ready for the future. Whether you’re a startup looking to scale or an established organization seeking to reduce complexity, User Needs Mapping offers a practical path forward.
 
 In upcoming articles, we’ll dive deeper into the steps of User Needs Mapping, explore real-world case studies, and provide actionable tips to help you implement this powerful technique. Stay tuned!
-
-
-
