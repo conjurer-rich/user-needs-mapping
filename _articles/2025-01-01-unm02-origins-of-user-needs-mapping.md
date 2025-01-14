@@ -66,7 +66,7 @@ By starting with users and their needs, User Needs Mapping helps teams develop a
 
 ## The influence of Team Topologies
 
-[![Team Topologies](/assets/images/teamtopologies/TeamTop_cover_RGB_flat_stroke.jpg){: width="400" .align-right}](https://teamtopologies.com/)
+[![Team Topologies](/assets/images/teamtopologies/TeamTop_cover_RGB_flat_stroke.jpg){: width="200" .align-right}](https://teamtopologies.com/)
 
 [Team Topologies](https://teamtopologies.com/), developed by Matthew Skelton and Manuel Pais, introduces two critical lenses: **fast flow** and **cognitive load.** These lenses align perfectly with the goals of User Needs Mapping. Team Topologies emphasizes designing teams to reduce cognitive load and enable fast flow of change. User Needs Mapping incorporates these principles by helping organizations identify:
 
