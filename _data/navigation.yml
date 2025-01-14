@@ -6,7 +6,7 @@ main:
   - title: "Articles"
     url: /articles
   - title: "Community"
-    url: /"community"
+    url: /community
   - title: "Contact"
     url: /contact
 
