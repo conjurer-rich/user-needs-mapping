@@ -1,6 +1,6 @@
 ---
 permalink: /resources
-layout: single
+layout: splash
 title: Guides and resources
 toc: true
 toc_sticky: true

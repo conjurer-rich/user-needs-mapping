@@ -75,7 +75,7 @@ plugins:
 author:
   name   : "Rich Allen"
   avatar : "/assets/images/Rich Allen Profile - Cropped Square - Colour.jpeg"
-  bio    : "Team Topologies Valued Practitioner."
+  bio    : "Creator of User Needs Mapping"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
