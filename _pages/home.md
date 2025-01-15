@@ -39,11 +39,13 @@ learn-more-list:
     - "**Common challenges and how to overcome them:** See how organizations have overcome common challenges with User Needs Mapping. [Read the article.](/docs/challenges/)"
     - "**Key takeaways for success:** Learn the key takeaways for success with User Needs Mapping. [Read the article.](/articles/2025-01-02-unm07-key-takeaways-user-needs-mapping/)"
 ---
+
 {% include section.html
     title="When Product and Engineering teams don’t align, progress can grind to a halt."
-    description="User Needs Mapping helps bridge the gap,\\
+    description="Wouldn't it be great to align product and engineering with..."
+    image_path="/assets/images/Movie-goer-full-user-needs-map.png"
+    post_fix_text="Welcome to User Needs Mapping, an approach to bridge the gap,\\
     so your teams can **collaborate more effectively** and **deliver value faster**."
-    image_path="/assets/images/people-process-tech.png"
     align="center"
     no_underline=true
     condensed=true
