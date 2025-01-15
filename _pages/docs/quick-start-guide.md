@@ -18,7 +18,7 @@ redirect_from:
   - /quick-start-guide
 ---
 
-## Why Use User Needs Mapping?
+## Why use User Needs Mapping?
 
 Organizations often struggle to align their teams and services to deliver value effectively. Questions like these arise:
 
@@ -36,9 +36,9 @@ In this guide, we’ll use the example of a **moviegoer’s journey** to explore
 
 A team at a cinema ticketing platform is struggling with several issues:  
 
-1. **Team Misalignment**: Different teams manage overlapping responsibilities, leading to duplicated efforts and communication breakdowns.  
-2. **Slow Flow of Change**: Dependencies between teams cause delays when rolling out new features, like personalized recommendations.  
-3. **User Complaints**: Users find it difficult to discover movies that match their preferences, and the ticket booking process feels clunky.  
+1. **Team misalignment**: Different teams manage overlapping responsibilities, leading to duplicated efforts and communication breakdowns.  
+2. **Slow flow of change**: Dependencies between teams cause delays when rolling out new features, like personalized recommendations.  
+3. **User complaints**: Users find it difficult to discover movies that match their preferences, and the ticket booking process feels clunky.  
 
 ### Goal of the User Needs Mapping Session
 
@@ -50,7 +50,7 @@ A team at a cinema ticketing platform is struggling with several issues:
 
 ## The Moviegoer Journey
 
-Consider our user the "Movie Goer". We might consider that they have the following core job to be done:
+Consider our user the "Movie Goer". We might consider that they have the following goal:
 
 > Enjoy a movie experience that meets my personal preferences in an easy and stress-free way.
 
@@ -58,15 +58,15 @@ If we summarize what they are trying to achieve in a simple statement it might l
 
 > When I want to relax or spend quality time with others, I want to choose, book, and attend a movie that matches my preferences and schedule, so that I feel entertained and confident my plans will go smoothly.
 
-Within this statement we can identify some core jobs that need to be done:
+Within this statement, we can identify a few things that they are trying to achieve:
 
-1. **Functional job**: Choose and watch a movie I like at a convenient time and location.
-2. **Emotional job**: Feel entertained, relaxed, or inspired by the movie
-3. **Emotional job**: Feel confident that my plans will go smoothly
-4. **Social job**: Enjoy quality time with friends or family
-5. **Social job**: Share my experience to connect with others or influence their choices
+1. **Functional**: Choose and watch a movie I like at a convenient time and location.
+2. **Emotional**: Feel entertained, relaxed, or inspired by the movie
+3. **Emotional**: Feel confident that my plans will go smoothly
+4. **Social**: Enjoy quality time with friends or family
+5. **Social**: Share my experience to connect with others or influence their choices
 
-When considering the stages of the journey a user might take to get a job done, it can be useful to consider them in terms of the stages of a [**job map**](https://jobs-to-be-done.com/mapping-the-job-to-be-done-45336427b3bc). A job map does not show what the customer is doing (a solution view); rather, it describes what the customer is trying to get done (a needs view). We can use each stage of the job map to identify steps that the user might take as part of their journey.
+When considering the stages that a user might take to achieve their goal, it can be useful to consider them in terms of what the user is trying to get done (a needs view).
 
 ![Movie goer journey](/assets/images/Movie-goer-journey.png)
 
