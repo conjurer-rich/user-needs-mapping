@@ -10,7 +10,9 @@ sidebar:
   nav: docs
 ---
 
-## Why Defining the Purpose Matters
+![Purpose](/assets/images/unm-purpose.png)
+
+## Why defining the purpose matters
 
 Before identifying users, it’s crucial to define the purpose of your User Needs Mapping session. A clear purpose ensures alignment among stakeholders, focuses discussions, and sets the stage for meaningful outcomes. Without it, efforts can become fragmented, and the session may fail to address critical challenges.
 
@@ -18,9 +20,9 @@ Before identifying users, it’s crucial to define the purpose of your User Need
 
 ## Key Actions
 
-- **Clarify Objectives:** Determine what you aim to achieve with the mapping session (e.g., reducing dependencies, improving team alignment, or identifying key user needs).
-- **Define the Scope:** Establish the boundaries of the discussion to prevent scope creep.
-- **Align Stakeholders:** Ensure all participants understand and agree on the session’s goals.
+- **Clarify objectives:** Determine what you aim to achieve with the mapping session (e.g., reducing dependencies, improving team alignment, or identifying key user needs).
+- **Define the scope:** Establish the boundaries of the discussion to prevent scope creep.
+- **Align stakeholders:** Ensure all participants understand and agree on the session’s goals.
 
 ---
 
@@ -28,8 +30,8 @@ Before identifying users, it’s crucial to define the purpose of your User Need
 
 - **Purpose Statement Template:** Use this simple format to define your session’s purpose:  
   > “The purpose of this User Needs Mapping session is to [primary goal] by [key actions].”*
-- **Stakeholder Alignment Meetings:** Conduct brief pre-session meetings to confirm objectives and gather input.
-- **Prioritization Matrix:** Use a matrix to determine which areas or challenges to focus on during the session.
+- **Stakeholder alignment meetings:** Conduct brief pre-session meetings to confirm objectives and gather input.
+- **Prioritization matrix:** Use a matrix to determine which areas or challenges to focus on during the session.
 
 ---
 

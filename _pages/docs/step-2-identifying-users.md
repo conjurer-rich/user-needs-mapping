@@ -10,16 +10,19 @@ sidebar:
   nav: docs
 ---
 
-**Why Identifying Users Matters**  
+![Users](/assets/images/unm-sample-users.png)
+
+## Why identifying users matters
+
 Once the purpose of your User Needs Mapping session is clear, the next step is understanding who your users are. Without knowing the individuals or groups you serve, it’s impossible to define meaningful needs or align your organization’s capabilities effectively. Identifying users ensures your mapping efforts remain grounded in real-world contexts and priorities.
 
 ---
 
 ## Key Actions
 
-1. **Identify External Users:** Focus on customers or stakeholders who directly engage with your product or service.
-2. **Identify Internal Users:** Include teams within your organization—such as platform engineers, support teams, and marketing—who are crucial to delivering value.
-3. **Group Users:** Organize users into clear groups based on roles, behaviors, or shared needs.
+1. **Identify external users:** Focus on customers or stakeholders who directly engage with your product or service.
+2. **Identify internal users:** Include teams within your organization—such as platform engineers, support teams, and marketing—who are crucial to delivering value.
+3. **Group users:** Organize users into clear groups based on roles, behaviors, or shared needs.
 
 ---
 

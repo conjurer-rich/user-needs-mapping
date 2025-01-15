@@ -12,20 +12,22 @@ sidebar:
 
 ## What is User Needs Mapping?
 
+![User Needs Mapping](/assets/images/Movie-goer-full-user-needs-map.png)
+
 User Needs Mapping is a practical process for aligning teams, clarifying priorities, and simplifying complexity by focusing on the needs of both external and internal users. By identifying and prioritizing these needs, mapping capabilities, and defining clear team boundaries, organizations can deliver value more effectively while reducing dependencies and improving collaboration.
 
 ---
 
-## Why User Needs Mapping Matters
+## Why User Needs Mapping matters
 
-- **Bridges Strategy and Execution:** Aligns high-level goals with actionable team-level priorities.
-- **Solves Misalignment:** Ensures that teams are working toward shared outcomes.
-- **Simplifies Complexity:** Reduces unnecessary dependencies and clarifies ownership.
-- **Empowers Collaboration:** Improves communication and coordination between Product, Tech, and other functions.
+- **Bridges strategy and execution:** Aligns high-level goals with actionable team-level priorities.
+- **Solves misalignment:** Ensures that teams are working toward shared outcomes.
+- **Simplifies complexity:** Reduces unnecessary dependencies and clarifies ownership.
+- **Empowers collaboration:** Improves communication and coordination between Product, Tech, and other functions.
 
 ---
 
-## The Process
+## The process
 
 User Needs Mapping follows a step-by-step approach designed to provide clarity and alignment:
 
@@ -39,16 +41,18 @@ User Needs Mapping follows a step-by-step approach designed to provide clarity a
 
 ---
 
-## Who Benefits from User Needs Mapping?
+## Who benefits from User Needs Mapping?
 
-- **Leaders and Managers:** Gain clarity on how teams contribute to organizational goals.
-- **Product Teams:** Align roadmaps with real user needs.
-- **Tech Teams:** Reduce bottlenecks and enable sustainable delivery.
-- **Cross-Functional Teams:** Improve collaboration by reducing silos and fostering shared understanding.
+![Business/tech bridge](/assets/images/business-tech-bridge.png)
+
+- **Leaders and managers:** Gain clarity on how teams contribute to organizational goals.
+- **Product teams:** Align roadmaps with real user needs.
+- **Tech teams:** Reduce bottlenecks and enable sustainable delivery.
+- **Cross-Functional teams:** Improve collaboration by reducing silos and fostering shared understanding.
 
 ---
 
-## Ready to Start?
+## Ready to start?
 
 Begin your journey with the first step: **Define the Purpose** of your User Needs Mapping session.  
 [Get started with Step 1: Define the Purpose](/docs/step-1-define-purpose)
