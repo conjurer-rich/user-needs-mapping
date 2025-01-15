@@ -1,12 +1,12 @@
 main:
   - title: "Quick start"
     url: /docs/quick-start-guide
-  - title: "How can we help"
-    url: /how-can-we-help
   - title: "Insights"
     url: /insights
   - title: "Community"
     url: /community
+  - title: "How can we help"
+    url: /how-can-we-help
   - title: "Contact"
     url: /contact
 

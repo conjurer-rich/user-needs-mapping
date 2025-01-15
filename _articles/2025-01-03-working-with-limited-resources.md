@@ -4,6 +4,7 @@ description: "Discover how to apply User Needs Mapping to define team and servic
 date: 2025-01-02
 categories: [team-alignment, user-needs-mapping, resource-constraints]
 tags: [User Needs Mapping, A Beautiful Constraint, scale-ups, team boundaries, organizational design]
+published: false
 ---
 
 Growing organizations, particularly scale-ups, often face a common challenge: defining effective team and service boundaries when resources are limited. While the task might seem daunting, embracing a mindset of possibility can transform constraints into opportunities. By combining **User Needs Mapping** with the "We can if..." approach from *A Beautiful Constraint*, you can create innovative, scalable solutions that work within your current limitations.
