@@ -5,6 +5,7 @@ date: 2025-01-02
 categories: [team-alignment, user-needs-mapping, advanced-frameworks]
 tags: [Wardley Mapping, Domain-Driven Design, Team Topologies, User Needs Mapping, organizational design]
 author: richallen
+published: false
 ---
 
 Modern organizations are increasingly drawn to sophisticated frameworks like Wardley Mapping, Domain-Driven Design (DDD), and Team Topologies. These methodologies promise improved strategy, team alignment, and technical excellence. However, their complexity can make them intimidating for teams unfamiliar with the underlying concepts. **User Needs Mapping** provides a practical entry point, enabling teams to adopt the mindset and practices needed to leverage these advanced frameworks effectively.

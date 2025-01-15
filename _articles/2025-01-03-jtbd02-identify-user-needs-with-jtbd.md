@@ -4,6 +4,7 @@ description: "Discover how to uncover actionable user needs using the Jobs to Be
 date: 2025-01-03
 categories: [jobs-to-be-done, user-needs, customer-insights]
 tags: [Jobs to Be Done, User Needs, team alignment, customer insights, organizational design]
+published: false
 ---
 
 Understanding your users’ needs is the cornerstone of delivering value. But what drives these needs? The **Jobs to Be Done (JTBD)** framework provides a powerful way to uncover the deeper motivations behind user actions. By identifying the "jobs" users are trying to accomplish, you can frame their needs in a way that guides strategic decisions and aligns your teams effectively.

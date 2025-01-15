@@ -5,7 +5,10 @@ date: 2025-01-02
 categories: [team-alignment, user-needs-mapping, fast-flow]
 tags: [Wardley Mapping, Domain-Driven Design, Team Topologies, cognitive load, organizational design]
 author: richallen
+published: false
 ---
+
+![User Needs Mapping](/assets/images/unm-sample-users.png)
 
 User Needs Mapping is a practical and accessible tool for organizations looking to align their teams, reduce cognitive load, and improve the flow of value. By focusing on users and their needs, this technique provides actionable insights for defining team and service boundaries. This article walks you through the step-by-step process of User Needs Mapping, complete with practical tips and examples to help you get started.
 
@@ -13,14 +16,18 @@ User Needs Mapping is a practical and accessible tool for organizations looking 
 
 ## Step 1: Identify your users
 
+![User Needs Mapping](/assets/images/unm-sample-users.png)
+
 The first step in User Needs Mapping is to identify your users. These users can include both external customers and internal stakeholders, such as platform teams or operational staff.
 
-### Tips for identifying users:
+### Tips for identifying users
+
 - **Think broadly:** Consider all the people who interact with your organization, from end customers to employees.
 - **Group similar users:** For simplicity, group users with similar needs into categories (e.g., “customers,” “operations teams”).
 - **Include internal users:** Don’t forget about platform teams, developers, and other internal stakeholders who rely on your systems.
 
 **Example:** For a mobile ticketing company, users might include:
+
 - Bus passengers
 - Operators’ scheduling teams
 - Operators’ marketing teams
@@ -32,12 +39,31 @@ The first step in User Needs Mapping is to identify your users. These users can 
 
 Once you’ve identified your users, the next step is to define their needs. These should be described from the user’s perspective, using clear and actionable language.
 
-### Tips for defining needs:
-- **Focus on verbs:** Use action-oriented language (e.g., “buy a ticket” rather than “ticket purchase”).
-- **Avoid solutions:** Describe the problem or goal, not the solution (e.g., “plan a journey” rather than “use our journey planner tool”).
-- **Validate with users:** Ensure the language resonates with real users.
+### Tips for defining needs
+
+#### Focus on action and context
+
+- Use action-oriented language (e.g., “buy a ticket” rather than “ticket purchase”).
+- Add context to clarify why or when the user performs the action (e.g., “quickly compare travel options to save money and avoid missing special offers”).
+
+#### Describe the Problem, Not the Solution
+
+- Articulate what the user is trying to accomplish or avoid, rather than mentioning your specific feature or tool.
+- Example: “plan a journey seamlessly” instead of “use our journey planner.”
+
+### Validate with Real Users (and Stakeholders)
+
+- Check that your wording reflects actual user language—through interviews, surveys, or quick usability tests.
+- Iterate as you learn more, and remember to factor in business or compliance needs that could shape the final solution.
+
+### Additional Recommendations
+
+- **Use “Five Whys”:** Ask “why” repeatedly to uncover the deeper motivation behind a stated user task.
+- **Tie to Strategic Goals:** Make sure user needs align with your organization’s mission or key objectives.
+- **Be Specific:** While being concise, add enough detail to avoid ambiguity. For instance, “buy a ticket online within minutes” points to both the action (buy) and an expectation (quick, digital).
 
 **Example:**
+
 - A bus passenger might need to:
   - Buy a ticket
   - Use the ticket to board a bus
@@ -53,6 +79,7 @@ Once you’ve identified your users, the next step is to define their needs. The
 With user needs defined, the next step is to map organizational capabilities to those needs. Capabilities are the functions or systems your organization uses to meet specific user needs.
 
 ### Tips for mapping capabilities:
+
 - **Create a dependency tree:** Visualize how capabilities support user needs and depend on one another.
 - **Be detailed:** Include both technical systems (e.g., databases, APIs) and human processes (e.g., customer support).
 - **Identify gaps:** Look for needs that lack clear supporting capabilities.

@@ -4,6 +4,7 @@ description: "Learn how to transition to new team structures using Dynamic Retea
 date: 2025-01-02
 categories: [team-alignment, dynamic-reteaming, organizational-change]
 tags: [Dynamic Reteaming, team evolution, stream-aligned teams, organizational design, incremental change]
+published: false
 ---
 
 Transitioning to new team boundaries is a common challenge for organizations that have identified more effective structures through techniques like **User Needs Mapping** or other strategic approaches. However, moving from your current state to an ideal team design can feel daunting. Attempting a "big bang" reorganization often introduces significant risks, such as disruption, resistance, and loss of productivity.

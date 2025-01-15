@@ -5,6 +5,7 @@ date: 2025-01-02
 categories: [team-alignment, user-needs-mapping, problem-solving]
 tags: [User Needs Mapping, cognitive load, team alignment, organizational design, Wardley Mapping]
 author: richallen
+published: false
 ---
 
 User Needs Mapping is a powerful tool for aligning teams, reducing cognitive load, and enhancing the flow of value. However, like any technique, it comes with its share of challenges. From resistance to change to difficulties in defining user needs, these hurdles can slow down or complicate the mapping process. In this article, we’ll explore the most common challenges faced during User Needs Mapping and provide practical strategies to overcome them.
