@@ -16,6 +16,10 @@ sidebar:
 
 After identifying your users, the next critical step is defining their needs. Clearly articulated user needs ensure your organization focuses on delivering outcomes that matter. This step bridges the gap between understanding your users and aligning organizational capabilities to meet their expectations.
 
+If you are in a siloed organisation with separate Product and Engineering teams, you will probably find that the Product team is currently responsible for defining the user needs, and the Engineering team is responsible for delivering the solutions. This is the gap that User Needs Mapping aims to bridge.
+
+If you are lucky enough to already be in a cross-functional stream-aligned team, then having the capability to define user needs is an essential skill for delivering solutions that matter.
+
 ---
 
 ## What is a User Need?
@@ -37,6 +41,8 @@ This journey view helps highlight where challenges crop up and where people get 
 ![User Needs in a Journey](/assets/images/unm-user-journey-of-needs.png)
 
 Starting with the user journey is a good way to get started and is excellent for identifying how you currently support your users with existing systems. However, it's important to remember that the user journey is not the same as the user's needs. Taking time to understand the underlying needs can start to uncover opportunities to improve the user's experience and the systems you have in place.
+
+Reach out to people in your organization in the User Experience (UX), User Research or Product team to help you understand needs your organization is trying to deliver solutions for. They probably have a good understanding of the journey your users are taking and what they are trying to achieve. Any User Needs Mapping workshop should include people from across the organization to bring diverse insights to the conversation.
 
 ## Key Actions
 
@@ -64,13 +70,15 @@ Writing user needs is a bit of an art. Here are some guidelines to help you get 
 
 ## Practical Examples
 
+The following examples show some poorly defined needs versus well-defined needs.
+
 | Poorly Defined Need            | Well-Defined Need                    |
 |--------------------------------|---------------------------------------|
 | "Add a search feature."        | "Find products quickly and easily."  |
 | "Build a reporting dashboard." | "Track progress and identify trends."|
 | "Create a ticketing API."      | "Generate tickets automatically."    |
 
-These examples show how outcome-focused needs drive clarity and actionable insights.
+Language matters. It's important to use language that is clear, concise and not solution or feature focused.
 
 ---
 
