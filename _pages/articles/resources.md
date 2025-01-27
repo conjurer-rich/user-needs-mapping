@@ -22,5 +22,6 @@ Do you want to propose a resource? [Please create a pull request.](https://githu
 
 ## Related Topics
 
+- [Team Topologies](https://teamtopologies.com/) - Everything you need to know about Team Topologies.
 - [Learn Wardley Mapping](https://learnwardleymapping.com/) - A comprehensive guide to Wardley Mapping.
 - [Visual Collaboration Tools](https://leanpub.com/visualcollaborationtools) - A collection of collaborative modeling methods and other visual tools for software engineering teams, including User Needs Mapping.

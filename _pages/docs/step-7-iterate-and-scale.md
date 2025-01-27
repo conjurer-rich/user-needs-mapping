@@ -2,7 +2,7 @@
 title: "Step 7: Iterating and Scaling"
 layout: single
 description: "Learn how to continuously refine and scale your User Needs Mapping process as your organization evolves."
-permalink: /docs/step-7-iterating-and-scaling/
+permalink: /docs/step-7-iterate-and-scale/
 toc: true
 toc_sticky: true
 toc_label: "Step 7: Iterating and Scaling"
