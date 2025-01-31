@@ -53,9 +53,9 @@ docs:
       url: /docs/challenges/resistance-to-change
     - title: "Difficulty Defining User Needs"
       url: /docs/challenges/defining-user-needs
-  - title: Examples
+  - title: Case Studies
     children:
     - title: "Passenger"
-      url: /docs/examples/passenger
+      url: /docs/case-studies/passenger
     
 

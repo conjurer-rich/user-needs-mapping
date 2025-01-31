@@ -1,0 +1,75 @@
+.training-topics {
+  padding: 2rem 0;
+  
+  &__title {
+    text-align: center;
+    margin-bottom: 2rem;
+    font-size: 1.5rem;
+    font-weight: bold;
+    text-transform: uppercase;
+  }
+  
+  &__grid {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+  }
+  
+  &__row {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 1rem;
+    
+    @media (max-width: 768px) {
+      grid-template-columns: repeat(2, 1fr);
+    }
+    
+    @media (max-width: 480px) {
+      grid-template-columns: 1fr;
+    }
+  }
+}
+
+.topic-card {
+  padding: 1rem;
+  border-radius: 4px;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  min-height: 100px;
+  
+  h3 {
+    font-size: 1rem;
+    font-weight: bold;
+    margin: 0;
+    color: #333;
+  }
+  
+  &--primary {
+    background-color: #7BA4E6;
+    color: white;
+    
+    h3 {
+      color: white;
+    }
+  }
+  
+  &--secondary {
+    background-color: #D5E3F7;
+    
+    h3 {
+      font-size: 0.9rem;
+    }
+  }
+  
+  &__icon {
+    margin-top: 0.5rem;
+    
+    img {
+      width: 24px;
+      height: 24px;
+    }
+  }
+} 

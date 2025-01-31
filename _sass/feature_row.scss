@@ -1,0 +1,40 @@
+.feature__wrapper {
+  display: flex;
+  justify-content: space-between; // Distribute items evenly
+  align-items: flex-start; // Align items at the top
+  border: 0;
+}
+
+.feature__item {
+  text-align: left; // Center text within each item
+  padding: 1.5rem;
+}
+
+.archive__item-body {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between; // Space out title, excerpt, and link
+  height: 100%; // Ensure full height usage
+}
+
+.archive__item-title,
+.archive__item-excerpt,
+.archive__item-body p {
+  margin: 0; // Remove default margins
+  padding: 5px 0 0 0; // Add consistent padding
+}
+
+.archive__item-body p {
+  margin-top: auto; // Push link to the bottom
+}
+
+.archive__item-body p.archive__item-button {
+  padding-top: 0px;
+}
+
+/* Mobile-first breakpoint */
+@media (max-width: 400px) {
+  .feature__wrapper {
+    display: block;
+  }
+}

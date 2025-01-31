@@ -1,0 +1,13 @@
+<div class="section {% if include.section_class %} {{ include.section_class }} {% endif %}">
+    <div class="container flex-grid">
+        <div class="content col">
+            <h2 {% if include.title_class %}class="{{ include.title_class }}"{% endif %}>{{ include.title }}</h2>
+            {{ include.main_content | markdownify }}
+        </div>
+        <div class="content col">
+        <p>
+            <img src="{{ include.image_path }}" alt="">
+        </p>
+        </div>
+    </div>
+</div>

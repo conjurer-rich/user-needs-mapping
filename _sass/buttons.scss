@@ -1,0 +1,14 @@
+.btn {
+  font-size: 1rem;
+}
+
+.btn.btn--primary {
+  background-color: $call-to-action-color;
+  color: #fff;
+}
+
+.btn.btn--link {
+  padding: 0;
+  background-color: unset;
+  color: $call-to-action-color;
+}

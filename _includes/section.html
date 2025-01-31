@@ -1,13 +1,14 @@
-{% assign list = "" %}
 {% if include.list_id %}
   {% assign list = page[include.list_id] %}
 {% endif %}
 
-<div class="section">
+<div class="section {% if include.section_class %} {{ include.section_class }} {% endif %}">
     <div class="container">
         <div class="content {% if include.large %}large{% endif %} {% if include.condensed %}condensed{% endif %} {% if include.no_underline %}no-underline{% endif %} {% if include.align == 'center' %}align-center{% endif %}" >
-          <h2>{{ include.title }}</h2>
-          {{ include.description | markdownify }}
+          {% if include.title %}
+            <h2 {% if include.title_class %}class="{{ include.title_class }}"{% endif %}>{{ include.title }}</h2>
+          {% endif %}
+          {{ include.main_content | markdownify }}
           {% if include.image_path %}
             <img src="{{ include.image_path }}" alt="{{ include.title }}" class="image">
           {% endif %}
@@ -15,12 +16,10 @@
             <iframe width="560" height="315" src="https://www.youtube.com/embed/{{ include.video_id }}" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
           {% endif %}
           {% if include.link %}
-          <p>
-            <a href="{{ include.link }}" class="button">{{ include.link_text }}</a>
-          </p>
+            <a href="{{ include.link }}" class="btn btn--link">{{ include.link_text }}</a>
           {% endif %}
           {% if list %}
-            {% if include.list_intro <> "" %}
+            {% if include.list_intro %}
             <p>{{ include.list_intro | markdownify }}</p>
             {% endif %}
             <ul>

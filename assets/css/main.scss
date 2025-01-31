@@ -6,119 +6,22 @@ search: false
 @charset "utf-8";
 
 $primary-color: #0EA2F1;
-
-
-.cta-wrapper {
-  margin: 1em 0;
-  border-radius: 4px;
-}
-
-.cta-text {
-  font-size: 1.2em;
-  margin-bottom: 1.5em;
-}
-
-/* Use border-box box-sizing for all elements */
-*,
-*::before,
-*::after {
-  box-sizing: border-box;
-}
-
-.page__content .section {
-    display: inline-block;
-    margin-top: 1rem;
-    margin-bottom: 1rem;
-}
-
-/* Flex container */
-.page__content .container {
-  display: flex;
-  flex-wrap: wrap;
-  align-items: stretch; /* Stretch flex items to fill container */
-  gap: 2rem;
-}
-
-.page__content .container h2 {
-    margin: 0 0 0.75rem 0;
-}
-
-.page__content .condensed h2 {
-  margin-bottom: 0;
-  padding-bottom: 0;
-}
-
-.page__content .condensed p {
-  margin: 0 0 1.1em;
-}
-
-.page__content .large {
-  font-size: 1.4em;
-}
-
-.page__content .no-underline h2 {
-  border: none;
-}
-
-.page__content .align-center {
-  text-align: center;
-}
-
-/* Flex items */
-.image,
-.content {
-  flex-basis: 100%;
-  padding: 1rem;
-  font-size: 1.0rem;
-}
-
-.image img {
-  max-width: 100%; /* Make image take the max width of its parent container, the .image div */
-}
-
-/* Mobile-first breakpoint */
-@media (min-width: 768px) {
-  /* Flex items take up full width on large screens */
-  .col-2 {
-    flex-basis: calc(50% - 1rem);
-  }
-}
-
-.quote__wrapper {
-    clear: both;
-    margin-bottom: 2em;
-    text-align: center; 
-    display: inline-block;
-}
-
-.quote__wrapper .feature__item {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-}
-
-.quote__wrapper .feature__item .author__avatar {
-    margin-bottom: 1em;
-    width: fit-content;
-    height: fit-content;
-    flex-basis: 100%;
-    padding: 1rem;
-    font-size: 1.0rem;
-}
-
-img.author-avatar {
-    border-radius: 50%;
-}
-
-.author-excerpt {
-    font-size: 1.2em;
-    font-style: italic;
-}
-
-.author-caption {
-    font-size: 0.8em;
-    font-weight: bold;
-}
+$call-to-action-color: #0EA2F1;
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
+@import "author";
+@import "flex_grid";
+@import "quote_wrapper";
+@import "titles";
+@import "sections";
+@import "call-to-action";
+@import "alignment";
+@import "buttons";
+@import "training-topics";
+@import "topics-grid";
+@import "facilitators";
+@import "page__content";
+@import "feature_row";
+@import "page__footer";
+@import "page__hero";

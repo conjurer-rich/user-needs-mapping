@@ -1,0 +1,47 @@
+.flex-grid {
+  display: flex;
+  gap: 2rem;
+  justify-content: center;
+  align-items: start;
+}
+
+.flex-align-center {
+  align-items: center;
+}
+
+.flex-grid .col {
+  flex: 1;
+}
+
+.flex-grid-thirds {
+  display: flex;
+  justify-content: space-between;
+}
+
+.flex-grid-thirds .col {
+  width: 32%;
+}
+
+.flex-grid-30-70 {
+  display: flex;
+  justify-content: space-between;
+}
+
+.flex-grid-30-70 .col-small {
+  width: 32%;
+}
+
+
+/* Mobile-first breakpoint */
+@media (max-width: 400px) {
+  .flex-grid {
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .flex-grid-30-70 .col-small {
+    flex: 1;
+    width: auto;
+  }
+}

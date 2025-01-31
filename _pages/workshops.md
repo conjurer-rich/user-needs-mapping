@@ -3,7 +3,7 @@ permalink: /workshops
 title: "Workshops"
 layout: splash
 classes: wide
-excerpt: "Practical, hands-on workshops to master User Needs Mapping and transform your teams."
+excerpt: "Practical, hands-on workshops to master **User Needs Mapping** and transform your teams."
 header: 
   overlay_color: "#0EA2F1"
   overlay_filter: rgba(14,162,241,0.6)

@@ -15,7 +15,7 @@ excerpt: >
 section-list:
     - "![Tom Quay, CEO, Passenger](/assets/images/profiles/tom_quay_passenger.jpeg){: .align-right .author-avatar }
   
-      **Passenger Case Study:** Discover how a mobile ticketing company used User Needs Mapping to disccover value streams and align their teams for optimal delivery. [Read the story.](/articles/2025-01-02-unm04-case-study-passenger/)  
+      **Passenger Case Study:** Discover how a mobile ticketing company used User Needs Mapping to disccover value streams and align their teams for optimal delivery. [Read the story.](/docs/case-studies/passenger/)  
     
       > 'User Needs Mapping has helped us to identify previously unseen ways of organizing our teams and was a valuable part of applying Team Topologies at Passenger' Tom Quay, CEO, Passenger"
 quote-list:
@@ -42,7 +42,7 @@ learn-more-list:
 
 {% include section.html
     title="When Product and Engineering teams don’t align, progress can grind to a halt."
-    description="Wouldn't it be great to align product and engineering with..."
+    main_content="Wouldn't it be great to align product and engineering with a simple, visual and accessible approach?..."
     image_path="/assets/images/Movie-goer-full-user-needs-map.png"
     post_fix_text="Welcome to User Needs Mapping, an approach to bridge the gap,\\
     so your teams can **collaborate more effectively** and **deliver value faster**."
@@ -52,27 +52,27 @@ learn-more-list:
     large=true
 %}
 
-{% include section-image-right.html
+{% include section-image-right-two-col.html
     title="Why is delivery taking so long? Let’s fix it."
-    description="Why does it feel like product and engineering are always out of sync? Product demands new features yesterday, engineering struggles to keep up, and your users are left waiting. These silos create **bottlenecks**, **delays**, and **frustration**. The good news? It doesn’t have to be this way."
+    main_content="Why does it feel like product and engineering are always out of sync? Product demands new features yesterday, engineering struggles to keep up, and your users are left waiting. These silos create **bottlenecks**, **delays**, and **frustration**. The good news? It doesn’t have to be this way."
     image_path="/assets/images/business-tech-bridge.png"
 %}
 
-{% include section-image-left.html
+{% include section-image-left-two-col.html
     title="Complexity is slowing you down. Here's how to simplify."
-    description="Your organization is made up of **people, processes, and technology** (a socio-technical system). As the organization grows, it becomes more complex. The technical systems become larger and more processes are introduced to try to **manage dependencies** between the systems but we often don't pay enough attention to the people part of the overall system."
+    main_content="Your organization is made up of **people, processes, and technology** (a socio-technical system). As the organization grows, it becomes more complex. The technical systems become larger and more processes are introduced to try to **manage dependencies** between the systems but we often don't pay enough attention to the people part of the overall system."
     image_path="/assets/images/people-process-tech.png"
 %}
 
-{% include section-image-right.html
+{% include section-image-right-two-col.html
     title="Stay ahead in a world of constant change."
-    description="Your **Customer, Market and Technology** are the three main drivers of value in your organization. They are continuously evolving and the rate of change is only increasing. Organizations need to be able to **respond** to these changes **quickly** and **effectively**. This means being able to sense when to change i.e. **spot the signals** and then act quickly."
+    main_content="Your **Customer, Market and Technology** are the three main drivers of value in your organization. They are continuously evolving and the rate of change is only increasing. Organizations need to be able to **respond** to these changes **quickly** and **effectively**. This means being able to sense when to change i.e. **spot the signals** and then act quickly."
     image_path="/assets/images/aligning-teams-for-value.png"
 %}
 
-{% include section-image-left.html
+{% include section-image-left-two-col.html
     title="The journey to success"
-    description="Start your transformation with User Needs Mapping. Align your teams, simplify complexity, and create a seamless flow of value to your users. It is a **practical**, **accessible**, and **scalable** approach that can be used by teams of any size, with or without prior experience in advanced frameworks such as Wardley Mapping or Domain-Driven Design.
+    main_content="Start your transformation with User Needs Mapping. Align your teams, simplify complexity, and create a seamless flow of value to your users. It is a **practical**, **accessible**, and **scalable** approach that can be used by teams of any size, with or without prior experience in advanced frameworks such as Wardley Mapping or Domain-Driven Design.
     \\
     \\
     We seek to start a conversation between product and engineering teams to align around the needs of the users we are trying to serve. We do this via **visualizing the value chain** which helps us to understand the **flow of value** through the organization."
@@ -93,7 +93,7 @@ User Needs Mapping has become a "go-to" technique used within the Team Topologie
 
 {% include section.html
     title="Resources to get started"
-    description="Here is a talk from [Fast Flow Conf 2023](https://fastflowconf.com/) gives a great overview of User Needs Mapping."
+    main_content="Here is a talk from [Fast Flow Conf 2023](https://fastflowconf.com/) gives a great overview of User Needs Mapping."
     video_id="9KScLA7zCHU"
     list_intro="If you are interested in learning more, take a look at the resources:"
     list_id="learn-more-list"
@@ -109,7 +109,7 @@ User Needs Mapping has become a "go-to" technique used within the Team Topologie
 
 {% include section.html
     title="Join the community"
-    description="**A network of innovators and changemakers.**  
+    main_content="**A network of innovators and changemakers.**  
     User Needs Mapping is more than a technique, it’s a mindset. Join a growing community of practitioners, learn from their experiences, and share your own journey.\\
     In the community you get access exclusive resources, collaborate with peers, and learn from industry leaders.\\
     Together, we can create teams that deliver value faster, with less friction."
@@ -128,4 +128,3 @@ User Needs Mapping has become a "go-to" technique used within the Team Topologie
     secondary_postfix_text="if you need some help."
     section_wrap=true
   %}
-

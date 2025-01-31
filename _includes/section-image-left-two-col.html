@@ -1,0 +1,54 @@
+{% if include.pullright == true %}
+  <div class="section {% if include.section_class %} {{ include.section_class }} {% endif %}">
+    <div class="container flex-grid flex-grid-30-70">
+        <div class="content col">
+          <img src="{{ include.image_path }}" alt="">
+        </div>
+        <div class="content col-small">
+          {% if include.title %}
+            <h2 {% if include.title_class %}class="{{ include.title_class }}"{% endif %}>{{ include.title }}</h2>
+          {% endif %}
+          {{ include.main_content | markdownify }}
+          {% if include.cta_url and include.cta_button_text %}
+            <a href="{{ include.cta_url }}" class="btn btn--link">{{ include.cta_button_text }}</a>
+          {% endif %}
+        </div>
+    </div>
+  </div>
+{% else if include.pullleft == true %}
+  <div class="section {% if include.section_class %} {{ include.section_class }} {% endif %}">
+    <div class="container flex-grid flex-grid-30-70 {% if include.flex-align-center %} flex-align-center {% endif %}">
+        <div class="content col-small">
+          <img src="{{ include.image_path }}" alt="">
+        </div>
+        <div class="content col">
+          {% if include.title %}
+            <h2 {% if include.title_class %}class="{{ include.title_class }}"{% endif %}>{{ include.title }}</h2>
+          {% endif %}
+          {{ include.main_content | markdownify }}
+          {% if include.cta_url and include.cta_button_text %}
+              <a href="{{ include.cta_url }}" class="btn btn--link">{{ include.cta_button_text }}</a>
+          {% endif %}
+        </div>
+    </div>
+  </div> 
+{% else %}
+  <div class="section {% if include.section_class %} {{ include.section_class }} {% endif %}">
+    <div class="container flex-grid">
+        <div class="content col">
+          <img src="{{ include.image_path }}" alt="">
+        </div>
+        <div class="content col">
+          {% if include.title %}
+            <h2 {% if include.title_class %}class="{{ include.title_class }}"{% endif %}>{{ include.title }}</h2>
+          {% endif %}
+            {{ include.main_content | markdownify }}
+            {% if include.cta_url and include.cta_button_text %}
+              <a href="{{ include.cta_url }}" class="btn btn--link">{{ include.cta_button_text }}</a>
+            {% endif %}
+        </div>
+    </div>
+  </div>
+{% endif %}
+
+

@@ -1,0 +1,26 @@
+<div class="section {% if include.section_class %}{{ include.section_class }}{% endif %} no-padding" {% if include.id %} id="{{ include.id }}" {% endif %}>
+{% if include.pullright == true %}
+    <div class="container flex-grid flex-grid-30-70 no-padding">
+        <div class="content col">
+          <img src="{{ include.left_image_path }}" alt="">
+        </div>
+        <div class="content col-small">
+          <img src="{{ include.right_image_path }}" alt="">
+        </div>
+    </div>
+{% else if include.pullleft == true %}
+    <div class="container flex-grid flex-grid-30-70 no-padding">
+        <div class="content col-small" style="background-image: url('{{ include.left_image_path }}');min-height: 300px; min-width: 300px; background-position: center; background-repeat: no-repeat; background-size: cover;"></div>
+        <div class="content col" style="background-image: url('{{ include.right_image_path }}');min-height: 300px; min-width: 300px; background-position: center; background-repeat: no-repeat; background-size: cover;"></div>
+    </div>
+{% else %}
+    <div class="container flex-grid no-padding">
+        <div class="content col">
+          <img src="{{ include.left_image_path }}" alt="">
+        </div>
+        <div class="content col">
+          <img src="{{ include.left_image_path }}" alt="">
+        </div>
+    </div>
+{% endif %}
+</div>
