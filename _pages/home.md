@@ -87,7 +87,7 @@ learn-more-list:
 
 User Needs Mapping has become a "go-to" technique used within the Team Topologies community.
 
-[![Team Topologies](/assets/images/teamtopologies/team_topologies_logo.png)](https://teamtopologies.com/unm){: .align-center}
+[![Team Topologies](/assets/images/teamtopologies/TeamTop_cover_RGB_flat_stroke.png)](https://teamtopologies.com/unm){: .align-center}
 
 {% include quote_row.html id="quote-list" title="What do some of our practitioners say?" section_wrap=true %}
 

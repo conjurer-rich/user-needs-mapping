@@ -11,6 +11,7 @@ sidebar:
 ---
 
 **The Four Fundamental Team Types**  
+
 Team Topologies identifies four primary team types, each designed to fulfill specific roles within an organization. These team types enable fast delivery of value, reduce dependencies, and optimize team cognitive load. When combined with User Needs Mapping, these team types provide a framework for assigning ownership of capabilities and aligning teams with user needs.
 
 ---

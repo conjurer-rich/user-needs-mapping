@@ -31,12 +31,14 @@ docs:
       url: /docs/step-6-defining-team-boundaries
     - title: "Step 7: Iterating and Scaling"
       url: /docs/step-7-iterating-and-scaling
-  #- title: Team Topologies
-  #  children:
-  #  - title: "Overview"
-  #    url: /docs/teamtopologies
-  #  - title: "The Four Team Types"
-  #    url: /docs/teamtopologies/four-team-types
+  - title: Team Topologies
+    children:
+    - title: "Overview"
+      url: /docs/teamtopologies
+    - title: "The Four Team Types"
+      url: /docs/teamtopologies/four-team-types
+    - title: "The Three Interaction Modes "
+      url: /docs/teamtopologies/interaction-modes
   - title: Typical Challenges
     children:
     - title: "Overview"

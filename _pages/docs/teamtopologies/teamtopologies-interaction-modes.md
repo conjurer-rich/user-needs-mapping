@@ -96,5 +96,3 @@ Although we do not model the interaction modes on a User Needs Map, we can use t
 - Reduces unnecessary interruptions and confusion between teams.
 - Ensures purposeful and effective collaboration.
 - Enhances the flow of value across the organization.
-
-[Learn more about Cognitive Load and its role in team design.](/docs/teamtopologies/cognitive-load)
