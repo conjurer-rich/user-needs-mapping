@@ -157,7 +157,7 @@ Once we’ve mapped **"Discover a movie"**, we move to the next step:
 
 ![Movie goer journey](/assets/images/Movie-goer-select-a-showtime-capabilities.png)
 
-### Observable Insights
+### Observable insights from the value chain
 
 - **"Geo-Location Services"** introduces a new capability that ties into the moviegoer’s physical location.  
 - This insight could lead to the formation of a platform team for location-based services.
@@ -186,7 +186,7 @@ Once sufficient needs and capabilities are mapped:
 
 ![Initial team overlay](/assets/images/Movie-goer-wider-journey-initial-team-overlay.png)
 
-### Observable Insights
+### Observable insights from the team overlay
 
 - A **Discovery and Selection Team** might own capabilities related to meeting the needs of **Finding a movie worth watching** and **Know when and where to watch** and **Location and accessibility options**.  
 - A **Tickets and Payments Team** might manage **Booking tickets** and **Receiving confirmation**.  

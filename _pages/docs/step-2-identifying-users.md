@@ -36,7 +36,7 @@ Once the purpose of your User Needs Mapping session is clear, the next step is u
 
 ## Practical Example
 
-**Scenario:** A mobile ticketing company like [Passenger](/docs/examples/passenger) might identify the following user groups:
+**Scenario:** A mobile ticketing company like [Passenger](/docs/case-studies/passenger) might identify the following user groups:
 
 - **External Users:**
   - Commuters who purchase tickets.

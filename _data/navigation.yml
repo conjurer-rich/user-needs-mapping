@@ -25,12 +25,12 @@ docs:
       url: /docs/step-3-defining-user-needs
     - title: "Step 4: Mapping Capabilities"
       url: /docs/step-4-mapping-capabilities
-    - title: "Step 5: Visualizing Dependencies"
-      url: /docs/step-5-visualizing-dependencies
+    - title: "Step 5: Analyzing Dependencies"
+      url: /docs/step-5-analyzing-dependencies
     - title: "Step 6: Defining Team Boundaries"
       url: /docs/step-6-defining-team-boundaries
-    - title: "Step 7: Iterate and Scale"
-      url: /docs/step-7-iterate-and-scale
+    - title: "Step 7: Iterating and Scaling"
+      url: /docs/step-7-iterating-and-scaling
   #- title: Team Topologies
   #  children:
   #  - title: "Overview"

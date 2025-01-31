@@ -11,21 +11,39 @@ sidebar:
   nav: docs
 ---
 
-## Why Mapping Capabilities Matters
+![Movie goer capabilities](/assets/images/Movie-goer-find-a-movie-capabilities-2.png)
+
+## Why mapping capabilities matters
 
 Mapping capabilities bridges the gap between understanding user needs and implementing solutions. Capabilities represent the combination of people, processes, skills, and technology required to meet user needs or support dependent capabilities. By mapping these capabilities and understanding their dependencies, you create a clear picture of how value flows through your organization and where there are opportunities for improvement.
 
 ---
 
-## Key Actions
+## What is a capability?
 
-1. **Identify Capabilities:** For each user need, ask: *"**When [User] is trying to [Need], they need [Capability X], which needs [Capability Y], which needs [Capability Z]...and so on**"* Identify the systems, processes, skills, and technologies your organization uses to meet those needs.
-2. **Build the Dependency Chain:** Think through how each capability relies on others to function effectively. Map these relationships to uncover dependencies.
-3. **Highlight Gaps and Overlaps:** Identify where capabilities are missing, underperforming, or redundant in meeting user needs or supporting dependent capabilities.
+> A capability is the ability of an organization, team, or system to achieve a specific outcome by combining skills, processes, technology, and knowledge effectively.
+
+It represents a cohesive unit of competency that enables value delivery, typically in a repeatable and scalable way. A well-defined capability includes clear ownership, expertise, and the necessary enablers to operate with autonomy while still fitting into the broader system of work.
+
+Capabilities can exist at different levels:
+
+- **Business Capabilities** – The fundamental abilities an organization needs to operate and compete (e.g., "Customer Onboarding," "Fraud Detection").
+- **Technical Capabilities** – The set of technological functions that enable business processes (e.g., "API Management," "Data Analytics").
+- **Team Capabilities** – The skills, practices, and processes a team has to deliver value effectively (e.g., "Automated Testing," "Continuous Delivery").
+
+Typically, when we are using User Needs Mapping, we are primarily interested in mapping how the **Business Capabilities** enable the **User Needs** and then identify which teams are involved in providing those capabilities. However, it can often also useful to map the **Technical Capabilities** and **Team Capabilities** to understand how they support the business capabilities and enable the user needs depending on how "deep" you want to go.
 
 ---
 
-## Mapping Capabilities Through Dependency Chains
+## Key actions
+
+1. **Identify capabilities:** For each user need, ask: *"**When [User] is trying to [Need], they depends on [Capability X], which depends on [Capability Y], which depends on [Capability Z]**...and so on"*. Identify the systems, processes, skills, and technologies your organization uses to meet those needs.
+2. **Build the dependency chain:** Think through how each capability relies on others to function effectively. Map these relationships to uncover dependencies.
+3. **Highlight gaps and overlaps:** Identify where capabilities are missing, underperforming, or redundant in meeting user needs or supporting dependent capabilities.
+
+---
+
+## Mapping capabilities through dependency chains
 
 Capabilities should represent the building blocks of your organization’s ability to deliver value. The process of mapping capabilities involves walking through the chain of needs and asking:
 
@@ -33,7 +51,7 @@ Capabilities should represent the building blocks of your organization’s abili
 - **What capability enables that need?**
 - **What additional capabilities does this depend on?**
 
-### Example Thought Process
+### Example thought process
 
 - *"When a commuter is trying to purchase a ticket, they will need a ticketing system."*
 - *"When the ticketing system processes a purchase, it will need a payment processing framework."*
@@ -43,36 +61,49 @@ This approach ensures a comprehensive understanding of how capabilities interact
 
 ---
 
-## Tools and Techniques
+## Tools and techniques
 
-- **Capability Workshops:** Collaborate with cross-functional teams to brainstorm and identify capabilities, starting with user needs and building dependency chains.
-- **Dependency Diagrams:** Visualize how capabilities connect and depend on one another.
-- **Capability Audit:** Assess existing capabilities to identify strengths, weaknesses, and opportunities for optimization.
+- **Capability workshops:** Collaborate with cross-functional teams to brainstorm and identify capabilities, starting with user needs and building dependency chains.
+- **Dependency chains:** Visualize how capabilities connect and depend on one another.
+- **Capability audit:** Assess existing capabilities to identify strengths, weaknesses, and opportunities for optimization.
 
 ---
 
-## Practical Example
+## Practical example
 
-**Scenario:** A mobile ticketing company like [Passenger](/docs/examples/passenger) might identify the following capabilities:
+As demonstrated in our [Passenger case study](/docs/case-studies/passenger), some times when you consider the tangled nature of the depenendencies within your organization it can feel overwhelming. As described by Dave Hulbert, CTO of Passenger, it can often just feel like a big ball of mud.
 
-- **For External Users:**
-  - Ticketing system
-  - Real-time journey update platform
-- **For Internal Users:**
-  - Customer support infrastructure
-  - Payment processing framework
+![Passenger big ball of mud](/assets/images/case-studies/passenger/passenger_big_ball_of_mud.png)
 
-**Dependency Chain Example:**
+This is where User Needs Mapping can really start to shine. By mapping the capabilities that enable the user needs, we can start to see the dependencies and how they fit into the broader organization and visualize the perceived complexity.
 
-1. **User Need:** Purchase a ticket.\
-   **Primary Capability:** Ticketing system.\
-   **Dependent Capabilities:** Payment processing framework, system monitoring, and customer support infrastructure.
+In the case of Passenger, we initially mapped the following capabilities:
+
+[![Passenger capabilities](/assets/images/case-studies/passenger/passenger_unm_initial_dependency_tree.png)](/assets/images/case-studies/passenger/passenger_unm_initial_dependency_tree.png)
+
+This included capabilities such as:
+
+- **Live bus information service**
+- **Journey Planning Service**
+- **Disruption Service**
+- **Fares Service**
+- **Timetables Service**
+- **Open Trip Planner**
+- **Ticketing System**
+- **Payment Processing Framework**
+- **Customer Support Infrastructure**
+
+**Dependency Chain Examples:**
+
+1. **User Need:** Plan a journey.\
+   **Depends on Primary Capability:** Journey Planning Service.\
+   **Dependent Capabilities:** Disruption Service, Fares Service, Timetables Service, Open Trip Planner.
 
 2. **User Need:** Check real-time journey updates.\
-   **Primary Capability:** Journey planning platform.\
+   **Primary Capability:** Journey planning service.\
    **Dependent Capabilities:** Data integration services, real-time API management.
 
-By mapping these capabilities and their dependencies, the company gains a clear understanding of how each capability contributes to the overall user experience.
+By mapping these capabilities and their dependencies, the team were able to gain a clearer understanding of how each capability contributes to the overall user experience.
 
 ---
 
