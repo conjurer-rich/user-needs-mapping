@@ -1,14 +1,17 @@
 ---
 permalink: /community
 title: "Coming Soon: The User Needs Mapping Community"
-layout: splash
+layout: single
+sidebar:
+  nav: community
+classes: wide
 description: "Join the waitlist for a dedicated hub to connect, learn, and grow with fellow User Needs Mapping practitioners."
 header: 
   overlay_color: "#0EA2F1"
-  overlay_filter: rgba(14,162,241,0.6)
+  overlay_filter: rgba(62, 96, 114, 0.5)
   overlay_image: /assets/images/Movie-goer-full-user-needs-map.png
 excerpt: >
-  Join the waitlist for a dedicated hub to connect, learn, and grow with fellow User Needs Mapping practitioners. <a href='#' class='btn btn--primary'>Join the Waitlist</a>
+  Join the waitlist for a dedicated hub to connect, learn, and grow with fellow User Needs Mapping practitioners. <a href='#community-call-to-action' class='btn btn--primary'>Join the Waitlist</a>
 ---
 
 **A hub for practitioners to connect, learn, and grow together.**
@@ -32,7 +35,7 @@ But we want to make sure this community meets your needs. **Tell us what resourc
 
 ## Sign Up and Tell Us What You Need
 
-{% include community-call-to-action.html %}
+{% include community-call-to-action.html id="community-call-to-action" %}
 
 By signing up, you’ll be the first to know when the community launches. Plus, you’ll have the chance to influence what resources and features we prioritize.
 

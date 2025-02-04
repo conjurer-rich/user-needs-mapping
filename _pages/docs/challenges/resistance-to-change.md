@@ -28,7 +28,7 @@ Engage team members and leadership in the process from the start. Explain the be
 
 ### 3. Highlight Success Stories
 
-Share examples from other organizations, such as [Passenger's Case Study](/docs/passenger-case-study), to build confidence and excitement.
+Share examples from other organizations, such as [Passenger's Case Study](/docs/case-studies/passenger), to build confidence and excitement.
 
 ---
 

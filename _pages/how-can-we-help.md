@@ -6,7 +6,7 @@ description: "Workshops, enablement programs, and expert consultancy to transfor
 classes: wide
 header: 
   overlay_color: "#0EA2F1"
-  overlay_filter: rgba(14,162,241,0.6)
+  overlay_filter: rgba(56, 91, 110, 0.75)
   overlay_image: /assets/images/workshop-talking.jpg
   og_image: /assets/images/Movie-goer-full-user-needs-map.png.jpg
 quote-list:

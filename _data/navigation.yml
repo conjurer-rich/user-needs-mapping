@@ -10,6 +10,16 @@ main:
   - title: "Contact"
     url: /contact
 
+community:
+  - title: "Community"
+    children:
+    - title: "Overview"
+      url: /community
+    - title: "Community Feedback"
+      url: /community/feedback
+  - title: "Feedback"
+    url: /feedback  
+
 docs:
   - title: Getting started
     children:
@@ -43,6 +53,10 @@ docs:
     children:
     - title: "Overview"
       url: /docs/challenges
+    - title: "Resistance to Change" 
+      url: /docs/challenges/resistance-to-change
+    - title: "Difficulty Defining User Needs"
+      url: /docs/challenges/defining-user-needs
     - title: "Overwhelming Complexity"
       url: /docs/challenges/overwhelming-complexity
     - title: "Lack of Clarity Around Capabilities"
@@ -51,10 +65,7 @@ docs:
       url: /docs/challenges/misaligned-teams
     - title: "Sustaining Momentum"
       url: /docs/challenges/sustaining-momentum
-    - title: "Resistance to Change" 
-      url: /docs/challenges/resistance-to-change
-    - title: "Difficulty Defining User Needs"
-      url: /docs/challenges/defining-user-needs
+    
   - title: Case Studies
     children:
     - title: "Passenger"

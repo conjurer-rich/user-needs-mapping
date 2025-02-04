@@ -1,6 +1,6 @@
 
 {% if include.section_wrap %}
-<div class="section">
+<div class="section" {% if include.id %}id="{{ include.id }}"{% endif %}>
     <div class="container">
         <div class="content">
 {% endif %}

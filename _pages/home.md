@@ -5,13 +5,13 @@ layout: splash
 header: 
   og_image: /assets/images/Movie-goer-full-user-needs-map.png.jpg
   overlay_color: "#0EA2F1"
-  overlay_filter: rgba(14,162,241,0.6)
-  overlay_image: /assets/images/workshop-writing.jpg
+  overlay_filter: rgba(56, 91, 110, 0.75)
+  overlay_image: /assets/images/Movie-goer-full-user-needs-map.png
   actions: 
     - label: "<i class='fas fa-rocket'></i> Get started today"
       url: /quick-start-guide
 excerpt: > 
-  Eliminate silos, improve collaboration, and deliver value to your users faster.
+  **Eliminate silos**, **improve collaboration**, and **deliver value** to your users **faster**.
 section-list:
     - "![Tom Quay, CEO, Passenger](/assets/images/profiles/tom_quay_passenger.jpeg){: .align-right .author-avatar }
   
@@ -35,9 +35,9 @@ quote-list:
       Head of Software Engineering,  
       Syngenta Digital"
 learn-more-list:
-    - "**Step-by-step guide to User Needs Mapping:** Learn how to use User Needs Mapping to align your teams around the needs of your users. [Read the guide.](/docs/introduction-to-user-needs-mapping/)"
-    - "**Common challenges and how to overcome them:** See how organizations have overcome common challenges with User Needs Mapping. [Read the article.](/docs/challenges/)"
-    - "**Key takeaways for success:** Learn the key takeaways for success with User Needs Mapping. [Read the article.](/articles/2025-01-02-unm07-key-takeaways-user-needs-mapping/)"
+    - "**Step-by-step guide to User Needs Mapping:** Learn how to use User Needs Mapping to align your teams around the needs of your users. [Read the guide.](/docs/introduction-to-user-needs-mapping)"
+    - "**Common challenges and how to overcome them:** See how organizations have overcome common challenges with User Needs Mapping. [Read the article.](/docs/challenges)"
+    - "**Key takeaways for success:** Learn the key takeaways for success with User Needs Mapping. [Read the article.](/articles/2025-01-02-unm07-key-takeaways-user-needs-mapping)"
 ---
 
 {% include section.html
@@ -87,7 +87,7 @@ learn-more-list:
 
 User Needs Mapping has become a "go-to" technique used within the Team Topologies community.
 
-[![Team Topologies](/assets/images/teamtopologies/TeamTop_cover_RGB_flat_stroke.png)](https://teamtopologies.com/unm){: .align-center}
+[![Team Topologies](/assets/images/teamtopologies/TeamTop_cover_RGB_flat_stroke.jpg){: width="20%" .align-center}](https://teamtopologies.com/unm){: .align-center}
 
 {% include quote_row.html id="quote-list" title="What do some of our practitioners say?" section_wrap=true %}
 

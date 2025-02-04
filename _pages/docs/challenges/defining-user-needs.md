@@ -22,12 +22,19 @@ Teams often struggle to articulate user needs clearly. This can occur due to a l
 
 Focus on framing user needs as actions or goals. Avoid describing solutions or systems directly. For example:
 
-- Poor: "Ticket purchase system"
-- Better: "Buy a ticket"
+- Poor: "Ticket purchase system" - describes an underlying system
+- Better: "Buy a ticket" - describes the action the user wants to do
+- Best: "Get valid access to travel to a destination" - describes the outcome the user wants
+
+Often when you ask users what they want, they will describe the solution rather than the need and can be tricky to tease out the underlying need. However, it is the uncovering of the underlying need that begins to enable innovative thinking and creative solutions - does the user really need to buy a ticket to travel - what other means might they obtain valid access to travel?
 
 ### 2. Validate with Real Users
 
 Where possible, engage directly with users to confirm that defined needs reflect their experiences and expectations. User interviews, surveys, or feedback sessions can provide invaluable insights.
+
+If you are looking to get started with ways to better engage with your users, I highly recommend taking a look at Continuous Discovery Habits by Teresa Torres:
+
+[![Continuous Discovery Habits](/assets/images/books/continuous_discovery_habits.jpg){: width="20%" _target="blank"}](https://www.amazon.co.uk/s?k=continuous+discovery+habits&crid=V8JWNLIW5RDC&sprefix=continuous+discovery+%2Caps%2C93&ref=nb_sb_ss_mvt-t6-ranker_1_21&tag=conjurer-21)
 
 ### 3. Collaborate Cross-Functionally
 
@@ -67,3 +74,5 @@ Ready to tackle the next challenge?
 [Go to Overwhelming Complexity](/docs/challenges/overwhelming-complexity)
 
 {% include help-with-challenges-cta.html %}
+
+{% include affiliate-disclosure.html %}
