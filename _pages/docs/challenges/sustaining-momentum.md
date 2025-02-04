@@ -63,6 +63,6 @@ To sustain momentum with your User Needs Mapping:
 ---
 
 Ready to revisit the challenges?  
-[Return to Common Challenges Overview](/docs/challenges/)
+[Return to Common Challenges Overview](/docs/challenges)
 
 {% include help-with-challenges-cta.html %}
