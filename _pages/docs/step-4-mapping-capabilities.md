@@ -120,6 +120,6 @@ Map at least three capabilities to the user needs you defined in Step 3. Use the
 ## What’s Next?
 
 With a clear map of your organizational capabilities and their dependencies, the next step is to visualize these dependencies in detail to understand how they impact delivery.\
-[Proceed to Step 5: Visualizing Dependencies](/docs/step-5-visualizing-dependencies)
+[Proceed to Step 5: Analyzing Dependencies](/docs/step-5-analyzing-dependencies)
 
 {% include help-with-implementation-cta.html %}
