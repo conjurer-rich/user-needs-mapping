@@ -92,6 +92,14 @@ Write three user needs for one of the user groups you identified in Step 2. Use 
 
 ---
 
+## Do you really understand what a User Need is?
+
+Why not test yourself with our mini-quiz? It should only take a few minutes and will help you understand if you really understand what a User Need is.
+
+[Take our 'Real or Not': A User Needs Challenge](/https://richard-ivqrpvyt.scoreapp.com)
+
+---
+
 ## What’s Next?
 
 With well-defined user needs, the next step is to map the organizational capabilities required to meet them.  

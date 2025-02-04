@@ -37,12 +37,11 @@ quote-list:
 learn-more-list:
     - "**Step-by-step guide to User Needs Mapping:** Learn how to use User Needs Mapping to align your teams around the needs of your users. [Read the guide.](/docs/introduction-to-user-needs-mapping)"
     - "**Common challenges and how to overcome them:** See how organizations have overcome common challenges with User Needs Mapping. [Read the article.](/docs/challenges)"
-    - "**Key takeaways for success:** Learn the key takeaways for success with User Needs Mapping. [Read the article.](/articles/2025-01-02-unm07-key-takeaways-user-needs-mapping)"
 ---
 
 {% include section.html
     title="When Product and Engineering teams don’t align, progress can grind to a halt."
-    main_content="Wouldn't it be great to align product and engineering with a simple, visual and accessible approach?..."
+    main_content="You can avoid this with a simple, visual and accessible approach..."
     image_path="/assets/images/Movie-goer-full-user-needs-map.png"
     post_fix_text="Welcome to User Needs Mapping, an approach to bridge the gap,\\
     so your teams can **collaborate more effectively** and **deliver value faster**."
@@ -66,26 +65,26 @@ learn-more-list:
 
 {% include section-image-right-two-col.html
     title="Stay ahead in a world of constant change."
-    main_content="Your **Customer, Market and Technology** are the three main drivers of value in your organization. They are continuously evolving and the rate of change is only increasing. Organizations need to be able to **respond** to these changes **quickly** and **effectively**. This means being able to sense when to change i.e. **spot the signals** and then act quickly."
+    main_content="Your **Customer, Market and Technology** are the three main drivers of value in your organization. They are continuously evolving and the rate of change is only increasing. Organizations need to be able to **respond** to these changes **quickly** and **effectively**. This means being able to sense when to change i.e. **spot the signals** and then be able to **adapt** quickly by ensuring the right people are aligned around the flow of value required to meet those changing needs."
     image_path="/assets/images/aligning-teams-for-value.png"
 %}
 
 {% include section-image-left-two-col.html
     title="The journey to success"
-    main_content="Start your transformation with User Needs Mapping. Align your teams, simplify complexity, and create a seamless flow of value to your users. It is a **practical**, **accessible**, and **scalable** approach that can be used by teams of any size, with or without prior experience in advanced frameworks such as Wardley Mapping or Domain-Driven Design.
+    main_content="Disconnected Product and Engineering teams lead to **silos**, **delays**, and **frustration**. We need to align those teams through conversations about user needs and how the work they do aligns with the organizations purpose. This is where User Needs Mapping comes in. It is a **practical**, **accessible**, and **scalable** approach that can be used by teams of any size, with or without prior experience of techniques like Wardley Mapping or Domain-Driven Design.
     \\
     \\
-    We seek to start a conversation between product and engineering teams to align around the needs of the users we are trying to serve. We do this via **visualizing the value chain** which helps us to understand the **flow of value** through the organization."
+    With User Needs Mapping we seek to start (and continue) conversations between product and engineering teams that align them around the needs of the users they serving. We do this by **visualizing the value chain** which helps teams to understand the **flow of value** through the organization and then determine how they might best align to deliver that value most effectively."
     image_path="/assets/images/Movie-goer-full-user-needs-map.png"
 %}
 
 {% include section.html
     title="Real-world results"
-    description="Transforming organizations, one map at a time."
+    main_content="Transforming organizations, one map at a time."
     list_id="section-list"
 %}
 
-User Needs Mapping has become a "go-to" technique used within the Team Topologies community.
+User Needs Mapping has become a **go-to technique** used within the [Team Topologies community](https://community.teamtopologies.com){: target="_blank"}.
 
 [![Team Topologies](/assets/images/teamtopologies/TeamTop_cover_RGB_flat_stroke.jpg){: width="20%" .align-center}](https://teamtopologies.com/unm){: .align-center}
 

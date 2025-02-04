@@ -70,6 +70,14 @@ Work with your team to define user needs using the following prompts:
 
 ---
 
+## Do you really understand what a User Need is?
+
+Why not test yourself with our mini-quiz? It should only take a few minutes and will help you understand if you really understand what a User Need is.
+
+[Take our 'Real or Not': A User Needs Challenge](/https://richard-ivqrpvyt.scoreapp.com)
+
+---
+
 Ready to tackle the next challenge?  
 [Go to Overwhelming Complexity](/docs/challenges/overwhelming-complexity)
 
