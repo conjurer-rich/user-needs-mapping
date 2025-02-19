@@ -15,7 +15,7 @@ excerpt: >
 section-list:
     - "![Tom Quay, CEO, Passenger](/assets/images/profiles/tom_quay_passenger.jpeg){: .align-right .author-avatar }
   
-      **Passenger Case Study:** Discover how a mobile ticketing company used User Needs Mapping to disccover value streams and align their teams for optimal delivery. [Read the story.](/docs/case-studies/passenger/)  
+      **Passenger Case Study:** Discover how a mobile ticketing company used User Needs Mapping to disccover value streams and align their teams for optimal delivery. [Read the story.](/docs/case-studies/passenger)  
     
       > 'User Needs Mapping has helped us to identify previously unseen ways of organizing our teams and was a valuable part of applying Team Topologies at Passenger' Tom Quay, CEO, Passenger"
 quote-list:
