@@ -11,8 +11,6 @@ header:
 classes: wide
 ---
 
-If you want to discuss how you can bring User Needs Mapping into your organization simply [book some time with me](https://app.reclaim.ai/m/richard-allen/high-priority-meeting).
-
 ## About Me
 
 ![Profile photo of Rich](/assets/images/Rich Allen Profile - Cropped Square - Colour.jpeg){: .align-right width="20%"}
