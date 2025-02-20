@@ -96,7 +96,7 @@ Write three user needs for one of the user groups you identified in Step 2. Use 
 
 Why not test yourself with our mini-quiz? It should only take a few minutes and will help you understand if you really understand what a User Need is.
 
-[Take our 'Real or Not': A User Needs Challenge](/https://richard-ivqrpvyt.scoreapp.com)
+[Take our 'Real or Not': A User Needs Challenge](https://richard-ivqrpvyt.scoreapp.com)
 
 ---
 
