@@ -75,7 +75,7 @@ learn-more-list:
     \\
     \\
     With User Needs Mapping we seek to start (and continue) conversations between product and engineering teams that align them around the needs of the users they serving. We do this by **visualizing the value chain** which helps teams to understand the **flow of value** through the organization and then determine how they might best align to deliver that value most effectively."
-    image_path="/assets/images/Movie-goer-full-user-needs-map.png"
+    image_path="/assets/images/Movie-goer-full-user-needs-map-square.png"
 %}
 
 {% include section.html
