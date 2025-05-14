@@ -90,4 +90,4 @@ For organizations looking to improve alignment, reduce cognitive load, and enhan
 
 ## Ready to dive deeper?
 
-In the next article, we’ll explore the step-by-step process of User Needs Mapping, providing practical guidance and examples to help you get started. Stay tuned for actionable insights and real-world applications that can transform how your organization designs teams and delivers value.
+Take a look at [Introduction to User Needs Mapping](https://userneedsmapping.com/docs/introduction-to-user-needs-mapping/) to get started.
