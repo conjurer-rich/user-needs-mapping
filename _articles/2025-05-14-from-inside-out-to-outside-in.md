@@ -1,7 +1,6 @@
 ---
 title: "From Inside Out to Outside-In: Why Team Boundaries Must Start With User Needs"
 description: "A deeper dive into Rich Allen’s Fast Flow Conf 2025 talk, exploring how User Needs Mapping helps teams escape functional silos and organize around what really matters—user needs."
-author: Rich Allen
 date: 2025-05-14
 categories: [User Needs Mapping, Fast Flow, Organizational Design, Team Topologies]
 tags: [user needs, team boundaries, team design, fast flow, inside out, outside in, capability mapping]
