@@ -19,6 +19,7 @@ Do you want to propose a resource? [Please create a pull request.](https://githu
 | Level     | Type     | Year | Author              | Link |
 |---------- |--------- | ---- | ------------------- | ---- |
 | Beginner  | Video    | 2023 | Richard Allen  | [Finding team and service boundaries with User Needs Mapping (25 min)](https://www.youtube.com/watch?v=9KScLA7zCHU) |
+| Beginner  | Video    | 2025 | Richard Allen  | [From Inside-out to Outside-in: Aligning Teams Around What Matters (25 min)](https://www.youtube.com/watch?v=UYbTZzvk_C0) |
 
 ## Related Topics
 
