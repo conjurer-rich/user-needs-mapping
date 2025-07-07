@@ -114,16 +114,6 @@ User Needs Mapping has become a **go-to technique** used within the [Team Topolo
     section_wrap=true
   %}
 
-{% include section.html
-    title="Join the community"
-    main_content="**A network of innovators and changemakers.**  
-    User Needs Mapping is more than a technique, it’s a mindset. Join a growing community of practitioners, learn from their experiences, and share your own journey.\\
-    In the community you get access exclusive resources, collaborate with peers, and learn from industry leaders.\\
-    Together, we can create teams that deliver value faster, with less friction."
-    link="/community"
-    link_text="Join the conversation in the community."
-%}
-
 {% include call-to-action.html
     title="Get started today"
     text="Ready to align your teams and deliver faster? Start with User Needs Mapping."
