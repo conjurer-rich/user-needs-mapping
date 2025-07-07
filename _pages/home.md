@@ -18,6 +18,12 @@ section-list:
       **Passenger Case Study:** Discover how a mobile ticketing company used User Needs Mapping to disccover value streams and align their teams for optimal delivery. [Read the story.](/docs/case-studies/passenger)  
     
       > 'User Needs Mapping has helped us to identify previously unseen ways of organizing our teams and was a valuable part of applying Team Topologies at Passenger' Tom Quay, CEO, Passenger"
+influencer-quote-list:
+    - excerpt: "This is really positive. I know it's not the full map but even thinking about the users, their needs and chain of components is a transformational change for many."  
+      image_path: "/assets/images/profiles/simon-wardley.jpeg"
+      image_caption: "Simon Wardley,  
+      Mapper,  
+      Mostly good"
 quote-list:
     - excerpt: "It’s much easier to communicate where and how AI is influencing a user or customer need with UNM than customer journey maps or service blueprints."  
       image_path: "/assets/images/profiles/ross_langley.jpg"
@@ -77,6 +83,8 @@ learn-more-list:
     With User Needs Mapping we seek to start (and continue) conversations between product and engineering teams that align them around the needs of the users they serving. We do this by **visualizing the value chain** which helps teams to understand the **flow of value** through the organization and then determine how they might best align to deliver that value most effectively."
     image_path="/assets/images/Movie-goer-full-user-needs-map-square.png"
 %}
+
+{% include quote_row.html id="influencer-quote-list" title="What do the experts say?" section_wrap=true %}
 
 {% include section.html
     title="Real-world results"
