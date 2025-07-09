@@ -1,4 +1,6 @@
 main:
+  - title: "Book"
+    url: /book
   - title: "Quick start"
     url: /docs/quick-start-guide
   - title: "Insights"
