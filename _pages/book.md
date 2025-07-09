@@ -1,8 +1,8 @@
 ---
 layout: splash
 title: "Aligning Teams Around What Matters"
-description: "Pre-order the practical guide to aligning your teams around real user needs and reducing organizational friction."
-excerpt: "Pre-order the practical guide to aligning your teams around real user needs and reducing organizational friction."
+description: "Sign up to be notified when the book launches and get early access to exclusive content, tools, and resources."
+excerpt: "Sign up to be notified when the book launches and get early access to exclusive content, tools, and resources."
 permalink: /book/
 toc: false
 header: 
@@ -11,8 +11,8 @@ header:
   overlay_filter: rgba(56, 91, 110, 0.75)
   overlay_image: /assets/images/books/user_needs_mapping_book_cover_front.png
   actions: 
-    - label: "<i class='fas fa-rocket'></i> Pre-Order Now"
-      url: /book/#-pre-order-now
+    - label: "<i class='fas fa-volume-high'></i> Get Notified"
+      url: /book/#-stay-in-the-loop
 ---
 [![User Needs Mapping: Aligning teams around what matters](/assets/images/books/user_needs_mapping_book_cover_front.png){: width="400px" .align-right}](https://resources.userneedsmapping.com/products/user-needs-mapping-book-pre-order){: .align-center}
 
@@ -24,18 +24,19 @@ header:
 
 ---
 
-## 🚀 Pre-order Now
+## 🚀 Get notified at launch
 
-Secure your copy and be among the first to learn how to:
+Want to be the first to know when the book is available?
 
-- 🔍 Uncover genuine user needs — internal *and* external  
-- 🧭 Navigate misaligned responsibilities and hidden dependencies  
-- 🧠 Make smarter decisions about team design and service boundaries  
-- ⚖️ Balance wants, needs, and feasibility using real-world patterns  
-- 🧩 Align around shared purpose, not just internal roles  
+Sign up and we’ll send you:
 
-👉 [**Pre-order the Book**](https://resources.userneedsmapping.com/products/user-needs-mapping-book-pre-order){: target="_blank"}  
-*Available in print and digital formats — shipping begins August/September 2025*
+- A launch announcement with a direct link to buy  
+- Exclusive early access to tools, templates, or bonus resources  
+- Invitations to live events, author Q&As, and behind-the-scenes updates
+
+👉 [**Notify me at launch**](/book/#-stay-in-the-loop)
+
+*We’ll only email you about the book — no spam, ever.*
 
 ---
 
@@ -61,13 +62,13 @@ Secure your copy and be among the first to learn how to:
 
 ---
 
-## ✨ Why pre-order?
+## ✨ Why register to be notified?
 
 - 🛠️ Help shape the conversation around fast flow and user-centric team design  
 - 💬 Get notified about launch events, webinars, and Q&A sessions  
 - 📦 Be among the first to get the book when it ships  
 
-👉 [**Reserve Your Copy Today**](https://resources.userneedsmapping.com/products/user-needs-mapping-book-pre-order)
+👉 [**Get notified**](/book/#-stay-in-the-loop)
 
 ---
 
@@ -85,7 +86,7 @@ Secure your copy and be among the first to learn how to:
 > *“It’s much easier to communicate where and how AI is influencing a user or customer need with UNM than customer journey maps or service blueprints.”*  
 > — *Ross Langley, Head of Product Design, Fresh*
 
-*Want to be featured here? Pre-order and share your thoughts.*
+*Want to be featured here? Register your interest and share your thoughts.*
 
 ---
 
