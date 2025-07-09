@@ -19,11 +19,9 @@ section-list:
     
       > 'User Needs Mapping has helped us to identify previously unseen ways of organizing our teams and was a valuable part of applying Team Topologies at Passenger' Tom Quay, CEO, Passenger"
 influencer-quote-list:
-    - excerpt: "This is really positive. I know it's not the full map but even thinking about the users, their needs and chain of components is a transformational change for many."  
+    - excerpt: "I love User Needs Mapping...This is really positive. I know it's not the full map but even thinking about the users, their needs and chain of components is a transformational change for many...give it some love"  
       image_path: "/assets/images/profiles/simon-wardley.jpeg"
-      image_caption: "Simon Wardley,  
-      Mapper,  
-      Mostly good"
+      image_caption: "Simon Wardley, Mapper, Mostly good"
 quote-list:
     - excerpt: "It’s much easier to communicate where and how AI is influencing a user or customer need with UNM than customer journey maps or service blueprints."  
       image_path: "/assets/images/profiles/ross_langley.jpg"
