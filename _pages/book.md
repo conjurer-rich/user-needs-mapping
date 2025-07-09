@@ -52,7 +52,7 @@ Secure your copy and be among the first to learn how to:
 ## 📚 What’s inside?
 
 - 💡 A step-by-step guide to the **User Needs Mapping** technique  
-- 🔍 Real-world case studies from scaling companies and complex orgs  
+- 🔍 Real-world case study from scaling a company
 - 🧠 Tools to identify misaligned team boundaries and dependency overload  
 - 🧭 Techniques to guide better team and service design decisions  
 - 🤝 Approaches for managing tension across teams and stakeholders  
