@@ -16,7 +16,7 @@ header:
 ---
 [![User Needs Mapping: Aligning teams around what matters](/assets/images/books/user_needs_mapping_book_cover_front.png){: width="400px" .align-right}](https://resources.userneedsmapping.com/products/user-needs-mapping-book-pre-order){: .align-center}
 
-### A practical guide, hands-on guide for uncovering what really matters — and designing your teams around it
+### A practical, hands-on guide for uncovering what really matters — and designing your teams around it
 
 > “Most teams don’t suffer from a lack of effort — they suffer from a lack of alignment.”
 
