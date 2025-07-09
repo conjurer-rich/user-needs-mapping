@@ -9,7 +9,7 @@ header:
   og_image: /assets/images/books/user_needs_mapping_book_front_cover.png
   overlay_color: "#0EA2F1"
   overlay_filter: rgba(56, 91, 110, 0.75)
-  overlay_image: /assets/images/books/user_needs_mapping_book_cover_front.png
+  overlay_image: /assets/images/unm_landscape.png
   actions: 
     - label: "<i class='fas fa-volume-high'></i> Get Notified"
       url: /book/#-stay-in-the-loop
