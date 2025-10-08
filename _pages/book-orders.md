@@ -14,7 +14,7 @@ header:
     - label: "<i class='fas fa-volume-high'></i> Get Notified"
       url: /book/#-stay-in-the-loop
 ---
-[![User Needs Mapping: Aligning teams around what matters](/assets/images/books/user_needs_mapping_book_cover_front.png){: width="400px" .align-right}](https://resources.userneedsmapping.com/products/user-needs-mapping-book-pre-order){: .align-center}
+[![User Needs Mapping: Aligning teams around what matters](/assets/images/books/user_needs_mapping_book_cover_front_2025-10-01.png){: width="400px" .align-right}](https://resources.userneedsmapping.com/products/user-needs-mapping-book-pre-order){: .align-center}
 
 ### A practical, hands-on guide for uncovering what really matters — and designing your teams around it
 
