@@ -34,7 +34,7 @@ Choose your preferred marketplace:
 - [🇪🇺 Amazon Sweden](https://www.amazon.se/dp/B0FVBBKPKP){: target="_blank"}
 - [🇪🇺 Amazon Norway](https://www.amazon.no/dp/B0FVBBKPKP){: target="_blank"}
 - [🇦🇺 Amazon Australia](https://www.amazon.com.au/dp/B0FVBBKPKP){: target="_blank"}
-- [📘 Leanpub (Digital Edition)](https://leanpub.com/userneedsmapping){: target="_blank"}
+- [📘 Leanpub (Digital Edition - PDF (EPUB coming soon))](https://leanpub.com/userneedsmapping){: target="_blank"}
 
 *(More retailers will be added soon.)*
 
