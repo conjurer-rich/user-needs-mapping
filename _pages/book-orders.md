@@ -27,7 +27,13 @@ Choose your preferred marketplace:
 - [🇬🇧 Amazon UK](https://www.amazon.co.uk/dp/B0FVBBKPKP){: target="_blank"}
 - [🇺🇸 Amazon US](https://www.amazon.com/dp/B0FVBBKPKP){: target="_blank"}
 - [🇨🇦 Amazon Canada](https://www.amazon.ca/dp/B0FVBBKPKP){: target="_blank"}
-- [🇪🇺 Amazon Germany](https://www.amazon.de/dp/B0FVBBKPKP){: target="_blank"}
+- [🇪🇺 Amazon Italy](https://www.amazon.it/dp/B0FVBBKPKP){: target="_blank"}
+- [🇪🇺 Amazon Spain](https://www.amazon.es/dp/B0FVBBKPKP){: target="_blank"}
+- [🇪🇺 Amazon Netherlands](https://www.amazon.nl/dp/B0FVBBKPKP){: target="_blank"}
+- [🇪🇺 Amazon Belgium](https://www.amazon.be/dp/B0FVBBKPKP){: target="_blank"}
+- [🇪🇺 Amazon Sweden](https://www.amazon.se/dp/B0FVBBKPKP){: target="_blank"}
+- [🇪🇺 Amazon Norway](https://www.amazon.no/dp/B0FVBBKPKP){: target="_blank"}
+- [🇪🇺 Amazon Australia](https://www.amazon.com.au/dp/B0FVBBKPKP){: target="_blank"}
 - [📘 Leanpub (Digital Edition)](https://leanpub.com/userneedsmapping){: target="_blank"}
 
 *(More retailers will be added soon.)*
