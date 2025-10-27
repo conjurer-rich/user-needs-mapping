@@ -24,16 +24,21 @@ Below you’ll find links to purchase the book in your preferred marketplace, or
 
 Choose your preferred marketplace:
 
+- [🇦🇺 Amazon Australia](https://www.amazon.com.au/User-Needs-Mapping-Aligning-Matters-ebook/dp/B0FHX3TBZL){: target="_blank"}
+- [🇪🇺 Amazon Belgium](https://www.amazon.com.be/dp/B0FVBBKPKP){: target="_blank"}
+- [🇨🇦 Amazon Canada](https://www.amazon.ca/dp/B0FVBBKPKP){: target="_blank"}
+- [🇫🇷 Amazon France](https://www.amazon.fr/dp/B0FVBBKPKP){: target="_blank"}
+- [🇪🇺 Amazon Germany](https://www.amazon.de/dp/B0FVBBKPKP){: target="_blank"}
+- [🇪🇺 Amazon Italy](https://www.amazon.it/dp/B0FVBBKPKP){: target="_blank"}
+- [🇯🇵 Amazon Japan](https://www.amazon.co.jp/-/en/Rich-Allen-ebook/dp/B0FHX3TBZL){: target="_blank"}
+- [🇪🇺 Amazon Netherlands](https://www.amazon.nl/dp/B0FVBBKPKP){: target="_blank"}
+- [🇪🇺 Amazon Norway (via Germany, but can also use Sweden or UK store)](https://www.amazon.de/dp/B0FVBBKPKP){: target="_blank"}
+- [🇵🇱 Amazon Poland](https://www.amazon.pl/dp/B0FVBBKPKP){: target="_blank"}
+- [🇪🇺 Amazon Portugal](https://www.amazon.pt/dp/B0FVBBKPKP){: target="_blank"}
+- [🇪🇺 Amazon Spain](https://www.amazon.es/dp/B0FVBBKPKP){: target="_blank"}
+- [🇪🇺 Amazon Sweden](https://www.amazon.se/dp/B0FVBBKPKP){: target="_blank"}
 - [🇬🇧 Amazon UK](https://www.amazon.co.uk/dp/B0FVBBKPKP){: target="_blank"}
 - [🇺🇸 Amazon US](https://www.amazon.com/dp/B0FVBBKPKP){: target="_blank"}
-- [🇨🇦 Amazon Canada](https://www.amazon.ca/dp/B0FVBBKPKP){: target="_blank"}
-- [🇪🇺 Amazon Italy](https://www.amazon.it/dp/B0FVBBKPKP){: target="_blank"}
-- [🇪🇺 Amazon Spain](https://www.amazon.es/dp/B0FVBBKPKP){: target="_blank"}
-- [🇪🇺 Amazon Netherlands](https://www.amazon.nl/dp/B0FVBBKPKP){: target="_blank"}
-- [🇪🇺 Amazon Belgium](https://www.amazon.com.be/dp/B0FVBBKPKP){: target="_blank"}
-- [🇪🇺 Amazon Sweden](https://www.amazon.se/dp/B0FVBBKPKP){: target="_blank"}
-- [🇪🇺 Amazon Norway (via Germany, but can also use Sweden or UK store)](https://www.amazon.de/dp/B0FVBBKPKP){: target="_blank"}
-- [🇦🇺 Amazon Australia](https://www.amazon.com.au/dp/B0FVBBKPKP){: target="_blank"}
 - [📘 Leanpub (Digital Edition - PDF & EPUB)](https://leanpub.com/userneedsmapping){: target="_blank"}
 
 *(More retailers will be added soon.)*
