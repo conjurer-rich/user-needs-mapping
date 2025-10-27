@@ -30,11 +30,11 @@ Choose your preferred marketplace:
 - [🇪🇺 Amazon Italy](https://www.amazon.it/dp/B0FVBBKPKP){: target="_blank"}
 - [🇪🇺 Amazon Spain](https://www.amazon.es/dp/B0FVBBKPKP){: target="_blank"}
 - [🇪🇺 Amazon Netherlands](https://www.amazon.nl/dp/B0FVBBKPKP){: target="_blank"}
-- [🇪🇺 Amazon Belgium](https://www.amazon.be/dp/B0FVBBKPKP){: target="_blank"}
+- [🇪🇺 Amazon Belgium](https://www.amazon.com.be/dp/B0FVBBKPKP){: target="_blank"}
 - [🇪🇺 Amazon Sweden](https://www.amazon.se/dp/B0FVBBKPKP){: target="_blank"}
 - [🇪🇺 Amazon Norway](https://www.amazon.no/dp/B0FVBBKPKP){: target="_blank"}
 - [🇦🇺 Amazon Australia](https://www.amazon.com.au/dp/B0FVBBKPKP){: target="_blank"}
-- [📘 Leanpub (Digital Edition - PDF (EPUB coming soon))](https://leanpub.com/userneedsmapping){: target="_blank"}
+- [📘 Leanpub (Digital Edition - PDF & EPUB)](https://leanpub.com/userneedsmapping){: target="_blank"}
 
 *(More retailers will be added soon.)*
 
