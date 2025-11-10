@@ -1,17 +1,18 @@
 ---
 permalink: /
-title: "Align Product and Engineering to unlock faster delivery and better results."
+title: "Map needs, align teams,  
+
+deliver value."
 layout: splash
 header: 
-  og_image: /assets/images/Movie-goer-full-user-needs-map.png.jpg
-  overlay_color: "#0EA2F1"
-  overlay_filter: rgba(56, 91, 110, 0.75)
-  overlay_image: /assets/images/Movie-goer-full-user-needs-map.png
+  og_image: /assets/images/books/user_needs_mapping_book_front_cover.png
+  image: /assets/images/books/unm_book_photo_shoot.png
+  overlay_color: "#3e4a59"
   actions: 
-    - label: "<i class='fas fa-rocket'></i> Get started today"
-      url: /quick-start-guide
+    - label: "<i class='fas fa-rocket'></i> Learn more"
+      url: /book
 excerpt: > 
-  **Eliminate silos**, **improve collaboration**, and **deliver value** to your users **faster**.
+  From Rich Allen, leading sociotechnical architect and creator of User Needs Mapping - a practical guide for aligning teams, reducing friction and delivering value that truly meets user needs.
 section-list:
     - "![Tom Quay, CEO, Passenger](/assets/images/profiles/tom_quay_passenger.jpeg){: .align-right .author-avatar }
   

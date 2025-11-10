@@ -29,10 +29,6 @@ $call-to-action-color: #34b3b1;
 @import "page__hero";
 @import "affiliate-disclosure";
 
-.page__hero--overlay .page__lead {
-    max-width: 80%;
-}
-
 .masthead {
   background-color: #3e4a59;
   color: #FEFEFE;
@@ -112,25 +108,4 @@ $call-to-action-color: #34b3b1;
   }
 }
 
-/* Call to action buttons */
-.page__hero--overlay {
-  .btn {
-    background-color: #34b3b1 !important;
-    color: #F6F7F8 !important;
-    
-    &:hover {
-      background-color: darken(#34b3b1, 10%) !important;
-    }
-  }
-  
-  .btn--light-outline {
-    background-color: transparent !important;
-    border: 2px solid #F6F7F8 !important;
-    color: #F6F7F8 !important;
-    
-    &:hover {
-      background-color: #F6F7F8 !important;
-      color: #34b3b1 !important;
-    }
-  }
-} 
+
