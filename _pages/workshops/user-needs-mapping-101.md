@@ -12,7 +12,7 @@ header:
       url: "#waitlist" 
 ---
 
-## Struggling to get started with User Needs Mapping? test
+## Struggling to get started with User Needs Mapping?
 
 You’re not alone. Many teams and practitioners understand *why* aligning around user needs matters — but feel uncertain about *how* to begin.
 
