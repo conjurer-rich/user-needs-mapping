@@ -1,10 +1,53 @@
 .page__hero--overlay {
   position: relative;
   margin-bottom: 1rem;
+  padding: 3rem 2em 2em 2em;
 }
 
 .page__hero--overlay .page__lead  {
   text-shadow: none;
-  font-size: 1.7rem;
-  max-width: 65%;
+  font-size: 1rem;
+  max-width: 100%;
 }
+
+.page__hero-flex-grid {
+    justify-content: space-between;
+    gap: 2em;
+}
+
+.page__hero-flex-grid-left {
+    padding-top: 2em;
+}
+
+.page__hero-flex-grid-right {
+    padding-left: 2em;
+}
+
+.page__hero-image {
+  width: 60%;
+  height: auto;
+}
+
+/* Call to action buttons */
+.page__hero--overlay {
+    .btn {
+      background-color: #34b3b1 !important;
+      color: #F6F7F8 !important;
+      
+      &:hover {
+        background-color: darken(#34b3b1, 10%) !important;
+        text-shadow: none !important;
+      }
+    }
+    
+    .btn--light-outline {
+      background-color: transparent !important;
+      border: 2px solid #F6F7F8 !important;
+      color: #F6F7F8 !important;
+      
+      &:hover {
+        background-color: #F6F7F8 !important;
+        color: #34b3b1 !important;
+      }
+    }
+  } 

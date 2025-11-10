@@ -31,6 +31,14 @@
   width: 32%;
 }
 
+.flex-grid-40-60 {
+  display: flex;
+ justify-content: space-between;
+}
+  
+.flex-grid-40-60 .col-small {
+width: 40%;
+}
 
 /* Mobile-first breakpoint */
 @media (max-width: 400px) {
