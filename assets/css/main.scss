@@ -6,9 +6,9 @@ search: false
 @charset "utf-8";
 
 /* Custom styles */
-$primary-color: #34B3B1;
-$secondary-color: #1D2731;
-$call-to-action-color: #34B3B1;
+$primary-color: #34b3b1;
+$secondary-color: #ef8e06;
+$call-to-action-color: #34b3b1;
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
@@ -34,8 +34,9 @@ $call-to-action-color: #34B3B1;
 }
 
 .masthead {
-  background-color: #1D2731;
-  color: #F6F7F8;
+  background-color: #3e4a59;
+  color: #FEFEFE;
+  border-bottom: none;
 }
 
 .masthead__inner-wrap {
@@ -43,26 +44,26 @@ $call-to-action-color: #34B3B1;
 }
 
 .greedy-nav {
-  background-color: #1D2731;
+  background-color: #3e4a59;
 }
 
 .greedy-nav a {
-  color: #F6F7F8;
+  color: #FEFEFE;
   font-family: "Inter", sans-serif;
   font-weight: 500;
   text-transform: none;
 }
 
 .greedy-nav a:hover {
-  color: #34B3B1;
+  color: #34b3b1;
 }
 
 .greedy-nav .visible-links a {
-  color: #F6F7F8;
+  color: #FEFEFE;
 }
 
 .greedy-nav .visible-links a:hover {
-  color: #34B3B1;
+  color: #34b3b1;
 }
 
 .greedy-nav .hidden-links {
@@ -71,54 +72,54 @@ $call-to-action-color: #34B3B1;
 }
 
 .greedy-nav .hidden-links a {
-  color: #F6F7F8;
+  color: #FEFEFE;
 }
 
 .greedy-nav .hidden-links a:hover {
-  color: #34B3B1;
+  color: #34b3b1;
   background-color: #3E4A59;
 }
 
 /* Mobile navigation */
 .navicon {
-  background-color: #F6F7F8;
+  background-color: #FEFEFE;
 }
 
 .navicon::before,
 .navicon::after {
-  background-color: #F6F7F8;
+  background-color: #FEFEFE;
 }
 
 /* Button styles */
 .btn,
 .btn--primary {
-  background-color: #34B3B1 !important;
-  color: #F6F7F8 !important;
+  background-color: #34b3b1 !important;
+  color: #FEFEFE !important;
   
   &:hover {
-    background-color: darken(#34B3B1, 10%) !important;
+    background-color: darken(#34b3b1, 10%) !important;
   }
 }
 
 .btn--inverse {
   background-color: transparent !important;
-  border: 2px solid #34B3B1 !important;
-  color: #34B3B1 !important;
+  border: 2px solid #34b3b1 !important;
+  color: #34b3b1 !important;
   
   &:hover {
-    background-color: #34B3B1 !important;
-    color: #F6F7F8 !important;
+    background-color: #34b3b1 !important;
+    color: #FEFEFE !important;
   }
 }
 
 /* Call to action buttons */
 .page__hero--overlay {
   .btn {
-    background-color: #34B3B1 !important;
+    background-color: #34b3b1 !important;
     color: #F6F7F8 !important;
     
     &:hover {
-      background-color: darken(#34B3B1, 10%) !important;
+      background-color: darken(#34b3b1, 10%) !important;
     }
   }
   
@@ -129,7 +130,7 @@ $call-to-action-color: #34B3B1;
     
     &:hover {
       background-color: #F6F7F8 !important;
-      color: #34B3B1 !important;
+      color: #34b3b1 !important;
     }
   }
 } 
