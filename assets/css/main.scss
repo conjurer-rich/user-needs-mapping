@@ -9,6 +9,7 @@ search: false
 $primary-color: #ef8e06;
 $secondary-color: #34b3b1;
 $call-to-action-color: #ef8e06;
+$secondary-call-to-action-color: #34b3b1;
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials

@@ -11,6 +11,15 @@
   }
 }
 
+.btn.btn--secondary {
+    background-color: $secondary-call-to-action-color;
+    color: #fff;
+  
+    &:hover {
+      background-color: darken($secondary-call-to-action-color, 10%);
+    }
+  }
+
 .btn.btn--link {
   padding: 0;
   background-color: unset;

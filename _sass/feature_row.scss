@@ -58,7 +58,8 @@
 .archive__item-title {
     text-transform: uppercase;
     font-weight: normal;
-    text-align: center;
+    text-align: left;
+    font-size: 0.8em;
 }
 
 .archive__item-body p {
@@ -66,7 +67,7 @@
 }
 
 .archive__item-body p.archive__item-button {
-  text-align: center;
+  text-align: left;
   margin-top: 1rem;
 }
 
