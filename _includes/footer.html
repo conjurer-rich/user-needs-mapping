@@ -1,0 +1,53 @@
+<div class="page__footer-container">
+    <div class="page__footer-content container flex-grid flex-grid-40-60">
+        <div class="col-small">
+            <div class="page__footer-image">
+                <img src="{{ site.footer_image | relative_url }}" alt="Subscribe to the newsletter">
+            </div>
+        </div>
+        <div class="col">
+            <h2>Stay Connected</h2>
+            <p>Subscribe to receive updates, exclusive content and more </p>
+            <script async data-uid="0f9be8cd0c" src="https://conjurer.kit.com/0f9be8cd0c/index.js"></script>
+            <nav id="site-footer-nav" class="greedy-nav">
+                {% unless logo_path == empty %}
+                  <a class="site-logo" href="{{ '/' | relative_url }}"><img src="{{ logo_path | relative_url }}" alt="{{ site.masthead_title | default: site.title }}"></a>
+                {% endunless %}
+                <ul class="footer-nav__visible-links">
+                  {%- for link in site.data.navigation.main -%}
+                    <li class="footer-nav__menu-item">
+                      <a
+                        href="{{ link.url | relative_url }}"
+                        {% if link.description %} title="{{ link.description }}"{% endif %}
+                        {% if link.target %} target="{{ link.target }}"{% endif %}
+                      >{{ link.title }}</a>
+                    </li>
+                  {%- endfor -%}
+                </ul>
+            </nav>
+        </div>
+    </div>
+
+    <div class="page__footer-copyright">&copy; {{ site.time | date: '%Y' }} <a href="{{ site.copyright_url | default: site.url }}">{{ site.copyright | default: site.title }}</a>.
+        <span class="page__footer-follow">
+            <ul class="social-icons">
+              {% if site.data.ui-text[site.locale].follow_label %}
+                <li><strong>{{ site.data.ui-text[site.locale].follow_label }}</strong></li>
+              {% endif %}
+          
+              {% if site.footer.links %}
+                {% for link in site.footer.links %}
+                  {% if link.label and link.url %}
+                    <li><a href="{{ link.url }}" rel="nofollow noopener noreferrer"><i class="{{ link.icon | default: 'fas fa-link' }}" aria-hidden="true"></i> {{ link.label }}</a></li>
+                  {% endif %}
+                {% endfor %}
+              {% endif %}
+          
+              {% unless site.atom_feed.hide %}
+                <li><a href="{% if site.atom_feed.path %}{{ site.atom_feed.path }}{% else %}{{ '/feed.xml' | relative_url }}{% endif %}"><i class="fas fa-fw fa-rss-square" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].feed_label | default: "Feed" }}</a></li>
+              {% endunless %}
+            </ul>
+        </span>
+    </div>
+</div>
+

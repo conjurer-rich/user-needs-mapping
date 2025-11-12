@@ -6,9 +6,9 @@ search: false
 @charset "utf-8";
 
 /* Custom styles */
-$primary-color: #34b3b1;
-$secondary-color: #ef8e06;
-$call-to-action-color: #34b3b1;
+$primary-color: #ef8e06;
+$secondary-color: #34b3b1;
+$call-to-action-color: #ef8e06;
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
@@ -28,84 +28,6 @@ $call-to-action-color: #34b3b1;
 @import "page__footer";
 @import "page__hero";
 @import "affiliate-disclosure";
-
-.masthead {
-  background-color: #3e4a59;
-  color: #FEFEFE;
-  border-bottom: none;
-}
-
-.masthead__inner-wrap {
-  padding: 0.5em 1em;
-}
-
-.greedy-nav {
-  background-color: #3e4a59;
-}
-
-.greedy-nav a {
-  color: #FEFEFE;
-  font-family: "Inter", sans-serif;
-  font-weight: 500;
-  text-transform: none;
-}
-
-.greedy-nav a:hover {
-  color: #34b3b1;
-}
-
-.greedy-nav .visible-links a {
-  color: #FEFEFE;
-}
-
-.greedy-nav .visible-links a:hover {
-  color: #34b3b1;
-}
-
-.greedy-nav .hidden-links {
-  background-color: #1D2731;
-  border: 1px solid #3E4A59;
-}
-
-.greedy-nav .hidden-links a {
-  color: #FEFEFE;
-}
-
-.greedy-nav .hidden-links a:hover {
-  color: #34b3b1;
-  background-color: #3E4A59;
-}
-
-/* Mobile navigation */
-.navicon {
-  background-color: #FEFEFE;
-}
-
-.navicon::before,
-.navicon::after {
-  background-color: #FEFEFE;
-}
-
-/* Button styles */
-.btn,
-.btn--primary {
-  background-color: #34b3b1 !important;
-  color: #FEFEFE !important;
-  
-  &:hover {
-    background-color: darken(#34b3b1, 10%) !important;
-  }
-}
-
-.btn--inverse {
-  background-color: transparent !important;
-  border: 2px solid #34b3b1 !important;
-  color: #34b3b1 !important;
-  
-  &:hover {
-    background-color: #34b3b1 !important;
-    color: #FEFEFE !important;
-  }
-}
-
+@import "block_quote";
+@import "masthead";
 

@@ -1,0 +1,17 @@
+.page__content blockquote {
+    padding: 0 1rem;
+    font-style: italic;
+    font-weight: lighter;
+    border: none;
+  }
+
+.page__content blockquote p {
+  font-size: 2rem;
+  margin: 0;
+}
+
+.page__content blockquote footer {
+  font-style: normal;
+  font-weight: bold;
+  text-align: right;
+}

@@ -24,12 +24,50 @@
   padding: 5px 0 0 0; // Add consistent padding
 }
 
+.archive__item-teaser {
+    padding: 0.5rem 1rem;
+    border-radius: 1rem;
+    background-color: #f0f0f0;
+    text-align: center;
+    img {
+        width: auto;
+        height: 100%;
+    }
+
+    &--azure {
+        background-color: #e5fbff;
+    }
+
+    &--orange {
+        background-color: #ef8e06;
+    }
+
+    &--grey {
+        background-color: #3e4a59;
+    }
+    
+    &--light-grey {
+      background-color: #abadb0;
+    }
+
+    &--cyan {
+        background-color: #34b3b1;
+    }
+}
+
+.archive__item-title {
+    text-transform: uppercase;
+    font-weight: normal;
+    text-align: center;
+}
+
 .archive__item-body p {
   margin-top: auto; // Push link to the bottom
 }
 
 .archive__item-body p.archive__item-button {
-  padding-top: 0px;
+  text-align: center;
+  margin-top: 1rem;
 }
 
 /* Mobile-first breakpoint */

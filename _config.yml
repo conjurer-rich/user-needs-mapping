@@ -18,6 +18,8 @@ title: "User Needs Mapping"
 title_separator: "-"
 #subtitle: "Align teams, unlock value, empower growth." # site tagline that appears below site title in masthead
 logo: "/assets/images/unm_logo.png" # path of logo image to display in the masthead, e.g. "/assets/assets/images/88x88.png"
+og_image: /assets/images/unm_logo.png
+footer_image: /assets/images/unm-dudes/Teamtalkingaboutconnection5.png
 name: "Rich Allen"
 description: >- # this means to ignore newlines until "baseurl:"
   A collaborative, visual approach to finding team and service boundaries
@@ -92,15 +94,12 @@ author:
 
 footer:
   links:
-    - label: "Improve this page"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/conjurer-rich/user-needs-mapping"
     - label: "Licensed CC-BY-SA-4.0"
       icon: "fab fa-creative-commons"
       url: "http://creativecommons.org/licenses/by-sa/4.0/"
     - label: "Operated with ❤️ by"
       icon: "fas fa-balance-scale"
-      url: "https://www.conjurersolutions.co.uk"
+      url: "https://richallen.info"
     - label: "Privacy"
       icon: "fas fa-user-shield"
       url: "https://www.conjurersolutions.co.uk/privacy-policy"

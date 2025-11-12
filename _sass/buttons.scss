@@ -5,10 +5,24 @@
 .btn.btn--primary {
   background-color: $call-to-action-color;
   color: #fff;
+
+  &:hover {
+    background-color: darken($call-to-action-color, 10%);
+  }
 }
 
 .btn.btn--link {
   padding: 0;
   background-color: unset;
   color: $call-to-action-color;
+}
+
+.btn.btn--inverse {
+  background-color: #fff;
+  color: $call-to-action-color;
+
+  &:hover {
+    background-color: transparent;
+    color: darken($call-to-action-color, 10%);
+  }
 }

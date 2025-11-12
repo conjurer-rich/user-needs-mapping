@@ -1,22 +1,71 @@
-.section .content {
-    padding: 0.5rem 0.5rem;
+.section {
+  padding: 1.5rem 1rem;
+  background-color: #FEFEFE; 
+
+  h2 {
+    color: #3e4a59;
   }
 
-.section--grey {
-  background-color: #f0f0f0;
+  .content {
+    padding: 0.5rem 0.5rem;
+  }
+  
+  &--no-padding {
+    padding: 0;
+  }
+
+  &--no-padding-bottom {
+    padding-bottom: 0;
+  }
+
+  &--no-padding-top {
+    padding-top: 0;
+  }
+
+  &--grey {
+    background-color: #3e4a59;
+    color: #FEFEFE;
+
+    h2 {
+        color: #FEFEFE;
+    }
+  }
+
+  &--cyan {
+    background-color: #34b3b1;
+    color: #FEFEFE;
+
+    h2 {
+      color: #FEFEFE;
+    }
+  }
+
+  &--azure {
+    background-color: #e5fbff;
+  }
+
+  &--light-grey {
+    background-color: #abadb0;
+  }
+
+  &--orange {
+    background-color: #ef8e06;
+    color: #FEFEFE;
+
+    h2 {
+      color: #FEFEFE;
+    }
+
+    .btn.btn--link {
+      color: #FEFEFE;
+      &:hover {
+        color: #3e4a59;
+      }
+    }
+  }
+
+  &--meet-the-author img {
+    border-radius: 50%;
+  }
+
 }
-
-.section--blue {
-  background-color: #6D9EEB; 
-}
-
-.section--yellow {
-  background-color: #FFD966;
-}
-
-.section--red {
-  background-color: #D09CB7;
-}
-
-
-

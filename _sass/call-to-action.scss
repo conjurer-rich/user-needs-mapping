@@ -3,7 +3,18 @@
   border-radius: 4px;
 }
 
-.cta-text {
-  font-size: 1.2em;
-  margin-bottom: 1.5em;
+.cta-wrapper .flex-grid {
+  justify-content: center;
+  align-items: center;
+}
+
+
+.cta-wrapper .btn.btn--primary {
+  background-color: $call-to-action-color;
+  color: #fff;
+}
+
+.cta-wrapper .btn.btn--inverse {
+  background-color: #fff;
+  color: $call-to-action-color;
 }
