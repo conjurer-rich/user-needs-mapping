@@ -2,7 +2,7 @@
   min-height: 400px;
   vertical-align: bottom;
   margin-top: 1rem;
-  background-color: #3e4a59;
+  background-color: #fefefe;
 }
 
 .page__footer-container {
@@ -10,14 +10,20 @@
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
+    background-color: #3e4a59;
 }
 
 .page__footer-content {
   margin-bottom: 2rem;
+  align-items: flex-end;
+}
+
+.page__footer-content .content {
+    padding: 0 0.5rem 0 0.5rem;
 }
 
 .page__footer .large h2 {
-    font-size: 2rem;
+    font-size: 3rem;
 }
 
 .page__footer-follow {
@@ -30,15 +36,21 @@
   text-align: center;
 }
 
+.page__footer-title {
+  font-size: 3rem;
+  font-weight: normal;
+}
+
 .page__footer-strapline-logo {
   width: 50px;
 }
 
 .page__footer-strapline {
-  text-align: right;
   margin-top: 2.5rem;
   font-size: 1rem;
-  padding-right: 2rem;
+  text-align: left;
+  text-transform: uppercase;
+  font-family: "Monoist", sans-serif;
 }
 
 .page__footer .footer-nav__visible-links {
@@ -71,3 +83,25 @@
 .page__footer .greedy-nav a {
     margin: 0 0.5em;
   }
+
+  .page__footer-follow li {
+    @media (min-width: 768px) {
+        display: inline-block;
+    }
+  }
+
+.page__footer-copyright {
+    padding: 1em;
+}
+
+#site-footer-nav {
+    left: 0;
+
+    @media (min-width: 768px) {
+        left: -1em;
+    }
+}
+
+.formkit-field {
+    flex-basis: 40%;
+}

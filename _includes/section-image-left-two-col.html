@@ -3,14 +3,22 @@
     <div class="container flex-grid flex-grid-30-70">
         <div class="content col">
           <img src="{{ include.image_path }}" alt="">
+          {% if include.image_cta_url and include.image_cta_button_text %}
+          <div class="image-cta-wrapper">
+            <a href="{{ include.image_cta_url }}" class="btn btn--primary">{{ include.image_cta_button_text }}</a>
+          </div>
+          {% endif %}
         </div>
         <div class="content col-small">
           {% if include.title %}
             <h2 {% if include.title_class %}class="{{ include.title_class }}"{% endif %}>{{ include.title }}</h2>
           {% endif %}
+          {% if include.callout_text %}
+            <p class="callout">{{ include.callout_text }}</p>
+          {% endif %}
           {{ include.main_content | markdownify }}
           {% if include.cta_url and include.cta_button_text %}
-            <a href="{{ include.cta_url }}" class="btn btn--link">{{ include.cta_button_text }}</a>
+            <a href="{{ include.cta_url }}" class="btn btn--primary">{{ include.cta_button_text }}</a>
           {% endif %}
         </div>
     </div>
@@ -20,10 +28,18 @@
     <div class="container flex-grid flex-grid-30-70 {% if include.flex-align-center %} flex-align-center {% endif %}">
         <div class="content col-small">
           <img src="{{ include.image_path }}" alt="">
+          {% if include.image_cta_url and include.image_cta_button_text %}
+          <div class="image-cta-wrapper">
+            <a href="{{ include.image_cta_url }}" class="btn btn--primary">{{ include.image_cta_button_text }}</a>
+          </div>
+          {% endif %}
         </div>
         <div class="content col">
           {% if include.title %}
             <h2 {% if include.title_class %}class="{{ include.title_class }}"{% endif %}>{{ include.title }}</h2>
+          {% endif %}
+          {% if include.callout_text %}
+            <p class="callout">{{ include.callout_text }}</p>
           {% endif %}
           {{ include.main_content | markdownify }}
           {% if include.cta_url and include.cta_button_text %}
@@ -37,14 +53,22 @@
     <div class="container flex-grid">
         <div class="content col">
           <img src="{{ include.image_path }}" alt="">
+          {% if include.image_cta_url and include.image_cta_button_text %}
+          <div class="image-cta-wrapper">
+              <a href="{{ include.image_cta_url }}" class="btn btn--primary">{{ include.image_cta_button_text }}</a>
+          </div>
+          {% endif %}
         </div>
         <div class="content col">
           {% if include.title %}
             <h2 {% if include.title_class %}class="{{ include.title_class }}"{% endif %}>{{ include.title }}</h2>
           {% endif %}
+          {% if include.callout_text %}
+            <p class="callout">{{ include.callout_text }}</p>
+          {% endif %}
             {{ include.main_content | markdownify }}
             {% if include.cta_url and include.cta_button_text %}
-              <a href="{{ include.cta_url }}" class="btn btn--link">{{ include.cta_button_text }}</a>
+              <a href="{{ include.cta_url }}" class="btn btn--primary">{{ include.cta_button_text }}</a>
             {% endif %}
         </div>
     </div>

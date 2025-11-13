@@ -3,6 +3,7 @@
   justify-content: space-between; // Distribute items evenly
   align-items: flex-start; // Align items at the top
   border: 0;
+  flex-direction: row;
 }
 
 .feature__item {
@@ -72,8 +73,31 @@
 }
 
 /* Mobile-first breakpoint */
-@media (max-width: 400px) {
+@media (max-width: 768px) {
   .feature__wrapper {
-    display: block;
+    flex-direction: column;
+    text-align: center;
+    align-items: center;
+  }
+
+  .archive__item-teaser {
+    text-align: center;
+  }
+
+  .archive__item-body {
+    text-align: center;
+  }
+  .archive__item-title {
+    text-align: center;
+  }
+  .archive__item-excerpt {
+    text-align: center;
+  }
+  .archive__item-button {
+    text-align: center;
+  }
+
+  .archive__item-body p.archive__item-button {
+    text-align: center;
   }
 }

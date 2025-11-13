@@ -4,7 +4,8 @@
 
 .btn.btn--primary {
   background-color: $call-to-action-color;
-  color: #fff;
+  color: $call-to-action-color-text-color;
+  border-radius: 25px;
 
   &:hover {
     background-color: darken($call-to-action-color, 10%);
@@ -13,7 +14,8 @@
 
 .btn.btn--secondary {
     background-color: $secondary-call-to-action-color;
-    color: #fff;
+    color: $secondary-call-to-action-color-text-color;
+    border-radius: 25px;
   
     &:hover {
       background-color: darken($secondary-call-to-action-color, 10%);

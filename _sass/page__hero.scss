@@ -1,7 +1,7 @@
 .page__hero--overlay {
   position: relative;
   margin-bottom: 0;
-  padding: 3rem 2em 2em 2em;
+  padding: 1rem 1em 1em 1em;
 }
 
 .page__hero--overlay .page__lead  {
@@ -10,13 +10,19 @@
   max-width: 100%;
 }
 
+.page__hero--overlay .page__title  {
+    font-size: 3rem;
+    font-weight: normal;
+    text-shadow: none;
+}
+
 .page__hero-flex-grid {
     justify-content: space-between;
     gap: 2em;
 }
 
 .page__hero-flex-grid-left {
-    padding-top: 2em;
+    padding-top: 0em;
 }
 
 .page__hero-flex-grid-right {
@@ -29,128 +35,17 @@
 }
 
 /* Call to action buttons */
-.page__hero--overlay {
-
+.page__hero--overlay .btn {
+    background-color: $primary-color;
+    text-shadow: none;
+    border-radius: 25px;
+    border: none;
+    color: #000;
     
-    .btn {
-      background-color: #34b3b1 !important;
-      color: #F6F7F8 !important;
-      
-      &:hover {
-        background-color: darken(#34b3b1, 10%) !important;
-        text-shadow: none !important;
-      }
+    &:hover {
+        background-color: darken($primary-color, 10%);
+        text-shadow: none;
     }
-    
-    .btn--light-outline {
-      background-color: transparent !important;
-      border: 2px solid #F6F7F8 !important;
-      color: #F6F7F8 !important;
-      
-      &:hover {
-        background-color: #F6F7F8 !important;
-        color: #34b3b1 !important;
-      }
-    }
-  } 
+} 
 
-/* Typewriter effect 1 */
-@keyframes typing {
-  /* "Map needs" */
-  0%, 1.5% { content: ""; }
-  1.5% { content: "M"; }
-  3% { content: "Ma"; }
-  4.5% { content: "Map"; }
-  6% { content: "Map "; }
-  7.5% { content: "Map n"; }
-  9% { content: "Map ne"; }
-  10.5% { content: "Map nee"; }
-  12% { content: "Map need"; }
-  13.5%, 18% { content: "Map needs"; }
 
-  /* blank pause */
-  18.5%, 22% { content: ""; }
-
-  /* "Align teams" */
-  22.5% { content: "A"; }
-  24% { content: "Al"; }
-  25.5% { content: "Ali"; }
-  27% { content: "Alig"; }
-  28.5% { content: "Align"; }
-  30%, 32% { content: "Align "; }
-  33.5% { content: "Align t"; }
-  35% { content: "Align te"; }
-  36.5% { content: "Align tea"; }
-  38% { content: "Align team"; }
-  39.5%, 44% { content: "Align teams"; }
-
-  /* blank pause */
-  44.5%, 48% { content: ""; }
-
-  /* "Deliver value." */
-  48.5% { content: "D"; }
-  50% { content: "De"; }
-  51.5% { content: "Del"; }
-  53% { content: "Deli"; }
-  54.5% { content: "Deliv"; }
-  56% { content: "Delive"; }
-  57.5% { content: "Deliver"; }
-  59%, 62% { content: "Deliver "; }
-  63.5% { content: "Deliver v"; }
-  65% { content: "Deliver va"; }
-  66.5% { content: "Deliver val"; }
-  68% { content: "Deliver valu"; }
-  69.5% { content: "Deliver value"; }
-  71%, 91% { content: "Deliver value"; }
-
-  /* blank pause before loop */
-  91.1%, 100% { content: ""; }
-}
-  
-  @keyframes blink {
-    0%, 100% { opacity: 1; }
-    50% { opacity: 0; }
-  }
-  
-  .typewriter {
-    --caret: currentcolor;
-  }
-  
-  .typewriter::before {
-    content: "";
-    animation: typing 13.5s infinite;
-  }
-  
-  .typewriter::after {
-    content: "";
-    border-right: 1px solid var(--caret);
-    animation: blink 0.5s linear infinite;
-  }
-  
-  .typewriter.thick::after {
-    border-right: 1ch solid var(--caret);
-  }
-  
-  .typewriter.nocaret::after {
-    border-right: 0;
-  }
-  
-  
-  @media (prefers-reduced-motion) {
-    .typewriter::after {
-      animation: none;
-    }
-    
-    @keyframes sequencePopup {
-      0%, 100% { content: "Map needs"; }
-      25% { content: "Align teams"; }
-      50% { content: "Deliver value"; }
-    }
-  
-    .typewriter::before {
-      content: "Map needs";
-      animation: sequencePopup 12s linear infinite;
-    }
-  }
-  
-  /**/

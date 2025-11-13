@@ -1,0 +1,61 @@
+.quote-carousel__holder {
+    margin-top: 2rem;
+}
+
+.quote-carousel__slide-content img {
+    border-radius: 50%;
+    max-width: 100px;
+    height: auto;
+    object-fit: cover;
+    object-position: center;
+    margin-bottom: 1rem;
+
+    @media (min-width: 768px) { 
+        width: 250px;
+        max-width: 250px;
+        height: auto;
+    }
+}
+
+.quote-carousel__slide-content blockquote {
+    font-size: 1.2rem;
+    font-style: italic;
+    margin: 0;
+    line-height: 1.2em;
+}
+
+.quote-carousel__slide-content blockquote footer {
+    font-size: 1rem;
+    font-weight: bold;
+    margin-top: 1rem;
+}
+
+.quote-carousel__slide-content-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: left;
+    gap: 1rem;
+}
+
+.quote-carousel__slide-content-image {
+    text-align: center;
+}
+
+.section--white {
+    .quote-carousel__controls label {
+        border-color: #3e4a59;
+    }
+
+    .quote-carousel__indicator {
+        background-color: #3e4a59;
+    }
+}
+
+.section--cyan .quote-carousel__indicator {
+    background-color: #fefefe;
+}
+
+.section--grey .quote-carousel__indicator {
+    background-color: #fefefe;
+}

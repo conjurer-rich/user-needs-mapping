@@ -8,6 +8,9 @@
           {% if include.title %}
             <h2 {% if include.title_class %}class="{{ include.title_class }}"{% endif %}>{{ include.title }}</h2>
           {% endif %}
+          {% if include.callout_text %}
+            <p class="callout">{{ include.callout_text }}</p>
+          {% endif %}
           {{ include.main_content | markdownify }}
           {% if include.image_path %}
             <img src="{{ include.image_path }}" alt="{{ include.title }}" class="image">

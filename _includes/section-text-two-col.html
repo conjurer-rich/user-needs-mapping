@@ -1,4 +1,4 @@
-<div class="section {% if include.section_class %} {{ include.section_class }} {% endif %}">
+<div class="section section--text-two-col {% if include.section_class %} {{ include.section_class }} {% endif %}">
     {% if include.title %}
     <div class="content">
       <h2 {% if include.title_class %}class="{{ include.title_class }}"{% endif %}>{{ include.title }}</h2>
@@ -6,10 +6,16 @@
     {% endif %}
     <div class="container flex-grid">
         <div class="content col">
+            {% if include.left_title %}
+            <h3 {% if include.left_title_class %}class="{{ include.left_title_class }}"{% endif %}>{{ include.left_title }}</h3>
+            {% endif %}
             {{ include.left_content | markdownify }}
         </div>
         <div class="content col">
-          {{ include.right_content | markdownify }}
+            {% if include.right_title %}
+            <h3 {% if include.right_title_class %}class="{{ include.right_title_class }}"{% endif %}>{{ include.right_title }}</h3>
+            {% endif %}
+            {{ include.right_content | markdownify }}
         </div>
     </div>
 </div>

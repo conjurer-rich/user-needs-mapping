@@ -2,13 +2,55 @@
   line-height: 1.2;
 }
 
-.page__content h2 {
+.page__content h1, 
+.page__content h2, 
+.page__content h3, 
+.page__content h4, 
+.page__content h5, 
+.page__content h6 {
   border-bottom: none;
   margin-top: 1rem;
+  font-weight: normal;
+  padding-bottom: 0;
+  border-bottom: none;
+}
+
+.page__content h3, 
+.page__content h4, 
+.page__content h5, 
+.page__content h6 {
+    font-weight: bold;
 }
 
 .page__content .large h2 {
-    font-size: 2rem;
+    font-size: 3rem;
+}
+
+.page__content .content {
+    padding-bottom: 0;
+    padding-top: 0;
+}
+
+.page__content .callout {
+  font-size: 1.2rem;
+  font-weight: bold;
+  color: #000;
+  margin-bottom: 1rem;
+  margin-top: 0;
+}
+
+.page__content ul, .page__content ol {
+  line-height: 1.2em;
+}
+
+.page__content ul li, .page__content ol li {
+  margin-bottom: 0;
+  font-size: 0.8rem;
+}
+
+.page__content p {
+  line-height: 1.2em;
+  font-size: 0.8rem;
 }
 
 .page__content p.fine-print {
@@ -16,4 +58,12 @@
     font-size: 0.8em;
     font-style: italic;
     text-align: left;
+}
+
+.no-padding-bottom {
+  padding-bottom: 0;
+}
+
+.no-padding-top {
+  padding-top: 0;
 }

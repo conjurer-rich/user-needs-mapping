@@ -78,7 +78,7 @@
         {% if page.header.actions %}
             <p class="{% if page.header.align == 'center' %}align-center{% endif %}">
             {% for action in page.header.actions %}
-            <a href="{{ action.url | relative_url }}" class="btn btn--light-outline btn--large">{{ action.label | default: site.data.ui-text[site.locale].more_label | default: "Learn More" }}</a>
+            <a href="{{ action.url | relative_url }}" class="btn btn--primary btn--large">{{ action.label | default: site.data.ui-text[site.locale].more_label | default: "Learn More" }}</a>
             {% endfor %}
             </p>
         {% endif %}

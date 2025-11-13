@@ -1,3 +1,8 @@
+.page__content  {
+    text-wrap: balance;
+    text-wrap: pretty;
+}
+
 .page__content blockquote {
     padding: 0 1rem;
     font-style: italic;
@@ -13,5 +18,10 @@
 .page__content blockquote footer {
   font-style: normal;
   font-weight: bold;
-  text-align: right;
+  text-align: left;
+  padding-top: 1rem;
+}
+
+.page__content blockquote footer cite {
+  font-weight: normal;
 }

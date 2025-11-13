@@ -6,10 +6,44 @@ search: false
 @charset "utf-8";
 
 /* Custom styles */
+
+/* system typefaces */
+$serif                        : Georgia, Times, serif !default;
+$sans-serif                   : "Helvetica Now", "Lucida Grande", Arial, sans-serif !default;
+$monospace                    : Monaco, Consolas, "Lucida Console", monospace !default;
+
+/* sans serif typefaces */
+$sans-serif-narrow            : $sans-serif !default;
+$helvetica                    : "Helvetica Now", Arial, sans-serif !default;
+
+/* serif typefaces */
+$georgia                      : Georgia, serif !default;
+$times                        : Times, serif !default;
+$bodoni                       : "Bodoni MT", serif !default;
+$calisto                      : "Calisto MT", serif !default;
+$garamond                     : Garamond, serif !default;
+
+$global-font-family           : $sans-serif !default;
+$header-font-family           : $sans-serif !default;
+$caption-font-family          : $serif !default;
+
+/* type scale */
+$type-size-1                  : 2.441em !default;  // ~39.056px
+$type-size-2                  : 1.953em !default;  // ~31.248px
+$type-size-3                  : 1.563em !default;  // ~25.008px
+$type-size-4                  : 1.25em !default;   // ~20px
+$type-size-5                  : 1em !default;      // ~16px
+$type-size-6                  : 0.75em !default;   // ~12px
+$type-size-7                  : 0.6875em !default; // ~11px
+$type-size-8                  : 0.625em !default;  // ~10px
+
+
 $primary-color: #ef8e06;
 $secondary-color: #34b3b1;
 $call-to-action-color: #ef8e06;
+$call-to-action-color-text-color: #000;
 $secondary-call-to-action-color: #34b3b1;
+$secondary-call-to-action-color-text-color: #fff;
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
@@ -31,4 +65,4 @@ $secondary-call-to-action-color: #34b3b1;
 @import "affiliate-disclosure";
 @import "block_quote";
 @import "masthead";
-
+@import "quote-carousel";
