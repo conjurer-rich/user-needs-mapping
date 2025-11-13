@@ -3,6 +3,7 @@ permalink: /
 title: "Map needs, align teams, deliver value."
 layout: splash
 header: 
+  typewriter: true
   og_image: /assets/images/books/user_needs_mapping_book_front_cover.png
   image: /assets/images/books/unm_book_photo_shoot.png
   overlay_color: "#3e4a59"
@@ -49,9 +50,7 @@ next-step-list:
   - alt: "Start the conversation"
     title: "Start the conversation"
     image_path: "/assets/images/people-stock/pexels-fauxels-3184299.jpg"
-    excerpt: "Consulting and tailored facilitation help you evolve your structure and flow of value.  
-    
-    "
+    excerpt: "Consulting and tailored facilitation help you evolve your structure and flow of value."
     url: "/team-topologies-applied#training"
     btn_class: "btn--secondary"
     btn_label: "Read more"
@@ -59,9 +58,7 @@ next-step-list:
   - alt: "Find out how we can help"
     title: "Find out how we can help"
     image_path: "/assets/images/people-stock/pexels-fauxels-3183150.jpg"
-    excerpt: "Collaborative sessions to expose misalignment and identify improvement opportunities.  
-    
-    "
+    excerpt: "Collaborative sessions to expose misalignment and identify improvement opportunities."
     url: "/team-topologies-applied#workshops"
     btn_class: "btn--secondary"
     btn_label: "Read more"
