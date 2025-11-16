@@ -4,6 +4,16 @@
   padding: 1rem 1em 1em 1em;
 }
 
+.page__hero--overlay .wrapper .container {
+  background-size: contain;
+  background-position: right;
+  background-repeat: no-repeat;
+
+  @media (min-width: 768px) {
+    background-size: 1024px;
+  }
+}
+
 .page__hero--overlay .page__lead  {
   text-shadow: none;
   font-size: 1rem;
@@ -11,13 +21,16 @@
 }
 
 .page__hero--overlay .page__title  {
-    font-size: 3rem;
+    margin-top: 0.8em;
+    font-size: 3.6rem;
     font-weight: normal;
     text-shadow: none;
+    line-height: 1;
 }
 
 .page__hero-flex-grid {
     justify-content: space-between;
+    align-items: center;
     gap: 2em;
 }
 
@@ -30,7 +43,7 @@
 }
 
 .page__hero-image {
-  width: 60%;
+  width: 70%;
   height: auto;
 }
 
@@ -41,6 +54,8 @@
     border-radius: 25px;
     border: none;
     color: #000;
+    font-size: 0.7rem;
+    font-weight: bold;
     
     &:hover {
         background-color: darken($primary-color, 10%);

@@ -1,5 +1,5 @@
 ---
-permalink: /
+permalink: /approach
 title: "Map needs 
 <br/>
 Align teams  
@@ -161,25 +161,4 @@ With 20 years of hands-on experience from engineer to CTO, Rich brings a rare mi
 
 His work has supported organisations of every size to reduce friction, clarify boundaries, and enable healthier, higher-performing teams."
     image_path="/assets/images/profiles/Rich_Allen_Profile_-_Cropped_Square_-_Colour.jpeg"
-    cta_url="https://richallen.info"
-    cta_button_text="Read more"
-    cta_target="_blank"
-%}
-
-{% include section.html
-    title="Have you read User Needs Mapping?
-I’d love to hear what you think."
-    main_content="User Needs Mapping is shaped by the real-world stories and insights shared by readers and practitioners. If the book has helped you — whether through a new insight, a better conversation, or a clearer path to alignment — I’d love to hear what resonated with you — and what you’d improve.
-
-Your feedback helps strengthen the practice for everyone.
-"
-    button_text="Share feedback"
-    url="/contact"
-    secondary_button_text="Write a review"
-    secondary_url="https://www.amazon.co.uk/review/create-review/?ie=UTF8&channel=glance-detail&asin=B0FVBBKPKP"k"
-    secondary_target="_blank"
-    no_underline=true
-    condensed=true
-    large=true
-    section_class="section--yellow"
 %}

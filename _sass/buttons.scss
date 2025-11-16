@@ -1,5 +1,10 @@
 .btn {
   font-size: 1rem;
+  padding: 0.5em 1.5em;
+  font-family: "Monoist", sans-serif;
+  font-weight: normal;
+  text-transform: uppercase;
+  font-size: 0.9em;
 }
 
 .btn.btn--primary {
@@ -9,6 +14,7 @@
 
   &:hover {
     background-color: darken($call-to-action-color, 10%);
+    border: 1px solid darken($call-to-action-color, 10%);
   }
 }
 
@@ -19,6 +25,7 @@
   
     &:hover {
       background-color: darken($secondary-call-to-action-color, 10%);
+      border: 1px solid darken($secondary-call-to-action-color, 10%);
     }
   }
 
@@ -30,10 +37,12 @@
 
 .btn.btn--inverse {
   background-color: #fff;
-  color: $call-to-action-color;
+  color: $call-to-action-color;  
+  border-radius: 25px;
 
   &:hover {
     background-color: transparent;
+    border: 1px solid darken($call-to-action-color, 10%);
     color: darken($call-to-action-color, 10%);
   }
 }

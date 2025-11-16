@@ -21,6 +21,12 @@
     padding: 0.2em 0.5em;
 }
 
+.masthead__menu {
+    font-family: "Monoist", sans-serif;
+    position: absolute;
+    top: 50px;
+}
+
 .search__toggle {
     color: #FEFEFE;
     &:hover {
@@ -58,13 +64,14 @@
 
 
   .greedy-nav {
-    background-color: #3e4a59;
+    background-color: transparent;
     text-transform: uppercase;
   }
   
   .greedy-nav a {
+    font-size: 0.9em;
     color: #FEFEFE;
-    font-family: "Inter", sans-serif;
+    font-family: "Monoist", sans-serif;
     font-weight: 500;
     margin: 0 1em;
   }
@@ -73,6 +80,10 @@
     color: #34b3b1;
   }
   
+  .greedy-nav .visible-links {
+    justify-content: flex-start;
+  }
+
   .greedy-nav .visible-links a {
     color: #FEFEFE;
   }

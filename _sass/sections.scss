@@ -64,6 +64,15 @@
     }
   }
 
+  &--yellow {
+    background-color: #ffecb0;
+    color: #3e4a59;
+
+    h2 {
+      color: #3e4a59;
+    }
+  }
+
   &--meet-the-author img {
     border-radius: 50%;
   }

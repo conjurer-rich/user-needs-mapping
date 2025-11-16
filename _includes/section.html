@@ -35,5 +35,19 @@
             <p>{{ include.post_fix_text | markdownify }}</p>
           {% endif %}
         </div>
+        {% if include.url and include.button_text %}
+        <div class="section-cta-wrapper">
+            {% if include.url and include.button_text %}
+            <a href="{{ include.url }}" class="btn btn--primary" target="{{ include.target }}">{{ include.button_text }}</a>
+        {% endif %}
+        {% if include.secondary_url and include.secondary_button_text %}
+            {{include.secondary_button_prefix}}
+            <a href="{{ include.secondary_url }}" class="btn btn--inverse" target="{{ include.secondary_target }}">{{ include.secondary_button_text }}</a>
+            {% if include.secondary_postfix_text %}
+            {{include.secondary_postfix_text}}
+            {% endif %}
+        {% endif %}
+        </div>
+        {% endif %}
     </div>
 </div>
