@@ -81,6 +81,16 @@
         color: #3e4a59;
       }
     }
+
+    .btn--secondary {
+        background-color: #FEFEFE;
+        color: #000000;
+  
+        &:hover {
+          background-color: darken(#FEFEFE, 10%);
+          color: #000000;
+        }
+      }
   }
 
   &--yellow {

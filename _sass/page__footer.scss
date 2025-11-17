@@ -51,7 +51,6 @@
 }
 
 .page__footer-strapline {
-  margin-top: 2.5rem;
   font-size: 1rem;
   text-align: left;
   text-transform: uppercase;
@@ -69,6 +68,7 @@
     -ms-flex: 1;
     flex: 1;
     overflow: hidden;
+    font-size: 0.8em;
 }
 .footer-nav__visible-links li + li {
     border-left: 2px solid #FEFEFE;
