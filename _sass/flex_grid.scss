@@ -4,6 +4,7 @@
   justify-content: center;
   flex-direction: column;
   align-items: center;
+  flex-wrap: wrap; /* Allow items to wrap */
 }
 
 .flex-align-center {
@@ -18,8 +19,7 @@
 @media (min-width: 768px) {
   .flex-grid {
     flex-direction: row; /* Switch to a horizontal layout */
-    flex-wrap: wrap; /* Allow items to wrap */
-    align-items: start;
+    flex-wrap: nowrap;
   }
 
   .flex-grid-thirds {

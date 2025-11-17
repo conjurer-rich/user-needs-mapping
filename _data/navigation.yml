@@ -1,12 +1,12 @@
 main:
-  - title: "Book"
-    url: /book
-  - title: "Quick start"
-    url: /docs/quick-start-guide
-  - title: "Insights"
-    url: /insights
-  - title: "How can we help"
-    url: /how-can-we-help
+  - title: "The Approach"
+    url: /approach
+  - title: "The Process"
+    url: /process
+  - title: "Workshops & Consulting"
+    url: /workshops
+  - title: "Resources"
+    url: /resources
   - title: "Contact"
     url: /contact
 

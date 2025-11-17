@@ -1,42 +1,34 @@
 ---
 permalink: /approach
-title: "Map needs 
-<br/>
-Align teams  
-<br/>
-Deliver value"
+title: "Align your teams around what really matters"
 layout: splash
 header: 
   og_image: /assets/images/books/user_needs_mapping_book_front_cover.png
-  image: /assets/images/books/unm_book_photo_shoot.png
   overlay_color: "#3e4a59"
   overlay_image: /assets/images/banners/banner_top.png
-  actions: 
-    - label: "Order Now"
-      url: /book-orders      
 excerpt: > 
-  From Rich Allen, leading sociotechnical architect and creator of User Needs Mapping - a practical guide for aligning teams, reducing friction and delivering value that truly meets user needs.
+  When smart teams still pull in different directions, the issue isn’t effort — it’s clarity. User Needs Mapping helps you see how user needs connect to work, teams, and flow — so everyone can move with purpose.
 next-step-list:
-  - alt: "Start the conversation"
-    title: "Start the conversation"
+  - alt: "Learn the practice"
+    title: "Learn the practice"
     image_path: "/assets/images/people-stock/pexels-fauxels-3184299.jpg"
-    excerpt: "Consulting and tailored facilitation help you evolve your structure and flow of value."
+    excerpt: "Join an upcoming hands-on workshop"
     url: "/team-topologies-applied#training"
     btn_class: "btn--secondary"
     btn_label: "Read more"
     teaser_class: "archive__item-teaser--azure"
-  - alt: "Find out how we can help"
-    title: "Find out how we can help"
-    image_path: "/assets/images/people-stock/pexels-fauxels-3183150.jpg"
-    excerpt: "Collaborative sessions to expose misalignment and identify improvement opportunities."
+  - alt: "Read the book"
+    title: "Read the book"
+    image_path: "/assets/images/books/unm_book_photo_shoot_wide.png"
+    excerpt: "User Needs Mapping: Aligning Teams Around What Matters"
     url: "/team-topologies-applied#workshops"
     btn_class: "btn--secondary"
     btn_label: "Read more"
     teaser_class: "archive__item-teaser--cyan"
-  - alt: "The book"
-    title: "The Book"
-    image_path: "/assets/images/books/unm_book_photo_shoot_wide.png"
-    excerpt: "User Needs Mapping: Aligning teams around what matters — your field guide to seeing and shaping alignment."
+  - alt: "Work with Rich"
+    title: "Work with Rich"
+    image_path: "/assets/images/profiles/Rich_Allen_Profile_-_Cropped_Square_-_Colour.jpeg"
+    excerpt: "Consulting and tailored facilitation to embed the approach"
     url: "/team-topologies-applied#enabling"
     btn_class: "btn--secondary"
     btn_label: "Read more" 
@@ -67,98 +59,158 @@ quote-carousels:
       image: /assets/images/profiles/rodrigo_viana_rocha.jpeg
 ---
 
-{% include section.html
-    title="When great teams feel stuck, it’s rarely about effort"
-    main_content="You’ve read the playbooks, adopted the frameworks, and worked hard to align strategy and delivery, yet something still feels off. Work is getting done, but not the right work. Teams are busy, but value isn’t flowing."
-    no_underline=true
-    condensed=true
-    large=true
-    section_class="section--no-padding section--content-no-padding-bottom"
+{% include section-image-right-two-col.html
+    section_class="section--azure"
+    title_col_span="User Needs Mapping - an outside in approach"
+    main_content="Most organisations optimise for their internal structures — their functions, systems, roadmaps, and metrics. That inside-out focus keeps teams busy but often disconnects effort from outcomes. Priorities fragment, dependencies multiply, and the “why” behind the work erodes.
+
+User Needs Mapping (UNM) turns this thinking outside-in. It starts with what users are trying to achieve, then works inward to see how value actually flows — and where it gets stuck. The result is shared situational awareness that turns activity into outcomes.
+"
+    image_path="/assets/images/unm-dudes/Clarityofoutcomesketch.png"
+%}
+
+{% include section-image-left-two-col.html
+    section_class="section--azure"
+    title="Predictable symptoms of inside-out drift"
+    main_content="Features being delivered that don’t solve the real pain point.
+Unclear responsibilities and blurred team boundaries.
+Cross-team dependencies and coordination overhead.
+Teams juggling too many priorities and burning out.
+
+These aren’t people problems. They’re interaction and alignment problems. User Needs Mapping gives you a shared frame to address them.
+
+"
+    image_path="/assets/images/unm-dudes/Thinkwearealigned.png"
 %}
 
 {% include section-image-right-two-col.html
-    section_class="section--no-padding"
-    callout_text="User Needs Mapping helps you see what’s really happening beneath the surface."
-    main_content="It’s a practical, visual approach to reconnect your organisation’s effort with what users actually need—so you can make better decisions, reduce friction, and restore momentum.
+    title_col_span="The Chain of Influence"
+    main_content="At the heart of User Needs Mapping is a simple but powerful progression:
 
-When teams lose sight of user needs, predictable patterns emerge:
+- The **user** experiences the **needs**.
+  
+- The **needs** shape the necessary **work**.
 
-- Features no one uses
-- Unclear ownership and blurred boundaries
-- Endless dependencies and coordination overhead
-- Burnout from trying to do everything at once
+- The **work** reveals the required **capabilities**.
 
-User Needs Mapping – Aligning Teams Around What Matters shows you how to break that cycle. Through real examples, step-by-step guidance, and visual tools, you’ll learn how to make user needs visible, clarify responsibilities, and evolve team interactions for fast, sustainable flow of value.
+- The **capabilities** determine the **cognitive load**.
 
-If you’ve ever asked yourself, “Why do good teams with good intentions still end up working at cross purposes?” — this book gives you the answer.
+- The **cognitive load** informs the **team boundaries and interactions**.
+
+- The **team boundaries and interactions** shape the **flow of value**.
+
+When leaders can see this chain clearly, they can manage it deliberately. Decisions about structure, ownership, and priorities become evidence-based rather than political or reactive.
 "
-    image_path="/assets/images/unm-dudes/teamlookingatmap.png"
-    image_cta_url="/book-orders"
-    image_cta_button_text="Order Now"
+    image_path="/assets/images/unm-dudes/chain_of_influence_circular.png"
 %}
 
-{% include section-text-two-col.html
-    section_class="section--no-padding"
-    left_title="Who is it for?"
-    left_content="
+{% include section-image-left-two-col.html
+    section_class="section--azure"
+    title="User Needs Mapping in practice"
+    main_content="
 
-- Leaders looking to create clarity, focus, and alignment
-- Change agents and facilitators running workshops and transformations
-- Product and platform teams seeking smoother flow and fewer handoffs
-- Team Topologies practitioners looking for an outside-in approach to team design
-- Anyone stuck in the maze of inside-out thinking"
-    right_title="What you’ll learn"
-    right_content="
+- **Make needs visible** – express what users are trying to achieve as outcomes, not requests or tasks.
 
-- Connect user needs to the capabilities and teams that deliver them
-- Spot where work is misaligned and where friction really lives
-- Create shared clarity between strategy, design, and delivery
-- Lead meaningful conversations about structure and value flow"
+- **Map capabilities** – identify the organisational capabilities that make those outcomes possible.
+
+- **Overlay teams and systems** – reveal who owns what, where interactions help or hinder, and where responsibilities are missing or duplicated.
+
+- **See load and friction** – surface where cognitive load is too high, where dependencies block flow, and where handoffs slow things down.
+
+- **Shape next steps** – co-create small, safe-to-try changes that improve flow without disrupting stability.
+
+The result is a shared, visual understanding that links user needs to work, to capabilities, to teams — the full Chain of Influence.
+
+"
+    image_path="/assets/images/unm-dudes/Howitconnectssketch.png"
 %}
 
-{% include block_quote.html
-    quote_text="“If a Wardley Map gives you the landscape, User Needs Mapping shows you what has been sitting at the end of your street all along.”"
-    quote_author="Simon Wardley, Creator of Wardley Mapping"
-    section_class="section--grey section--quote"
+{% include call-to-action-two-col.html
+   section_wrap=true
+   section_class="section--azure"
+   button_text="Ready to take the next step?"
+   url="/contact"
+   title="From fragmentation to shared focus"
+   text="User Needs Mapping isn’t a top-down planning tool. It’s a collaborative sense-making practice. Product leaders bring user goals, engineers bring constraints, and managers bring strategic intent. Together, they create a shared map that exposes overlaps, gaps, and hidden dependencies — and makes the path to improvement obvious."
 %}
 
-{% include quote-carousel.html height="80" unit="%"  number="1"
-    section_wrap=true
-    section_class="section--white"
-    title="Endorsed by leaders shaping how we work"
+{% include section-image-right-two-col.html
+    title="When to use UNM"
+    main_content="
+
+- You’re scaling fast and want to avoid “reorg roulette.”
+
+- You see duplicated effort or unclear ownership across teams.
+
+- Dependencies and handoffs are slowing delivery.
+
+- Teams are busy, but outcomes aren’t improving.
+
+- You need a shared language to guide structural decisions.
+
+"
+    image_path="/assets/images/unm-dudes/Reorgroulettesketch.png"
 %}
 
-{% include quote-carousel.html height="40" unit="%"  number="2"
-    section_wrap=true
-    section_class="section--cyan"
-    title="What practitioners are saying"
+{% include section-image-left-two-col.html
+    title="What a UNM session produces"
+    main_content="
+
+- A clear visual linking users and needs → capabilities → teams and interactions.
+
+- Highlighted dependencies, ownership gaps, and cognitive load hotspots.
+
+- A prioritised set of flow-improving moves to address what matters most.
+
+- This becomes a living artefact for teams and leadership to align decisions as conditions evolve.
+
+"
+    image_path="/assets/images/unm-dudes/Seeinghowitconnectssketch.png"
 %}
 
-{% include quote-carousel.html height="20" unit="em"  number="3"
-    section_wrap=true
-    section_class="section--grey"
-    title="Real impact in real organisations"
+{% include section-image-right-two-col.html
+    title="Connection to other approaches"
+    main_content="User Needs Mapping complements and connects with established methods:
+
+- **Wardley Mapping** gives you a view of your strategic landscape; UNM shows how your organisation is actually responding to user needs within it.
+
+- **Domain-Driven Design (DDD)** sharpens language, **Jobs To Be Done (JTBD)** clarifies outcomes; UNM unites them into one practical map managers can use to act.
+
+- **Team Topologies** provides a vocabulary for team types and interactions; UNM shows where and why to evolve them.
+
+Start with UNM to build shared clarity. Then deepen with these practices where needed.
+"
+    image_path="/assets/images/unm-dudes/Commonstartingpoint.png"
+%}
+
+{% include section-image-right-two-col.html
+    section_class="section--yellow"
+    pullright=true
+    title="A Real World Example"
+    image_path="/assets/images/case-studies/passenger/passenger_logo_and_slogan.png"
+    main_content="As organisations grow, maintaining alignment and clear communication becomes increasingly difficult. For Passenger, a leading mobile ticketing provider, rapid expansion during the shift to contactless travel exposed the limits of their team structure. Information overload, blurred responsibilities, and growing coordination costs made delivery feel harder than it should.
+
+Through User Needs Mapping, Passenger made the invisible visible. By starting with their users and mapping the capabilities required to meet their needs, the team uncovered where boundaries were unclear and where dependencies were slowing them down. The result was a clearer, more scalable team design—one that reduced friction, improved flow, and kept everyone connected to what really matters: serving passengers.
+
+"
+%}
+
+{% include block_quote_small.html
+    image_path="/assets/images/profiles/tom_quay_passenger.jpeg"
+    quote_text="“User Needs Mapping gave us a completely new way to see how our teams connect to user outcomes. It revealed opportunities to organise more effectively and played a crucial role in how we applied Team Topologies at Passenger.”"
+    quote_author="Tom Quay, CEO, Passenger"
+    section_class="section--yellow"
+    url="/docs/case-studies/passenger"
+    button_text="Read more"
 %}
 
 {% include section.html
     title="Take the next step"
     large=true
     main_content="User Needs Mapping helps teams reconnect effort to value, align around user needs, and evolve with confidence.  Whether you’re leading a product portfolio, a platform team, or a transformation initiative, we can help you make sense of where value is getting stuck and what to do next. Together, we’ll uncover how user needs shape your flow of work, your capabilities, and your team interactions — so you can move from coordination to clarity."
-    section_class="section--orange"
+    section_class="section--grey-azure"
 %}
 
 {%include feature_row.html id="next-step-list"
-    section_class="section--orange section--no-padding-top"
-%}
-
-{% include section.html title="Meet the Author" condensed=true large=true section_class="section--no-padding-bottom" %}
-{% include section-image-left-two-col.html
-    title="Rich Allen"
-    section_class="section--meet-the-author"
-    main_content="Sociotechnical architect, consultant, and creator of *User Needs Mapping*.
-
-With 20 years of hands-on experience from engineer to CTO, Rich brings a rare mix of technical depth and organisational insight. A long-time Team Topologies Valued Practitioner and contributor to the evolution of modern flow practices, Rich helped shape many of the core materials now used in Team Topologies training and consulting worldwide.
-
-His work has supported organisations of every size to reduce friction, clarify boundaries, and enable healthier, higher-performing teams."
-    image_path="/assets/images/profiles/Rich_Allen_Profile_-_Cropped_Square_-_Colour.jpeg"
+    section_class="section--grey-azure section--no-padding-top"
 %}

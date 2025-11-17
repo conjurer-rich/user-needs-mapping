@@ -1,40 +1,40 @@
 
 {% if include.section_wrap %}
 <div class="section {% if include.section_class %} {{ include.section_class }} {% endif %}" {% if include.id %}id="{{ include.id }}"{% endif %}>
+{% endif %}
     <div class="container">
         <div class="content">
-{% endif %}
-        {% if include.title %}
-        <h2>{{ include.title }}</h2>
-        {% endif %}
-        {% if include.intro_text %}
-        {{ include.intro_text | markdownify }}
-        {% endif %}
 
-        <div class="cta-wrapper {% if include.align == "center" %}align-center{% endif %}">
-            <div class="container flex-grid flex-grid-30-70">
-                <div class="col cta-text">
-                {% if include.text %}
-                    {{ include.text | markdownify }}
-                {% endif %}              
-                </div>
-                <div class="col-small">
-                    {% if include.url and include.button_text %}
-                    <a href="{{ include.url }}" class="btn btn--primary">{{ include.button_text }}</a>
-                    {% endif %}
-                    {% if include.secondary_url and include.secondary_button_text %}
-                        {{include.secondary_button_prefix}}
-                        <a href="{{ include.secondary_url }}" class="btn btn--inverse">{{ include.secondary_button_text }}</a>
-                        {% if include.secondary_postfix_text %}
-                        {{include.secondary_postfix_text}}
+            {% if include.title %}
+            <h2>{{ include.title }}</h2>
+            {% endif %}
+            {% if include.intro_text %}
+            {{ include.intro_text | markdownify }}
+            {% endif %}
+            <div class="cta-wrapper {% if include.align == "center" %}align-center{% endif %}">
+                <div class="container flex-grid flex-grid-30-70">
+                    <div class="col cta-text">
+                    {% if include.text %}
+                        {{ include.text | markdownify }}
+                    {% endif %}              
+                    </div>
+                    <div class="col-small">
+                        {% if include.url and include.button_text %}
+                        <a href="{{ include.url }}" class="btn btn--primary">{{ include.button_text }}</a>
                         {% endif %}
-                    {% endif %}          
+                        {% if include.secondary_url and include.secondary_button_text %}
+                            {{include.secondary_button_prefix}}
+                            <a href="{{ include.secondary_url }}" class="btn btn--inverse">{{ include.secondary_button_text }}</a>
+                            {% if include.secondary_postfix_text %}
+                            {{include.secondary_postfix_text}}
+                            {% endif %}
+                        {% endif %}          
+                    </div>
                 </div>
             </div>
         </div>
-        {% if include.section_wrap %}
     </div>
-  </div>
+{% if include.section_wrap %}
 </div>
 {% endif %}
 

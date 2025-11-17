@@ -1,0 +1,27 @@
+<div class="section {% if include.section_class %} {{ include.section_class }} {% endif %}">
+    <div class="container block-quote-small flex-grid flex-grid-30-70">
+        {% if include.image_path %}
+        <div class="block-quote__image col-small">
+            <img src="{{ include.image_path | relative_url }}" alt="{{ include.quote_author }}">
+        </div>
+        {% endif %}
+        <blockquote class="content {% if include.large %}large{% endif %} {% if include.condensed %}condensed{% endif %} {% if include.no_underline %}no-underline{% endif %} {% if include.align == 'center' %}align-center{% endif %}" >
+            {{ include.quote_text | markdownify }}
+            <footer>
+                <cite>{{ include.quote_author }}</cite>
+            </footer>
+        </blockquote>
+        <div>
+            {% if include.url and include.button_text %}
+            <a href="{{ include.url }}" class="btn btn--primary">{{ include.button_text }}</a>
+            {% endif %}
+            {% if include.secondary_url and include.secondary_button_text %}
+                {{include.secondary_button_prefix}}
+                <a href="{{ include.secondary_url }}" class="btn btn--inverse">{{ include.secondary_button_text }}</a>
+                {% if include.secondary_postfix_text %}
+                {{include.secondary_postfix_text}}
+                {% endif %}
+            {% endif %}          
+        </div>
+    </div>
+</div>

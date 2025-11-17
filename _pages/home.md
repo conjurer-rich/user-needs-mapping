@@ -176,7 +176,7 @@ Your feedback helps strengthen the practice for everyone.
     button_text="Share feedback"
     url="/contact"
     secondary_button_text="Write a review"
-    secondary_url="https://www.amazon.co.uk/review/create-review/?ie=UTF8&channel=glance-detail&asin=B0FVBBKPKP"k"
+    secondary_url="https://www.amazon.co.uk/review/create-review/?ie=UTF8&channel=glance-detail&asin=B0FVBBKPKP"
     secondary_target="_blank"
     no_underline=true
     condensed=true

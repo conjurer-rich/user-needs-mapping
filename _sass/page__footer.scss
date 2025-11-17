@@ -1,8 +1,12 @@
 .page__footer {
   min-height: 400px;
   vertical-align: bottom;
-  margin-top: 1rem;
   background-color: #fefefe;
+  margin-top: 0;
+}
+
+.page__footer footer {
+    margin-top: 0;
 }
 
 .page__footer-container {
@@ -11,6 +15,7 @@
     background-position: center;
     background-repeat: no-repeat;
     background-color: #3e4a59;
+    padding-top: 2em;
 }
 
 .page__footer-content {

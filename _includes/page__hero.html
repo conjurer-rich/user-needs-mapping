@@ -23,7 +23,6 @@
 >
   {% if page.header.overlay_color or page.header.overlay_image %}
     <div class="wrapper">
-        {%if page.header.image %}
         <div class="container flex-grid flex-grid-40-60 page__hero-flex-grid {% if overlay_img_path %}" style="background-image: {% if overlay_filter %}{{ overlay_filter }}, {% endif %}url('{{ overlay_img_path }}');{% endif %}">
             <div class="content col page__hero-flex-grid-left">
             {% if page.header.logo_path %}
@@ -55,7 +54,9 @@
             {% endif %}
             </div>
             <div class="content col-small no-padding page__hero-flex-grid-right page__hero-image-container">
-                <img src="{{ page.header.image | relative_url }}" alt="{{ image_description }}" class="page__hero-image">
+                {% if page.header.image %}
+                    <img src="{{ page.header.image | relative_url }}" alt="{{ image_description }}" class="page__hero-image">
+                {% endif %}
             </div>
         </div>
       {% else %}
@@ -69,8 +70,8 @@
           {{ page.title | default: site.title | markdownify | remove: "<p>" | remove: "</p>" }}
         {% endif %}
       </h1>
-      {% if page.tagline %}
-        <p class="page__lead {% if page.header.align == 'center' %}align-center{% endif %}">{{ page.tagline | markdownify | remove: "<p>" | remove: "</p>" }}</p>
+        {% if page.tagline %}
+            <p class="page__lead {% if page.header.align == 'center' %}align-center{% endif %}">{{ page.tagline | markdownify | remove: "<p>" | remove: "</p>" }}</p>
         {% elsif page.header.show_overlay_excerpt != false and page.excerpt %}
             <p class="page__lead {% if page.header.align == 'center' %}align-center{% endif %}">{{ page.excerpt | markdownify | remove: "<p>" | remove: "</p>" }}</p>
         {% endif %}
@@ -82,12 +83,11 @@
             {% endfor %}
             </p>
         {% endif %}
-      {% endif %}
-    </div>
-  {% else %}
-    <img src="{{ page.header.image | relative_url }}" alt="{{ image_description }}" class="page__hero-image">
-  {% endif %}
-  {% if page.header.caption %}
-    <span class="page__hero-caption">{{ page.header.caption | markdownify | remove: "<p>" | remove: "</p>" }}</span>
-  {% endif %}
+    {% else %}
+        <img src="{{ page.header.image | relative_url }}" alt="{{ image_description }}" class="page__hero-image">
+    {% endif %}
+    {% if page.header.caption %}
+        <span class="page__hero-caption">{{ page.header.caption | markdownify | remove: "<p>" | remove: "</p>" }}</span>
+    {% endif %}
+  </div>
 </div>

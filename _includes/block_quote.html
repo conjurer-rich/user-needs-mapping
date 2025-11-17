@@ -1,7 +1,3 @@
-{% if include.list_id %}
-  {% assign list = page[include.list_id] %}
-{% endif %}
-
 <div class="section {% if include.section_class %} {{ include.section_class }} {% endif %}">
     <div class="container block-quote">
         <blockquote class="content {% if include.large %}large{% endif %} {% if include.condensed %}condensed{% endif %} {% if include.no_underline %}no-underline{% endif %} {% if include.align == 'center' %}align-center{% endif %}" >

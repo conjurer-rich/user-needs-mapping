@@ -48,13 +48,13 @@ $secondary-call-to-action-color-text-color: #fff;
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 @import "author";
+@import "buttons";
 @import "flex_grid";
 @import "quote_wrapper";
 @import "titles";
 @import "sections";
 @import "call-to-action";
 @import "alignment";
-@import "buttons";
 @import "training-topics";
 @import "topics-grid";
 @import "facilitators";

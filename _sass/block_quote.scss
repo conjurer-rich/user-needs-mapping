@@ -25,3 +25,33 @@
 .page__content blockquote footer cite {
   font-weight: normal;
 }
+
+
+.block-quote-small {
+    justify-content: center;    
+    font-size: 0.9rem;
+
+  blockquote {
+    font-size: 0.9rem;
+    font-style: italic;
+    font-weight: lighter;
+    border: none;
+    max-width: 60%;
+  }
+
+  blockquote p {
+    font-size: 0.9rem;
+    margin: 0;
+  }
+
+    .block-quote__image {
+        max-width: 100px;
+        height: auto;
+        object-fit: cover;
+        object-position: center;
+
+        img {
+            border-radius: 50%;
+        }
+    }
+}
