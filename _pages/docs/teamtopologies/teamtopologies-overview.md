@@ -1,13 +1,13 @@
 ---
 title: "Introduction to Team Topologies"
-layout: single
+layout: splash
 description: "Discover the principles of Team Topologies and how they enhance the User Needs Mapping approach."
-permalink: /docs/teamtopologies/
-toc: true
-toc_sticky: true
-toc_label: "Overview of Team Topologies"
-sidebar:
-  nav: docs
+permalink: /docs/teamtopologies
+classes: wide smaller-title
+header: 
+  og_image: /assets/images/books/user_needs_mapping_book_front_cover.png
+  overlay_color: "#3e4a59"
+  overlay_image: /assets/images/banners/banner_top.png
 quote-list:
   - image_path: /assets/images/profiles/matthew_skelton.jpg
     excerpt: "There is value to be found in the first stage of Wardley Mapping. 

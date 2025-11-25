@@ -2,6 +2,7 @@
 permalink: /approach
 title: "Align your teams around what really matters"
 layout: splash
+classes: wide smaller-title
 header: 
   og_image: /assets/images/books/user_needs_mapping_book_front_cover.png
   overlay_color: "#3e4a59"

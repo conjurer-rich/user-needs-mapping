@@ -1,7 +1,10 @@
 ---
 permalink: /process
+redirect_from:
+  - /docs/introduction-to-user-needs-mapping
 title: "The UNM process for practitioners"
 layout: splash
+classes: wide smaller-title
 header: 
   og_image: /assets/images/books/user_needs_mapping_book_front_cover.png
   overlay_color: "#3e4a59"

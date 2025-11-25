@@ -1,38 +1,21 @@
 ---
 permalink: /docs/quick-start-guide
-layout: single
-title: "Quick Start Guide"
+layout: splash
+classes: quick-start-guide
+title: "Example Walkthrough: <br/>Moviegoer Experience"
 description: "Learn how to get started with User Needs Mapping using a real-world moviegoer example."
 excerpt: "What you need to know about User Needs Mapping to get started."
-toc_label: "Quick-Start Guide"
-toc: true
-toc_sticky: true
-sidebar:
-  nav: docs
 header: 
-  overlay_color: "#0EA2F1"
-  overlay_filter: rgba(56, 91, 110, 0.75)
-  overlay_image: /assets/images/Movie-goer-full-user-needs-map.png
-  og_image: /assets/images/Movie-goer-full-user-needs-map.png.jpg
+  og_image: /assets/images/books/user_needs_mapping_book_front_cover.png
+  overlay_color: "#3e4a59"
+  overlay_image: /assets/images/banners/banner_top.png
 redirect_from:
   - /quick-start-guide
 ---
 
-## Why use User Needs Mapping?
-
-Organizations often struggle to align their teams and services to deliver value effectively. Questions like these arise:
-
-- *"How do we ensure that teams are aligned with our organizational goals?"*  
-- *"What dependencies between capabilities are slowing us down?"*  
-- *"How do we design team boundaries to improve flow and reduce cognitive load?"*
-
-This is where **User Needs Mapping** helps. It visualizes the relationships between **user needs**, the **capabilities** required to meet them, and how these dependencies might inform team and service design.
-
-In this guide, we’ll use the example of a **moviegoer’s journey** to explore how to build a User Needs Map. Imagine this scenario:
-
----
-
-## The Context: Challenges Triggering the Session
+{% include section.html
+    title="Step 1: Define the Purpose"
+    main_content="### Challenges Triggering the Session
 
 A team at a cinema ticketing platform is struggling with several issues:  
 
@@ -40,17 +23,27 @@ A team at a cinema ticketing platform is struggling with several issues:
 2. **Slow flow of change**: Dependencies between teams cause delays when rolling out new features, like personalized recommendations.  
 3. **User complaints**: Users find it difficult to discover movies that match their preferences, and the ticket booking process feels clunky.  
 
-### Goal of the User Needs Mapping Session
+### The purpose of the User Needs Mapping Session
 
 - Clarify user needs at each stage of the moviegoer’s journey.  
 - Identify the capabilities required to meet those needs.  
 - Visualize dependencies to inform better **team and service boundaries**.
-  
----
 
-## The Moviegoer Journey
+"
+%}
 
-Consider our user the "Movie Goer". We might consider that they have the following goal:
+{% include section.html
+    section_class="section--yellow"
+    title="Step 2: Identify the User"
+    main_content="
+
+"
+%}
+
+{% include section.html
+    title="Step 3: Define the User Needs"
+    main_content="
+Consider our user the 'Movie Goer'. We might consider that they have the following goal:
 
 > Enjoy a movie experience that meets my personal preferences in an easy and stress-free way.
 
@@ -81,14 +74,17 @@ Let’s break the moviegoer’s journey into simple, relatable stages:
 
 Each of these stages represents a **user goal** that the system must support through its capabilities.
 
----
+"
+%}
 
-## Step 1: Start with a Specific User and Need
-
+{% include section.html
+    section_class="section--yellow"
+    title="Step 4: Map capabilities"
+    main_content="
 ![Movie goer journey](/assets/images/Movie-goer-find-a-movie.png){: .align-right }
 
 We begin the mapping process with the first step in the moviegoer’s journey:  
-**"Discover a movie."**
+**Discover a movie.**
 
 ### User Context
 
@@ -96,13 +92,9 @@ The user is browsing the platform, hoping to find a movie they’ll enjoy.
 
 ### User Need
 
-> *"I need to 'find a movie that matches my interests and schedule'."*
+> *I need to 'find a movie that matches my interests and schedule'.*
 
----
-
-## Step 2: Identify the Capabilities Required
-
-To meet this user need, we ask: **"What capabilities does the system need to provide?"**
+To meet this user need, we ask: **What capabilities does the system need to provide?**
 
 ### Capabilities Identified
 
@@ -113,70 +105,71 @@ To meet this user need, we ask: **"What capabilities does the system need to pro
 5. **Recommendations engine**: A system to provide recommendations based upon the user's view habits
 6. **CMS**: A content management system providing ways to easily manage content
 
----
-
-## Step 3: Build the Value Chain
-
 We now map how these capabilities interact to meet the user need.
 
-### Value Chain for "Discover a Movie"
+## Build the Value Chain
+
+### Value Chain for 'Discover a Movie'
 
 ![Movie goer journey](/assets/images/Movie-goer-find-a-movie-capabilities-1.png)
 
 ### Observable Insights
 
-- **"Recommendations engine"** would need to inform the movie listing and trailer content based upon user preferences.
-- **"CMS"** is a shared component that would need to be used when managing movie listings and trailer/review content.
+- **'Recommendations engine'** would need to inform the movie listing and trailer content based upon user preferences.
+- **'CMS'** is a shared component that would need to be used when managing movie listings and trailer/review content.
 - Dependencies like this can inform service boundaries or highlight bottlenecks.
-- There is an implied visibility hierarchy in the value chain. Things that are more "visible" to the user are at the top.
+- There is an implied visibility hierarchy in the value chain. Things that are more 'visible' to the user are at the top.
 
 When validating your dependency chain, consider walking through each node and ask your yourself whether it makes sense in a sentence like:
 
 > When a Movie Goer needs to Find a Movie Worth Watching they will **depend on** a movie listing which will **depend on** a recommendations engine
 
-You should be able to "walk the dependency chain" in this fashion and find that it makes logical sense.
+You should be able to **walk the dependency chain** in this fashion and find that it makes logical sense.
   
 ---
 
-## Step 4: Explore the Next User Need
+## Explore the Next User Need
 
-Once we’ve mapped **"Discover a movie"**, we move to the next step:  
-**"Select a showtime."**
+Once we’ve mapped **Discover a movie**, we move to the next step:  
+**Select a showtime.**
 
 ### Select a Showtime User Need
 
-> *"I need to 'know when and where I can watch the movie'."*
+> *I need to 'know when and where I can watch the movie'.*
 
-### Capabilities for "Select a Showtime"
+### Capabilities for 'Select a Showtime'
 
 1. **Showtime Schedules**: Ties movies to times and locations.  
 2. **Geo-Location Services**: Helps users find nearby cinemas.  
 3. **Ticket Availability**: Provides real-time seat availability.
 
-### Value Chain for "Select a Showtime":
+### Value Chain for 'Select a Showtime'
 
 ![Movie goer journey](/assets/images/Movie-goer-select-a-showtime-capabilities.png)
 
 ### Observable insights from the value chain
 
-- **"Geo-Location Services"** introduces a new capability that ties into the moviegoer’s physical location.  
+- **'Geo-Location Services'** introduces a new capability that ties into the moviegoer’s physical location.  
 - This insight could lead to the formation of a platform team for location-based services.
 
 ---
 
-## Step 5: Iterate Through User Needs
+## Iterate Through User Needs
 
 Continue iterating through the user’s journey, mapping needs and capabilities for steps like:  
 
-- **"Book tickets"**: Real-time seat availability, payment processing, and ticket generation.  
-- **"Receive confirmation"**: Notification systems, QR code generation, and email delivery.  
-- **"Attend the movie"**: Ticket validation and pre-booked concession readiness.  
+- **'Book tickets'**: Real-time seat availability, payment processing, and ticket generation.  
+- **'Receive confirmation'**: Notification systems, QR code generation, and email delivery.  
+- **'Attend the movie'**: Ticket validation and pre-booked concession readiness.  
 
 ![Movie goer journey](/assets/images/Movie-goer-wider-journey-capabilities.png)
+"
+%}
 
----
-
-## Step 6: Analyze Dependencies and Insights
+{% include section.html
+    section_class="section--yellow"
+    title="Step 6: Analyze Dependencies and Insights"
+    main_content="
 
 Once sufficient needs and capabilities are mapped:  
 
@@ -193,9 +186,13 @@ Once sufficient needs and capabilities are mapped:
 
 At this point we would have conversations about whether the capabilities could be owned by those teams and if not, how might the boundaries be different. Our first guess will almost definitely be wrong but we can seek to improve that but gaining further insights as we'll see in the next step.
 
----
+"
+%}
 
-## Step 7: Iterate and Evolve
+{% include section.html
+    section_class="section--yellow"
+    title="Step 7: Iterate and Evolve"
+    main_content="
 
 User Needs Mapping is not a one-time exercise. Over time:
 
@@ -209,7 +206,7 @@ The next revision might be based upon our initial conversations that identified 
 
 ![Revised team overlay](/assets/images/Movie-goer-wider-journey-revised-team-overlay.png)
 
-The suggestion would be to introduce an "Entertainment services platform" made up of a number of teams each with their own responsiblity for capabilities that would typically be shared by one or more stream-aligned teams or where the cognitive load would be sufficiently high for the consuming team to understand all of the details and therefore it would make sense to abstract some of the capabilities away and enable teams self-serve only what they need.
+The suggestion would be to introduce an 'Entertainment services platform' made up of a number of teams each with their own responsiblity for capabilities that would typically be shared by one or more stream-aligned teams or where the cognitive load would be sufficiently high for the consuming team to understand all of the details and therefore it would make sense to abstract some of the capabilities away and enable teams self-serve only what they need.
 
 ### Revision #2
 
@@ -217,11 +214,14 @@ Further conversations might lead on to realise that the platform teams we previo
 
 ![Extended team overlay](/assets/images/Movie-goer-wider-journey-extended-team-overlay.png)
 
-Further revisions would then be completed as and when necessary to continously evolve the organization. This might include adding further users with different needs to help uncover where we have unknown or invisible dependencies that might be causing challenges to the flow of value within the organization.
+Further revisions would then be completed as and when necessary to continously evolve the organization. This might include adding further users with different needs to help uncover where we have unknown or invisible dependencies that might be causing challenges to the flow of value within the organization."
 
----
+%}
 
-## Conclusion
+{% include section.html
+    section_class="section--yellow"
+    title="Conclusion"
+    main_content="
 
 By following this process, you’ll build a User Needs Map that:
 
@@ -229,8 +229,12 @@ By following this process, you’ll build a User Needs Map that:
 2. Highlights critical dependencies and bottlenecks.  
 3. Guides better team and service boundary design.
 
-Start with the first step of your user’s journey, just as we did with **"Discover a movie."** Iterate until you’ve mapped enough needs and capabilities to gain actionable insights for your organization.
+Start with the first step of your user’s journey, just as we did with **'Discover a movie'.** Iterate until you’ve mapped enough needs and capabilities to gain actionable insights for your organization.
 
----
+"
+%}
 
-{% include help-with-implementation-cta.html %}
+{% include help-with-implementation-cta.html
+  section_wrap=true
+  section_class="section--yellow"
+%}

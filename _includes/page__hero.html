@@ -23,7 +23,7 @@
 >
   {% if page.header.overlay_color or page.header.overlay_image %}
     <div class="wrapper">
-        <div class="container flex-grid flex-grid-40-60 page__hero-flex-grid {% if overlay_img_path %}" style="background-image: {% if overlay_filter %}{{ overlay_filter }}, {% endif %}url('{{ overlay_img_path }}');{% endif %}">
+        <div class="container flex-grid flex-grid-40-60 page__hero-flex-grid {% if page.header.overlay_image %}page__hero-flex-grid--overlay-image{% endif %}" style="{% if overlay_img_path %}background-image: {% if overlay_filter %}{{ overlay_filter }}, {% endif %}url('{{ overlay_img_path }}');{% endif %}">
             <div class="content col page__hero-flex-grid-left">
             {% if page.header.logo_path %}
                 <img src="{{ page.header.logo_path | relative_url }}" alt="{{ page.title }}" class="page__hero-logo" style="width: 200px;">

@@ -36,7 +36,7 @@
             {% endif %}
             </div>
             {% if f.url %}
-                <p class="archive__item-button"><a href="{{ f.url | relative_url }}" class="btn {{ f.btn_class }}">{{ f.btn_label | default: site.data.ui-text[site.locale].more_label | default: "Learn More" }}</a></p>
+                <p class="archive__item-button"><a href="{{ f.url | relative_url }}" class="btn {{ f.btn_class }}" target="{% if f.target %}{{ f.target }}{% endif %}">{{ f.btn_label | default: site.data.ui-text[site.locale].more_label | default: "Learn More" }}</a></p>
             {% endif %}
         </div>
     {% endfor %}

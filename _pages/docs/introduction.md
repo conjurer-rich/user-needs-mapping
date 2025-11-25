@@ -1,13 +1,8 @@
 ---
 title: "An introduction to User Needs Mapping"
 layout: single
-description: "Learn the fundamentals of User Needs Mapping and how it can align teams to deliver meaningful outcomes."
+excerpt: "Learn the fundamentals of User Needs Mapping and how it can align teams to deliver meaningful outcomes."
 permalink: /docs/introduction-to-user-needs-mapping/
-toc: true
-toc_sticky: true
-toc_label: "An introduction to User Needs Mapping"
-sidebar:
-  nav: docs
 ---
 
 Welcome to User Needs Mapping. In this guide, we'll explore the fundamentals of User Needs Mapping and how it can align teams to deliver meaningful outcomes.

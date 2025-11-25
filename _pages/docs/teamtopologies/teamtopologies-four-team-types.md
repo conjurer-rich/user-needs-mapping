@@ -1,13 +1,13 @@
 ---
 title: "The Four Team Types"
-layout: single
+layout: splash
 description: "Learn about the four fundamental team types in Team Topologies and how they align with User Needs Mapping."
-permalink: /docs/teamtopologies/four-team-types/
-toc: true
-toc_sticky: true
-toc_label: "Overview of the Four Team Types"
-sidebar:
-  nav: docs
+permalink: /docs/teamtopologies/four-team-types
+classes: wide smaller-title
+header: 
+  og_image: /assets/images/books/user_needs_mapping_book_front_cover.png
+  overlay_color: "#3e4a59"
+  overlay_image: /assets/images/banners/banner_top.png
 ---
 
 **The Four Fundamental Team Types**  

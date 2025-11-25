@@ -80,3 +80,24 @@
 .no-padding-top {
   padding-top: 0;
 }
+
+.quick-start-guide .page__content {
+  blockquote {
+    p {
+        font-size: 1.2rem;
+        font-style: italic;
+        margin: 0;
+        line-height: 1.2em;
+    }
+
+    footer {
+      font-size: 1rem;
+      font-weight: bold;
+      margin-top: 1rem;
+    }
+  }
+
+  blockquote footer cite {
+    font-weight: normal;    
+  }
+}

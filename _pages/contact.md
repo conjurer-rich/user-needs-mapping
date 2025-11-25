@@ -1,33 +1,56 @@
 ---
 permalink: /contact
-title: "Contact"
+title: "Let’s start a conversation"
+excerpt: "Whether you’re exploring User Needs Mapping for the first time or looking for guidance on alignment, flow, and team design, I’m here to help. I work with organisations of all sizes to uncover misalignment, clarify purpose, and evolve the structures and interactions needed for fast, sustainable flow."
 layout: splash
 author_profile: false
 header: 
-  overlay_color: "#0EA2F1"
-  overlay_filter: rgba(56, 91, 110, 0.75)
-  overlay_image: /assets/images/workshop-presentation.jpg
-  og_image: /assets/images/Movie-goer-full-user-needs-map.png.jpg
-classes: wide
+  overlay_color: "#3e4a59"
+  overlay_image: /assets/images/banners/banner_top.png
+  og_image: /assets/images/books/user_needs_mapping_book_front_cover.png
+classes: wide smaller-title
 ---
 
-## About Me
+{% include section-image-right-two-col.html
+    section_class="section--about-me section--no-padding-bottom"
+    pullright=true
+    title="About me"
+    main_content="I’m Rich Allen, an independent sociotechnical architect, consultant, and author of User Needs Mapping: Aligning Teams Around What Matters. With over two decades of experience across engineering, product, and organisational design, I’ve helped companies across the UK and Europe improve clarity, reduce friction, and reconnect their teams to the outcomes that matter.
 
-![Profile photo of Rich](/assets/images/Rich Allen Profile - Cropped Square - Colour.jpeg){: .align-right width="20%"}
+As one of the earliest contributors to the development and teaching of Team Topologies, I’ve spent years helping organisations apply modern, humane, flow-centric approaches to team design. My work blends mapping techniques, systems thinking, organisational sense-making, and practical facilitation to help leaders and teams make better structural decisions with confidence.
 
-If you want to learn more about me, read my [bio](https://richallen.info/bio).
+You can find more about my background and broader consultancy work here: [https://richallen.info](https://richallen.info)
 
-## Get in touch
+"
+    image_path="/assets/images/profiles/Rich_Allen_Profile_-_Cropped_Square_-no_bg.png"
+%}
 
-Please feel free to [book some time with me](https://app.reclaim.ai/m/richard-allen/high-priority-meeting). I would be more that happy to discuss how I can help.
+{% include section.html
+    section_class="section--yellow"
+    title="How I help"
+    main_content="I work with leaders, product managers, CTOs, architects, and transformation teams through:
 
-<i class="fa-brands fa-bluesky" title="Blue Sky"></i>
-[@richallen.info](https://bsky.app/profile/richallen.info)
+- **Consulting**  
+  Deep-engagement partnerships (typically 6–12 months) to help organisations apply User Needs Mapping, sense structural friction, and evolve team interactions for better flow.
 
-<i class="fa-brands fa-linkedin" title="LinkedIn"></i>
-[in/richardallen](https://www.linkedin.com/in/richardallen/)  
+- **Workshops**  
+  High-impact, hands-on sessions to help teams build their first maps, diagnose misalignment, and explore safe-to-try structural improvements.
 
-<i class="fas fa-envelope" title="Email"></i>
-[rich@userneedsmapping.com](mailto:rich@userneedsmapping.com)
+- **Coaching**  
+  Ongoing thought partnership — weekly or bi-weekly — for leaders and practitioners who want a sounding board for decisions around flow, team boundaries, and organisational evolution.
 
-Please use the hashtag **#UserNeedsMapping** on social media when discussing the topic.
+You can learn more about these options on the [Workshops & Consulting page](/workshops)."
+%}
+
+{% include section.html
+    section_class="section--yellow"
+    title="If you’d like to get in touch"
+    main_content="Whether you have a question, want to explore a workshop, or simply want to talk through a challenge you’re facing, I’d be happy to hear from you.
+
+- Email: [rich@conjurersolutions.co.uk](mailto:rich@conjurersolutions.co.uk)  
+- LinkedIn: [in/richardallen](https://www.linkedin.com/in/richardallen/)  
+- Book a conversation: [Reclaim](https://app.reclaim.ai/m/richard-allen/high-priority-meeting)  
+- Website: [richallen.info](https://richallen.info)
+
+Every organisational challenge has a human story behind it. Let’s explore yours and see how User Needs Mapping can help you move forward with clarity."
+%}

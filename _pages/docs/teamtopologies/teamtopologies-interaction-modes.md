@@ -1,13 +1,13 @@
 ---
 title: "Interaction Modes in Team Topologies"
-layout: single
-description: "Understand the three interaction modes in Team Topologies and how they enhance collaboration and delivery."
-permalink: /docs/teamtopologies/interaction-modes/
-toc: true
-toc_sticky: true
-toc_label: "Overview of Interaction Modes"
-sidebar:
-  nav: docs
+layout: splash
+excerpt: "Understand the three interaction modes in Team Topologies and how they enhance collaboration and delivery."
+permalink: /docs/teamtopologies/interaction-modes
+classes: wide smaller-title
+header: 
+  og_image: /assets/images/books/user_needs_mapping_book_front_cover.png
+  overlay_color: "#3e4a59"
+  overlay_image: /assets/images/banners/banner_top.png
 ---
 
 **Team Topologies Interaction Modes**  

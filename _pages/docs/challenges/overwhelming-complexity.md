@@ -1,13 +1,13 @@
 ---
 title: "Overwhelming Complexity in User Needs Mapping"
-layout: single
+layout: splash
 description: "Learn how to break down large, complex User Needs Maps into manageable pieces to ensure actionable insights."
-permalink: /docs/challenges/overwhelming-complexity/
-toc_label: "Overwhelming Complexity"
-toc: true
-toc_sticky: true
-sidebar:
-  nav: docs
+permalink: /docs/challenges/overwhelming-complexity
+classes: wide smaller-title
+header: 
+  og_image: /assets/images/books/user_needs_mapping_book_front_cover.png
+  overlay_color: "#3e4a59"
+  overlay_image: /assets/images/banners/banner_top.png
 ---
 
 ## Challenge: Overwhelming Complexity

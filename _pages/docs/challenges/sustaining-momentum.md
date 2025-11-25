@@ -1,13 +1,13 @@
 ---
 title: "Sustaining Momentum in User Needs Mapping"
-layout: single
+layout: splash
 description: "Learn how to maintain engagement and iterate effectively on User Needs Maps to drive continuous improvement."
-permalink: /docs/challenges/sustaining-momentum/
-toc_label: "Resistance to Change"
-toc: true
-toc_sticky: true
-sidebar:
-  nav: docs
+permalink: /docs/challenges/sustaining-momentum
+classes: wide smaller-title
+header: 
+  og_image: /assets/images/books/user_needs_mapping_book_front_cover.png
+  overlay_color: "#3e4a59"
+  overlay_image: /assets/images/banners/banner_top.png
 ---
 
 ## Challenge: Sustaining Momentum

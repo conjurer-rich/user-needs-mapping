@@ -11,8 +11,13 @@
 
   @media (min-width: 768px) {
     background-size: 1024px;
-    min-height: 550px;
   }
+}
+
+.page__hero-flex-grid--overlay-image {
+    @media (min-width: 768px) {
+      min-height: 530px;
+    }
 }
 
 .page__hero--overlay .page__lead  {

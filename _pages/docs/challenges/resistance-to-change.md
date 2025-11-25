@@ -1,13 +1,13 @@
 ---
 title: "Resistance to Change in User Needs Mapping"
-layout: single
+layout: splash
 description: "How to overcome resistance when introducing User Needs Mapping to teams and leadership."
 permalink: /docs/challenges/resistance-to-change
-toc_label: "Resistance to Change"
-toc: true
-toc_sticky: true
-sidebar:
-  nav: docs
+classes: wide smaller-title
+header: 
+  og_image: /assets/images/books/user_needs_mapping_book_front_cover.png
+  overlay_color: "#3e4a59"
+  overlay_image: /assets/images/banners/banner_top.png
 ---
 
 ## Challenge: Resistance to Change

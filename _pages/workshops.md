@@ -2,7 +2,7 @@
 permalink: /workshops
 title: "See your system clearly. Align your teams around what matters"
 layout: splash
-classes: wide
+classes: wide smaller-title
 excerpt: "User Needs Mapping workshops and consulting engagements help you turn clarity into capability. Whether you’re scaling fast, facing alignment challenges, or trying to connect strategy to delivery, these sessions give your teams the shared understanding and structure needed for faster, smoother flow."
 header: 
   overlay_image: /assets/images/banners/banner_top.png

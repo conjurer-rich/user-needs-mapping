@@ -1,13 +1,14 @@
 ---
 title: "Common Challenges in User Needs Mapping"
-layout: single
-description: "An overview of common challenges in User Needs Mapping and strategies to overcome them."
+layout: splash
+excerpt: "An overview of common challenges in User Needs Mapping and strategies to overcome them."
 permalink: /docs/challenges
-toc_label: "Example: Passenger"
-toc: true
-toc_sticky: true
-sidebar:
-  nav: docs
+classes: wide smaller-title
+header: 
+  og_image: /assets/images/books/user_needs_mapping_book_front_cover.png
+  overlay_color: "#3e4a59"
+  overlay_image: /assets/images/banners/banner_top.png
+
 ---
 
 **Overcome common challenges in User Needs Mapping.**  

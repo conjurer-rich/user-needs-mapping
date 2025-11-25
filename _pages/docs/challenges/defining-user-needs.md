@@ -1,13 +1,13 @@
 ---
-layout: single
+layout: splash
 title: "Effective User Needs Definition"
-description: "Guidelines for articulating and validating user needs in mapping exercises"
-toc_label: "Defining User Needs"
-toc: true
-toc_sticky: true
-sidebar:
-  nav: docs
+excerpt: "Guidelines for articulating and validating user needs in mapping exercises"
 permalink: /docs/challenges/defining-user-needs
+classes: wide smaller-title
+header: 
+  og_image: /assets/images/books/user_needs_mapping_book_front_cover.png
+  overlay_color: "#3e4a59"
+  overlay_image: /assets/images/banners/banner_top.png
 ---
 
 ## Challenge: Difficulty Defining User Needs

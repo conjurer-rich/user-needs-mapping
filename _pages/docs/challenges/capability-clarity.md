@@ -1,13 +1,13 @@
 ---
 title: "Lack of Clarity Around Capabilities in User Needs Mapping"
-layout: single
-description: "Improve understanding of systems, tools, and processes to map capabilities effectively in User Needs Mapping."
-permalink: /docs/challenges/capability-clarity/
-toc_label: "Lack of Clarity Around Capabilities"
-toc: true
-toc_sticky: true
-sidebar:
-  nav: docs
+layout: splash
+excerpt: "Improve understanding of systems, tools, and processes to map capabilities effectively in User Needs Mapping."
+permalink: /docs/challenges/capability-clarity
+header: 
+  og_image: /assets/images/books/user_needs_mapping_book_front_cover.png
+  overlay_color: "#3e4a59"
+  overlay_image: /assets/images/banners/banner_top.png
+classes: wide smaller-title
 ---
 
 ## Challenge: Lack of Clarity Around Capabilities

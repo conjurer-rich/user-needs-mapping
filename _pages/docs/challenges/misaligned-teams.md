@@ -1,13 +1,13 @@
 ---
 title: "Misaligned Team Ownership in User Needs Mapping"
-layout: single
+layout: splash
 description: "Learn how to align team structures with user needs and capabilities to reduce confusion and inefficiencies."
-permalink: /docs/challenges/misaligned-teams/
-toc_label: "Misaligned Team Ownership"
-toc: true
-toc_sticky: true
-sidebar:
-  nav: docs
+permalink: /docs/challenges/misaligned-teams
+classes: wide smaller-title
+header: 
+  og_image: /assets/images/books/user_needs_mapping_book_front_cover.png
+  overlay_color: "#3e4a59"
+  overlay_image: /assets/images/banners/banner_top.png
 ---
 
 ## Challenge: Misaligned Team Ownership
