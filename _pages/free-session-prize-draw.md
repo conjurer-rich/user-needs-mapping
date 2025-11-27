@@ -1,11 +1,13 @@
 ---
-permalink: /free-session-prize-draw
-title: "Free Session Prize Draw"
+permalink: /book-giveaway
+title: "Book Giveaway"
 layout: splash
-
+redirect_from:
+  - /free-session-prize-draw
+  - /black-friday-book-giveaway
 ---
 
-## 🎉 BLACK FRIDAY prize draw
+## 🎉 BLACK FRIDAY Book Giveaway
 
 Win one of 10 x *FREE* copies of my new book: User Needs Mapping: Aligning Teams Around What Matters.
 
