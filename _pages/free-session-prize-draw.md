@@ -7,14 +7,11 @@ redirect_from:
   - /black-friday-book-giveaway
 ---
 
-## 🎉 BLACK FRIDAY Book Giveaway
+## 🎉 BLACK FRIDAY Book Giveaway - NOW CLOSED
 
-Win one of 10 x *FREE* copies of my new book: User Needs Mapping: Aligning Teams Around What Matters.
+Thanks for your interest in our giveaway. Unfortunately the giveaway is now closed but I'm sure we will run another give away soon, so please stay tuned.
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdJzY5E5yv1cNkawU71-RasgG_5Gsfn2eKkaHY4G_h5L57n_w/viewform?embedded=true" style="width: 100%; height: 210vh; border: none; margin: 0; padding: 0;"
->Loading…</iframe>
-
-I'd love to connect with you and understand a bit more about how you think User Needs Mapping might be useful for your organisation, let's connect: <i class="fa-brands fa-linkedin" title="LinkedIn"></i>
+If we are not connected already, I'd love to connect with you on LinkedIn and understand a bit more about how you think User Needs Mapping might be useful for your organisation, let's connect: <i class="fa-brands fa-linkedin" title="LinkedIn"></i>
 [in/richardallen](https://www.linkedin.com/in/richardallen/)  
 
 ---
